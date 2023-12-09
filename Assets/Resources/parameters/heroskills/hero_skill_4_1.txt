@@ -1,0 +1,4 @@
+skill_level,physics_armor_bonus,magic_armor_bonus,duration,cooldown_time,description
+0,100,100,1500,30000,Tang armor physics va magic len 100% (immunity) trong 1 khoang thoi gian.
+1,100,100,2000,60000,Tang armor physics va magic len 100% (immunity) trong 1 khoang thoi gian.
+2,100,100,3000,60000,Tang armor physics va magic len 100% (immunity) trong 1 khoang thoi gian.

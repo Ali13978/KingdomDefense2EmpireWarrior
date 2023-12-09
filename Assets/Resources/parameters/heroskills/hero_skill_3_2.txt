@@ -1,0 +1,4 @@
+skill_level,skill_range,slow_percent,damage_burn,duration,cooldown_time,description
+0,100,75,3,4000,30000,"Tao vung dat bang, slow va damage DOT"
+1,100,75,5,4000,30000,"Tao vung dat bang, slow va damage DOT"
+2,100,75,7,4000,30000,"Tao vung dat bang, slow va damage DOT"

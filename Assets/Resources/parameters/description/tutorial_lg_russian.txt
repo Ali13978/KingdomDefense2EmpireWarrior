@@ -1,0 +1,37 @@
+tut_id,tut_description
+choose_map_step_0,Давайте начнём!
+start_game_step_0,Выберите героя
+start_game_step_1,Начнём игру!
+call_enemy_step_0,Коснитесь экрана @ для начала битвы
+call_enemy_step_1,подтвердить!
+build_tower_step_0,Коснитесь экрана @ чтобы построить башню
+build_first_tower_step_0,Построить для @ блокирования врагов
+build_first_tower_step_1,Подтвердите сборку!
+build_second_tower_step_0,Повреждение здания
+build_second_tower_step_1,Подтвердите сборку!
+build_third_tower_step_0,Создайте золото
+build_third_tower_step_1,Подтвердите сборку!
+speed_button,Используйте для @ ускорения!
+move_hero_step_0,Коснитесь экрана @ для выбора героя
+move_hero_step_1,Коснитесь места @ в которое вы хотите идти
+hero_skill_step_0,Коснитесь экрана @ для выбора способности
+hero_skill_step_1,Коснитесь места@чтобы применить способность
+unlock_hero_step_0,Разблокирован новый герой!
+unlock_hero_step_1,Коснитесь экрана для выбора нового героя
+unlock_hero_step_2,"Коснитесь экрана, чтобы разблокировать"
+upgrade_hero_step_0,Выберите героя для обновления
+upgrade_hero_step_1,Обновите уровень героев!
+upgrade_tower_step_0,Давайте увеличим ваши башни!
+upgrade_tower_step_1,Выберите желаемую способность
+upgrade_tower_step_2,И обновите его!
+open_lucky_chest_step_1_first_chest,"Нажмите, чтобы открыть окно."
+open_lucky_chest_step_2_second_chest,"Нажмите, чтобы открыть окно."
+open_lucky_chest_step_3_third_chest,"Нажмите, чтобы открыть окно."
+open_lucky_chest_step_4_free_chest,"Нажмите, чтобы получить еще 3 коробки!"
+open_lucky_chest_step_5_auto_open,"Нажмите, чтобы открыть окно быстро!"
+open_lucky_chest_step_6_free_chest_again,"Нажмите, чтобы получить еще 3 коробки!"
+open_lucky_chest_step_7_auto_open_again,"Нажмите, чтобы открыть окно быстро!"
+open_lucky_chest_step_8_continue,Продолжайте свое приключение!
+use_hero_skill_point_step_0,Улучшите умения вашего героя!
+use_hero_skill_point_step_1,Коснитесь для выбора Героя
+use_hero_skill_point_step_2,"Используйте очки умений, чтобы увеличить уровень умений!"

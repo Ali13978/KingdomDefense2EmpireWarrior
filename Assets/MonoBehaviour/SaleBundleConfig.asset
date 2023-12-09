@@ -1,0 +1,432 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29515731a033c476c4e41b5ba4575b14, type: 3}
+  m_Name: "SaleBundleConfig"
+  m_EditorClassIdentifier: 
+  SheetName: "Assets\x2fQuickSheet\x2fGameConfig\x2fSaleBundleConfig\x2fSaleBundleConfig.xlsx"
+  WorksheetName: "SaleBundleConfig"
+  dataArray:
+  - id: "0"
+    title: "Starter Bundle"
+    productid: "kd.sale.bundle.starter"
+    bundletype: "TimeLimited"
+    timecountdown: 48
+    condition: 0
+    heroid: 
+    herolevel: -1
+    havepet: 0
+    itemids: 00000000010000000200000003000000
+    itemquatities: 05000000050000000500000005000000
+    gembonus: 300
+    originalprice: 4.25
+    defaultprice: 1.99
+    saleoffpercent: 50
+    subcribedur: -1
+  - id: "1"
+    title: "Daily booster"
+    productid: "kd.sale.bundle.dailybooster"
+    bundletype: "Subscription"
+    timecountdown: -1
+    condition: -1
+    heroid: 
+    herolevel: -1
+    havepet: 0
+    itemids: 04000000050000000600000007000000
+    itemquatities: 07000000070000000E00000007000000
+    gembonus: 0
+    originalprice: 20.875
+    defaultprice: 3.99
+    saleoffpercent: 85
+    subcribedur: 7
+  - id: "2"
+    title: "God of the sun"
+    productid: "kd.sale.bundle.phoenix"
+    bundletype: "OneTimeOnly"
+    timecountdown: -1
+    condition: -1
+    heroid: 0B000000
+    herolevel: 9
+    havepet: 1
+    itemids: 
+    itemquatities: 
+    gembonus: 0
+    originalprice: 63.75
+    defaultprice: 39.99
+    saleoffpercent: 50
+    subcribedur: -1
+  - id: "3"
+    title: "God of metal"
+    productid: "kd.sale.bundle.steeldragon"
+    bundletype: "OneTimeOnly"
+    timecountdown: -1
+    condition: -1
+    heroid: 0A000000
+    herolevel: 9
+    havepet: 1
+    itemids: 
+    itemquatities: 
+    gembonus: 0
+    originalprice: 63.75
+    defaultprice: 39.99
+    saleoffpercent: 50
+    subcribedur: -1
+  - id: "4"
+    title: "I am Thor! Son of Odin"
+    productid: "kd.sale.bundle.thor"
+    bundletype: "OneTimeOnly"
+    timecountdown: -1
+    condition: -1
+    heroid: 06000000
+    herolevel: 0
+    havepet: 0
+    itemids: 00000000060000000700000008000000
+    itemquatities: 05000000050000000500000005000000
+    gembonus: 900
+    originalprice: 26.5
+    defaultprice: 14.99
+    saleoffpercent: 53
+    subcribedur: -1
+  - id: "5"
+    title: "Ruler of Darkness"
+    productid: "kd.sale.bundle.njnjaassassin"
+    bundletype: "OneTimeOnly"
+    timecountdown: -1
+    condition: -1
+    heroid: 07000000
+    herolevel: 0
+    havepet: 0
+    itemids: 02000000030000000400000005000000
+    itemquatities: 07000000070000000700000007000000
+    gembonus: 900
+    originalprice: 25.3
+    defaultprice: 14.99
+    saleoffpercent: 48
+    subcribedur: -1
+  - id: "6"
+    title: "Science pioneer"
+    productid: "kd.sale.bundle.tristana"
+    bundletype: "OneTimeOnly"
+    timecountdown: -1
+    condition: -1
+    heroid: 08000000
+    herolevel: 0
+    havepet: 0
+    itemids: 000000000100000008000000
+    itemquatities: 050000000500000005000000
+    gembonus: 300
+    originalprice: 17.25
+    defaultprice: 9.99
+    saleoffpercent: 52
+    subcribedur: -1
+  - id: "7"
+    title: "King of the jungle"
+    productid: "kd.sale.bundle.junglelord"
+    bundletype: "OneTimeOnly"
+    timecountdown: -1
+    condition: -1
+    heroid: 09000000
+    herolevel: 0
+    havepet: 0
+    itemids: 020000000400000006000000
+    itemquatities: 050000000500000005000000
+    gembonus: 300
+    originalprice: 18.25
+    defaultprice: 9.99
+    saleoffpercent: 55
+    subcribedur: -1
+  - id: "8"
+    title: "Queen of the nature"
+    productid: "kd.sale.bundle.naturequeen"
+    bundletype: "OneTimeOnly"
+    timecountdown: -1
+    condition: -1
+    heroid: 05000000
+    herolevel: 0
+    havepet: 0
+    itemids: 000000000200000007000000
+    itemquatities: 050000000500000005000000
+    gembonus: 200
+    originalprice: 18.5
+    defaultprice: 9.99
+    saleoffpercent: 57
+    subcribedur: -1
+  - id: "9"
+    title: "Land guadian"
+    productid: "kd.sale.bundle.golem"
+    bundletype: "OneTimeOnly"
+    timecountdown: -1
+    condition: -1
+    heroid: 04000000
+    herolevel: 0
+    havepet: 0
+    itemids: 010000000300000006000000
+    itemquatities: 050000000500000005000000
+    gembonus: 200
+    originalprice: 17.25
+    defaultprice: 9.99
+    saleoffpercent: 52
+    subcribedur: -1
+  - id: "10"
+    title: "Sorcery master"
+    productid: "kd.sale.bundle.shamanking"
+    bundletype: "OneTimeOnly"
+    timecountdown: -1
+    condition: -1
+    heroid: 03000000
+    herolevel: 0
+    havepet: 0
+    itemids: 030000000500000008000000
+    itemquatities: 050000000500000005000000
+    gembonus: 200
+    originalprice: 18.125
+    defaultprice: 9.99
+    saleoffpercent: 55
+    subcribedur: -1
+  - id: "11"
+    title: "Combine 3 heroes"
+    productid: "kd.sale.bundle.comboherotrinity"
+    bundletype: "TimeLimited"
+    timecountdown: 48
+    condition: 2
+    heroid: 030000000400000005000000
+    herolevel: 0
+    havepet: 0
+    itemids: 
+    itemquatities: 
+    gembonus: 0
+    originalprice: 50
+    defaultprice: 19.99
+    saleoffpercent: 50
+    subcribedur: -1
+  - id: "12"
+    title: "Lan-Sky Duo"
+    productid: "kd.sale.bundle.comboherolanskyduo"
+    bundletype: "TimeLimited"
+    timecountdown: 48
+    condition: 4
+    heroid: 0A00000009000000
+    herolevel: 0
+    havepet: 0
+    itemids: 
+    itemquatities: 
+    gembonus: 0
+    originalprice: 50
+    defaultprice: 19.99
+    saleoffpercent: 33
+    subcribedur: -1
+  - id: "13"
+    title: "Two God"
+    productid: "kd.sale.bundle.comboherotwogod"
+    bundletype: "TimeLimited"
+    timecountdown: 48
+    condition: 5
+    heroid: 0A0000000B000000
+    herolevel: 0
+    havepet: 0
+    itemids: 
+    itemquatities: 
+    gembonus: 0
+    originalprice: 50
+    defaultprice: 19.99
+    saleoffpercent: 25
+    subcribedur: -1
+  - id: "14"
+    title: "Buy Hero Max Level"
+    productid: "kd.sale.hero.max.level"
+    bundletype: 
+    timecountdown: -1
+    condition: -1
+    heroid: 
+    herolevel: -1
+    havepet: 0
+    itemids: 
+    itemquatities: 
+    gembonus: 0
+    originalprice: 50
+    defaultprice: 4.99
+    saleoffpercent: 85
+    subcribedur: -1
+  - id: "15"
+    title: "Buy Hero Pet"
+    productid: "kd.sale.hero.pet"
+    bundletype: 
+    timecountdown: -1
+    condition: -1
+    heroid: 
+    herolevel: -1
+    havepet: 0
+    itemids: 
+    itemquatities: 
+    gembonus: 0
+    originalprice: 50
+    defaultprice: 4.99
+    saleoffpercent: 70
+    subcribedur: -1
+  - id: "16"
+    title: "Attack booster I"
+    productid: "kd.sale.bundle.boosterone"
+    bundletype: 
+    timecountdown: -1
+    condition: -1
+    heroid: 
+    herolevel: -1
+    havepet: 0
+    itemids: 
+    itemquatities: 32000000
+    gembonus: 0
+    originalprice: 1.99
+    defaultprice: 1.99
+    saleoffpercent: 0
+    subcribedur: 1
+  - id: "17"
+    title: "Attack booster II"
+    productid: "kd.sale.bundle.boostertwo"
+    bundletype: 
+    timecountdown: -1
+    condition: -1
+    heroid: 
+    herolevel: -1
+    havepet: 0
+    itemids: 
+    itemquatities: 64000000
+    gembonus: 0
+    originalprice: 4.99
+    defaultprice: 4.99
+    saleoffpercent: 0
+    subcribedur: 7
+  - id: 
+    title: 
+    productid: 
+    bundletype: 
+    timecountdown: 0
+    condition: 0
+    heroid: 
+    herolevel: 0
+    havepet: 0
+    itemids: 
+    itemquatities: 
+    gembonus: 0
+    originalprice: 0
+    defaultprice: 0
+    saleoffpercent: 0
+    subcribedur: 0
+  - id: 
+    title: 
+    productid: 
+    bundletype: 
+    timecountdown: 0
+    condition: 0
+    heroid: 
+    herolevel: 0
+    havepet: 0
+    itemids: 
+    itemquatities: 
+    gembonus: 0
+    originalprice: 0
+    defaultprice: 0
+    saleoffpercent: 0
+    subcribedur: 0
+  - id: 
+    title: 
+    productid: 
+    bundletype: 
+    timecountdown: 0
+    condition: 0
+    heroid: 
+    herolevel: 0
+    havepet: 0
+    itemids: 
+    itemquatities: 
+    gembonus: 0
+    originalprice: 0
+    defaultprice: 0
+    saleoffpercent: 0
+    subcribedur: 0
+  - id: 
+    title: 
+    productid: 
+    bundletype: 
+    timecountdown: 0
+    condition: 0
+    heroid: 
+    herolevel: 0
+    havepet: 0
+    itemids: 
+    itemquatities: 
+    gembonus: 0
+    originalprice: 0
+    defaultprice: 0
+    saleoffpercent: 0
+    subcribedur: 0
+  - id: 
+    title: 
+    productid: 
+    bundletype: 
+    timecountdown: 0
+    condition: 0
+    heroid: 
+    herolevel: 0
+    havepet: 0
+    itemids: 
+    itemquatities: 
+    gembonus: 0
+    originalprice: 0
+    defaultprice: 0
+    saleoffpercent: 0
+    subcribedur: 0
+  - id: 
+    title: 
+    productid: 
+    bundletype: 
+    timecountdown: 0
+    condition: 0
+    heroid: 
+    herolevel: 0
+    havepet: 0
+    itemids: 
+    itemquatities: 
+    gembonus: 0
+    originalprice: 0
+    defaultprice: 0
+    saleoffpercent: 0
+    subcribedur: 0
+  - id: 
+    title: 
+    productid: 
+    bundletype: 
+    timecountdown: 0
+    condition: 0
+    heroid: 
+    herolevel: 0
+    havepet: 0
+    itemids: 
+    itemquatities: 
+    gembonus: 0
+    originalprice: 0
+    defaultprice: 0
+    saleoffpercent: 0
+    subcribedur: 0
+  - id: 
+    title: 
+    productid: 
+    bundletype: 
+    timecountdown: 0
+    condition: 0
+    heroid: 
+    herolevel: 0
+    havepet: 0
+    itemids: 
+    itemquatities: 
+    gembonus: 0
+    originalprice: 0
+    defaultprice: 0
+    saleoffpercent: 0
+    subcribedur: 0

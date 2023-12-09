@@ -1,0 +1,21 @@
+id,level,ultimate_id,skill_id,name,ultimate_name,ultimate_description
+0,3,0,0,Archer,Multi-Shot,# Lance de puissantes flèches dans la formation de l'ennemi et inflige des dégâts dans une zone étendue.
+0,3,0,1,Archer,Freezing Arrow,# A une chance d'imprégner les flèches avec de la glace.
+0,4,1,0,Archer,Assassiner,# A {0}% de chance de tuer immédiatement l'adversaire.
+0,4,1,1,Archer,Coup critique,# Les ennemis touchés subissent {0}% de dégâts supplémentaires d'une autre source pendant l'activation de la compétence.
+1,3,0,0,Infantry,Steel Bulwark,# Augmente la défense de l’infanterie.
+1,3,0,1,Infantry,Dexterity,# Équipes d'infanterie avec une hache a lancer pour abattre les ennemis de loin.
+1,4,1,0,Infantry,Vigueur,# Donne {0}% de chances de contre attaque des ennemis avec un gros coup.
+1,4,1,1,Infantry,Tempête de lame,# Libère des attaques consécutives de {0} hits. Temps de recharge {1}s.
+2,3,0,0,Canonneer,Precision,# Lance un rocher mortel vers l'ennemi avec la plus haute santé et ses environs.
+2,3,0,1,Canonneer,Hellfire Cannonball,# Lance un rocher recouvert de lave qui laisse derrière lui une traînée de feu.
+2,4,1,0,Canonneer,Rocher lourd,# Chaque seconde a {0}% de chances d'étourdir {1} l'adversaire pour {2} s.
+2,4,1,1,Canonneer,Coup de foudre,# Lance un lance-foudre qui inflige {0} dégâts à l'ennemi (s){1} dans la zone d'attaque. Temps de recharge {2}s.
+3,3,0,0,Magic Dragon,Reinforcement,# Invoque des bébés dragons sur le champ de bataille sous le commandement de la tour.
+3,3,0,1,Magic Dragon,Dragon's Blessing,# Le dragon bénit les alliés proches avec une aura qui guérit et augmente leur vitesse d'attaque.
+3,4,1,0,Magic Dragon,Pousser,# Poussez {0} ennemis sur une courte distance avec une force antique. Temps de recharge {1}s.
+3,4,1,1,Magic Dragon,Intimider,# Réduit {0}% la résistance magique des ennemis proches.
+4,3,0,0,Priest,Coming Soon,# Arrive bientôt
+4,3,0,1,Priest,Coming Soon,# Arrive bientôt
+4,4,1,0,Priest,none,# none
+4,4,1,1,Priest,none,# none

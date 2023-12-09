@@ -1,0 +1,21 @@
+id,level,ultimate_id,skill_id,name,ultimate_name,ultimate_description
+0,3,0,0,Archer,Multi-Shot,"# Lanza poderosas flechas en la formación del enemigo, infligiendo daño en un área amplia."
+0,3,0,1,Archer,Freezing Arrow,# Tiene la posibilidad de imbuir a las flechas con hielo.
+0,4,1,0,Archer,Assassinate,# Tiene {0}% de oportunidad de matar inmediatamente al oponente. 
+0,4,1,1,Archer,Critical Shot,# Golpear enemigos toma {0}% de daño incrementado de otra fuente durante la activación de la habilidad. 
+1,3,0,0,Infantry,Steel Bulwark,# Incrementa la defensa de Infantería.
+1,3,0,1,Infantry,Dexterity,# Equipa a las infanterías con hachas arrojadizas para derribar enemigos desde lejos.
+1,4,1,0,Infantry,Vigor,# Otorga un {0}% de probabilidad de contrarrestar el ataque de los enemigos con un golpe penetrante.
+1,4,1,1,Infantry,Blade Storm,# Lanza un ataque consecutivo de {0} golpes. Recuperación {1} s.
+2,3,0,0,Canonneer,Precision,# Lanza una roca mortal al enemigo con la salud más alta y su entorno.
+2,3,0,1,Canonneer,Hellfire Cannonball,# Lanza rocas cubiertas de lava que dejan un rastro de fuego.
+2,4,1,0,Canonneer,Heavy Boulder,# Cada segundo tiene un {0}% de probabilidad de aturdir a {1} oponente por {2}s.
+2,4,1,1,Canonneer,ThunderBolt,# Lanza una lanza relámpago que inflige {0} de daño a {1} enemigo (s) dentro del alcance del ataque. Recuperación {2} s.
+3,3,0,0,Magic Dragon,Reinforcement,# Invocar dragones bebé en el campo de batalla bajo el comando de la torre.
+3,3,0,1,Magic Dragon,Dragon's Blessing,# El dragón bendice a los aliados cercanos con un aura que sana y aumenta la velocidad de ataque.
+3,4,1,0,Magic Dragon,Shove,# Empuja {0} enemigos a una corta distancia con una fuerza antigua. Recuperación {1}s.
+3,4,1,1,Magic Dragon,Intimidate,# Reduce {0}% resistencia a la magia de enemigos cercanos.
+4,3,0,0,Priest,Coming Soon,# Muy pronto
+4,3,0,1,Priest,Coming Soon,# Muy pronto
+4,4,1,0,Priest,none,# none
+4,4,1,1,Priest,none,# none

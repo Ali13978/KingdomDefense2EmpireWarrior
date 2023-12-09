@@ -1,0 +1,4 @@
+skill_level,chance_to_instant_kill,duration,description
+0,30,9999999,Xac suat one hit chet enemy
+1,40,9999999,Xac suat one hit chet enemy
+2,50,9999999,Xac suat one hit chet enemy

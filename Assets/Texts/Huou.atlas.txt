@@ -1,0 +1,34 @@
+
+Huou.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 106
+  rotate: false
+  xy: 2, 178
+  size: 579, 841
+  orig: 579, 841
+  offset: 0, 0
+  index: -1
+Layer 120
+  rotate: true
+  xy: 2, 2
+  size: 174, 236
+  orig: 174, 236
+  offset: 0, 0
+  index: -1
+Layer 121
+  rotate: false
+  xy: 583, 168
+  size: 176, 851
+  orig: 176, 851
+  offset: 0, 0
+  index: -1
+Layer 122
+  rotate: false
+  xy: 761, 872
+  size: 73, 147
+  orig: 73, 147
+  offset: 0, 0
+  index: -1

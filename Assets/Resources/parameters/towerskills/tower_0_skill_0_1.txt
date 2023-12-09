@@ -1,0 +1,4 @@
+skill_level,chance_to_cast_skill,damage,slow_percent,slow_time,buffkey,description
+0,5,12,100,3000,Slow,Ban mui ten gay dong bang
+1,10,12,100,3000,Slow,Ban mui ten gay dong bang
+2,15,12,100,3000,Slow,Ban mui ten gay dong bang

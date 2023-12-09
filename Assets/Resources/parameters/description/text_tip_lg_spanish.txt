@@ -1,0 +1,43 @@
+level,id,text_tip_content
+0,0,Construye torres defensivas para alejar a los enemigos y proteger tu reino.
+0,1,Los héroes lucharán junto a ti.
+0,2,Intenta vencer a los enemigos lo más rápido posible antes de viajar demasiado lejos.
+1,0,Las infanterías pueden bloquear el camino de los enemigos.
+1,1,Los cañoneros infligen daño de AoE.
+1,2,Usa estrellas acumuladas para mejorar tu habilidad.
+2,0,Usa infantería y cañoneros para maximizar el daño.
+2,1,Dragón Mágico dispará temibles esferas mágicas a los enemigos.
+2,2,Los héroes obtienen EXP de derrotar a los enemigos.
+3,0,Los arqueros y los dragones mágicos pueden atacar a los enemigos voladores.
+3,1,Las infanterías mejoradas pueden mantener a los enemigos más tiempo.
+3,2,Puedes traer hasta 3 héroes por partida.
+4,0,Puedes actualizar y comprar un nuevo héroe en Hero Camp.
+4,1,Los arqueros y los dragones mágicos pueden atacar a los enemigos voladores.
+4,2,Las flechas de los arqueros pueden atrapar enemigos rápidos.
+5,0,"Frost Gem congela toda la pantalla, dejando espacios para que te prepares."
+5,1,"Llama a los enemigos temprano para obtener mejores ingresos de oro, también restablece el tiempo de recuperación de habilidades de todos los héroes."
+5,2,Los arqueros con la mejora definitiva pueden desacelerar a los enemigos al congelarlos.
+6,0,Los Dragones Mágicos son efectivos con enemigos de alta resistencia física.
+6,1,Los Dragones Mágicos con Ultimate Mejorado puede curar a los aliados cercanos.
+6,2,Usa infantería y cañoneros para maximizar el daño.
+7,0,Las infanterías mejoradas pueden mantener a los enemigos más tiempo.
+7,1,Puedes actualizar y comprar un nuevo héroe en Hero Camp.
+7,2,Dragón Mágico con Ultimate Mejorado puede curar a los aliados cercanos.
+8,0,Dragón Mágico dispara temibles esferas mágicas a los enemigos.
+8,1,Dragón Mágico con Ultimate upgrade puede curar a los aliados cercanos.
+8,2,Visita nuestra Fanpage para hablar sobre estrategias y tácticas.
+9,0,Las infanterías con la actualización definitiva pueden atacar a los enemigos desde lejos.
+9,1,Las infanterías mejoradas pueden mantener a los enemigos más tiempo.
+9,2,Elegir los Héroes y Torres adecuados tiene un gran impacto en el resultado.
+10,0,Tómate tu tiempo para defenderse de los enemigos mediante el uso de elementos de encendido.
+10,1,Puedes traer hasta 3 héroes por partida.
+10,2,Mejora el nivel de héroes con gemas en Hero Camp.
+11,0,Mantén a los enemigos en posición todo el tiempo que puedas para vencerlos.
+11,1,Desafía el mapa de nuevo para EXP extra.
+11,2,Mejora el nivel de héroes con gemas en Hero Camp.
+12,0,CONSEJO: El segundo Ultimate del Artillero puede ralenzitar a los grupos enemigos. 
+13,0,CONSEJO: El segundo Ultimate del Artillero puede ralenzitar a los grupos enemigos. 
+14,0,"CONSEJO: El segundo Ultimate de Infantería penetra la defensa, y se vuelve útil con los enemigos de altas defensas. "
+15,0,"CONSEJO: El segundo Ultimate de Infantería penetra la defensa, y se vuelve útil con los enemigos de altas defensas. "
+16,0,"CONSEJO: El Dragón Mágico dispara su rayo láser en una línea recta, lo que funciona mejor en una zona lineal."
+17,0,Advertencia:  Zona del Jefe. Deténgalos con todas sus fuerzas usando los Ultimates de la torre. 

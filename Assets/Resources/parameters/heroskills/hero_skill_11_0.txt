@@ -1,0 +1,4 @@
+skill_level,skill_range,fire_road_duration,magic_damage,cooldown_time,use_type,desc
+0,80,3500,150,55000,TapNClickToUse,"Blazing road, tao mot duong lua ngang man hinh, deal dam len quai cham phai"
+1,80,2000,160,55000,TapNClickToUse,
+2,80,2500,190,55000,TapNClickToUse,

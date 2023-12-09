@@ -1,0 +1,14 @@
+tip_id,tip_name,tip_description
+0,Giáp Vật Lý,Quái có giáp vật lý sẽ nhận ít sát thương hơn từ Archer Knigts và God Stone.
+1,Giáp Phép Thuật,Quái có giáp phép sẽ nhận ít sát thương hơn từ Magic Dragon.
+2,Quái Bay,Lưu ý: Quái bay chỉ nhận sát thương từ Archer và Magic Dragon!
+3,Điều Khiển Knights,Knights sẽ rất hữu ích nếu đứng đúng vị trí.
+4,Chiến Thuật,Kết hợp cả 4 trụ để tiêu diệt được nhiều quái hơn.
+5,Nhiệm Vụ, Không cho quái vượt qua lá cờ màu xanh.
+6,Nhận Vàng,Giết thật nhiều quái để nhận vàng xây trụ.
+7,Giới Thiệu Trụ Mới,Sử dụng tất cả các loại trụ để tiêu diệt quái.
+8,Giới Thiệu Trụ Mới,Sử dụng tất cả các loại trụ để tiêu diệt quái.
+9,Giới Thiệu Trụ Mới,Archer Stone God và Magic Dragon @ có thể nâng cấp lên Level 2!
+10,Giới Thiệu Trụ Mới,Archer và Stone God @ có thể nâng cấp lên Level 3!
+11,New Tower Introdution,Knights @ có thể nâng cấp lên Level 3!
+12,New Tower Introdution,Magic Dragon @ có thể nâng cấp lên Level 3!

@@ -1,0 +1,4 @@
+skill_level,number_clone,parameter_Scale,duration,cooldown_time,description
+0,1,50,6000,16000,Tạo clone
+1,1,60,7000,16000,Tạo clone
+2,1,75,8000,16000,Tạo clone

@@ -1,0 +1,49 @@
+id,name,skill_id,short_description,full_description,skill_name,skill_type,skill_description,skill_unlock
+0,WuKong,0,Coming Soon,Coming Soon,Soul Split,발동형,오공이 자신의 공격력 {1}%를 가진 {0}개의 분신을 잠깐동안 소환합니다.,열림
+0,WuKong,1,Coming Soon,Coming Soon,Fury Ruyi Bang,유지형,오공이 자신의 지팡이를 넓게 휘둘러 주변의 적에게 {0}% 피해를 가합니다.,레벨3에 열립니다.
+0,WuKong,2,Coming Soon,Coming Soon,Iron Hide,유지형,적으로부터 받는 피해를 {0}% 감소시킵니다.,레벨6에 열립니다.
+0,WuKong,3,Coming Soon,Coming Soon,Unyielding,유지형,주변의 적에 비례하여 오공의 방어력을{0}% 증가시킵니다.,레벨8에 열립니다.
+1,Ashi,0,Coming Soon,Coming Soon,Make It Rain,발동형,선택된 지점에 수정화살을 떨어뜨려 적에게 {0} 피해를 가합니다.,열림
+1,Ashi,1,Coming Soon,Coming Soon,Lethal Arrow,유지형,{0}%의 확률로 적의 약점을 찾아 치명타를 가합니다.,레벨3에 열립니다.
+1,Ashi,2,Coming Soon,Coming Soon,Rapid Shot,유지형,Ashi의 감각을 집중해 {0} 초 동안 공격 속도가 대폭적으로 증가합니다.,레벨6에 열립니다.
+1,Ashi,3,Coming Soon,Coming Soon,Frostbite,유지형,마법의 공을 발사해 적들을 {0}% 둔화시킵니다.,레벨8에 열립니다.
+2,Sir Galahad,0,Coming Soon,Coming Soon,Legion of Light,발동형,Galahad 자신의 공격력 {0}%를 가진 천상의 가디언을 소환합니다.,열림
+2,Sir Galahad,1,Coming Soon,Coming Soon,Holy Shield,유지형,피해를 입을 때 Galahad의 방어력을 {0}% 증가 할 찬스가 주어집니다.,레벨3에 열립니다.
+2,Sir Galahad,2,Coming Soon,Coming Soon,Zeal,유지형,강력한 공격을 매 {0} 번째 공격에 가합니다.,레벨6에 열립니다.
+2,Sir Galahad,3,Coming Soon,Coming Soon,Armageddon,유지형,검을 휘둘러 사거리 내의 적에게 {0} 피해를 가하고 기절시킵니다.,레벨8에 열립니다.
+3,Shaman King,0,Coming Soon,Coming Soon,Meteor,발동형,Shaman King이 지정된 구역에 유성을 떨어뜨려 {0} 피해를 가합니다.,열림
+3,Shaman King,1,Coming Soon,Coming Soon,Concentration,유지형,마력의 파동으로 Shaman King의 공격 속도를 {0} 올려주고 피해량을 {1} 증가시킵니다.,레벨3에 열립니다.
+3,Shaman King,2,Coming Soon,Coming Soon,Frozen Kingdom,유지형,지정한 지역을 얼리고 솟아나는 가시로 지나가는 적들에게 {0} 피해를 1 초마다 가합니다.,레벨6에 열립니다.
+3,Shaman King,3,Coming Soon,Coming Soon,Lightning Spark,유지형,강력한 전격으로 지정된 위치를 폭발시키고 적을 감전시켜 {0} 피해를 가합니다.,레벨8에 열립니다.
+4,Lava Golem,0,Coming Soon,Coming Soon,Earthquake,발동형,다수의 불타는 바위를 소환해 지상의 적들에게 {0} 피해를 가하고 기절시킵니다.,열림
+4,Lava Golem,1,Coming Soon,Coming Soon,Lava Armor,유지형,{0} 초 동안 받는 피해를 무효로 합니다.,레벨3에 열립니다.
+4,Lava Golem,2,Coming Soon,Coming Soon,Lava Punch,유지형,Golem의 정상적인 공격으로 적들을 기절시킬 확률을 {0}% 부여합니다.,레벨6에 열립니다.
+4,Lava Golem,3,Coming Soon,Coming Soon,Invigorated,유지형,Golem 주변의 아군에게 불타는 열정을 부여하여 더 민첩하게 만들어줍니다. 아군들의 속도력을 {0} 올려줍니다.,레벨8에 열립니다.
+5,Nature Queen,0,Coming Soon,Coming Soon,Mend,발동형,지정된 범위의 아군들의 hp를 {0} 치유합니다.,열림
+5,Nature Queen,1,Coming Soon,Coming Soon,Nature's Call,유지형,땅의 힘을 이용해 Natural Queen의 공격력을 {0} 포인트 강화합니다.,레벨3에 열립니다.
+5,Nature Queen,2,Coming Soon,Coming Soon,Grasping Roots,유지형,나무뿌리를 소환해 {0} 적들의 발을 짧은 시간동안 묶고 피해를 줍니다.,레벨6에 열립니다.
+5,Nature Queen,3,Coming Soon,Coming Soon,Catastrophe,유지형,달아나는 적을 추적하는 {0} 창을 발사합니다.,레벨8에 열립니다.
+6,Thor,0,Coming Soon,Coming Soon,Lightning Rod,Active,"Lightning strikes from the sky, stunning all enemies for {0}s.",Unlocked.
+6,Thor,1,Coming Soon,Coming Soon,Call of the king,Passive,Increases all allies' attack power by {0}% for {1}s.,Unlock at level 3.
+6,Thor,2,Coming Soon,Coming Soon,Shazam,Passive,"Electrifies his surrounding with lightning bolts, dealing {0} damage to nearby enemies.",Unlock at level 6.
+6,Thor,3,Coming Soon,Coming Soon,Sky Fall,Passive,"Electrocutes the nearest flying opponent, dealing {0} damage.",Unlock at level 8.
+7,Ninja Assassin,0,Coming Soon,Coming Soon,Omnislash,Active,"Blinks to the enemies location and assaults them, dealing {0} penetration damage.",Unlocked.
+7,Ninja Assassin,1,Coming Soon,Coming Soon,Escape,Passive,"When HP drops below {0}%, retreat while releasing small spikes on the ground that slows enemies down by {1}%.",Unlock at level 3.
+7,Ninja Assassin,2,Coming Soon,Coming Soon,Kusarigama Power ,Passive,Basic attack has {0}% chance to deal {1} AOE damage.,Unlock at level 6.
+7,Ninja Assassin,3,Coming Soon,Coming Soon,Houroku-Hiya ,Passive,"Set a timer bomb that sets off in {1}s. When explodes, deals {0} damage to hit enemies.",Unlock at level 8.
+8,Tristana,0,Coming Soon,Coming Soon,Boom burst,Active,"Fires a series of rockets to a designated area, dealing {0} damage to enemies in the location.",Unlocked.
+8,Tristana,1,Coming Soon,Coming Soon,Get away from me,Passive,"Blasts away all enemies on her way with a four-barrel pistol, deals damage and weakens their attack power by {0}% .",Unlock at level 3.
+8,Tristana,2,Coming Soon,Coming Soon,Seduce kiss,Passive,Charm the nearest opponent for {0}s.,Unlock at level 6.
+8,Tristana,3,Coming Soon,Coming Soon,Precision,Passive,Increases attack range by {0}%.,Unlock at level 8.
+9,Jungle Lord,0,Coming Soon,Coming Soon,Peashooter Army,Active,Summons {0} Peashooters to his aid on a designated area. Peashooters last {1}s.,Unlocked.
+9,Jungle Lord,1,Coming Soon,Coming Soon,Zombie Mushroom,Passive,"Tosses a toxic mushroom towards the enemies, confusing {0} opponents and making them go back to the starting point. The effect lasts for {1}s.",Unlock at level 3.
+9,Jungle Lord,2,Coming Soon,Coming Soon,Root,Passive,"Jungle Lord plants his roots down the ground to absorb nutritions, healing {0}% HP.",Unlock at level 6.
+9,Jungle Lord,3,Coming Soon,Coming Soon,Doppelganger,Passive,"Spawns a Jungle Lord's copy with {0}% of his stats, lasts for {1}s.",Unlock at level 8.
+10,Steel Dragon,0,Coming Soon,Coming Soon,Dragon Rage,Active,"Rains down energy spheres on a targeted area in {0}s, dealing a maximum of {1} damage.",Unlocked.
+10,Steel Dragon,1,Coming Soon,Coming Soon,Metal Wing,Passive,"Ferociously attacks enemies with razor sharp feathers firing from its wings, dealing {0} damage while decreasing {1}% of hit enemies' defense.",Unlock at level 3.
+10,Steel Dragon,2,Coming Soon,Coming Soon,Dragon Fang,Passive,"Crushes the enemies with its strong jaw, dealing {0} damage.",Unlock at level 6.
+10,Steel Dragon,3,Coming Soon,Coming Soon,Breath of Destruction,Passive,Fires an energy laser that deals {0} damage on a wide area.,Unlock at level 8.
+11,Phoenix,0,Coming Soon,Coming Soon,Blazing Road,Active,Incinerates the ground in a line. Enemies standing on the scorched ground take {0} damage.,Unlocked.
+11,Phoenix,1,Coming Soon,Coming Soon,Nova Crash,Passive,"Sets Phoenix himself ablaze and dives below, creating a huge explosion that deals {0} damage to enemies within.",Unlock at level 3.
+11,Phoenix,2,Coming Soon,Coming Soon,Purification,Passive,"Brainwashes an enemy and turns it into a fire pixie. The pixie then explodes, dealing {0} AoE damage to nearby enemies.",Unlock at level 6.
+11,Phoenix,3,Coming Soon,Coming Soon,Life aura,Passive,Continuously recovers nearby allies' HP for {0}s.,Unlock at level 8.

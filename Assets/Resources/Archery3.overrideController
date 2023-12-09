@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "Archery3"
+  m_Controller: {fileID: 9100000, guid: d6450ef20b124bfdb8265eeaf6687de2, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 94730c96857e48969d7c58a135686ac5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: dd172cbc2d3842a68b8c44aac3b7be9f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: aa57c96d93224445988b2efec19dc1bf, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a537fa6d241744988f88bc0859b7d464, type: 2}

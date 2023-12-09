@@ -1,0 +1,4 @@
+skill_level,chance_to_cast_skill,number_of_arrow,damage,delay_time,duration,skill_range,description
+0,5,10,30,100,300,40,Ban mua ten xuong duong di
+1,5,10,60,100,300,40,Ban mua ten xuong duong di
+2,5,10,90,100,300,40,Ban mua ten xuong duong di

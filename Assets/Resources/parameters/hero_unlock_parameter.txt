@@ -1,0 +1,13 @@
+id,name,is_unlock_by_play,unlock_at_map,is_unlock_by_gem,gem_unlock_amount,is_unlock_by_real_money
+0,Wu Kong,0,0,1,2000,0
+1,Ai Shi,0,0,0,0,0
+2,Sir Galahad,1,0,0,0,0
+3,Shaman King,0,0,1,5000,0
+4,Golem,0,0,1,5000,0
+5,Queen,0,0,1,5000,0
+6,Thor,0,0,1,6000,0
+7,Ninja Assassin,0,0,1,6000,0
+8,Tristana,0,0,1,6000,0
+9,Jungle Lord,0,0,1,6500,0
+10,Steel Dragon,0,0,0,0,1
+11,Phoenix,0,0,0,0,1

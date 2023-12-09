@@ -1,0 +1,21 @@
+id,level,ultimate_id,skill_id,name,ultimate_name,ultimate_description
+0,3,0,0,Archer,Multi-Shot,"# Wystrzeliwuje potężne strzały w formacje wroga, zadając obrażenia na dużym obszarze."
+0,3,0,1,Archer,Freezing Arrow,# Ma szansę nasączyć strzały lodem.
+0,4,1,0,Archer,Assassinate,# Ma {0}% szans na natychmiastowe zabicie przeciwnika.
+0,4,1,1,Archer,Critical Shot,# Uderzeni wrogowie dostają {0}% więcej obrażeń z innych źródeł podczas aktywacji umiejętności.
+1,3,0,0,Infantry,Steel Bulwark,# Wzmacnia obronę piechoty.
+1,3,0,1,Infantry,Dexterity,"# Wyposaża piechoty w latające siekiery, aby zniszczyć wrogów z daleka."
+1,4,1,0,Infantry,Vigor,# Daje {0}% szans na odparcie ataku przeciwników przy pomocy przenikającego uderzenia.
+1,4,1,1,Infantry,Blade Storm,# Przypuszcza kolejne ataki z {0} trafieniami. Schłodzenie {1}s.
+2,3,0,0,Canonneer,Precision,# Rzuca śmiertelny głaz na wroga o najwyższym zdrowiu i w jego otoczenie.
+2,3,0,1,Canonneer,Hellfire Cannonball,"# Wyrzuca głaz pokryty lawą, który pozostawia po sobie ślad ognia."
+2,4,1,0,Canonneer,Heavy Boulder,# Co sekundę ma {0}% szans na ogłuszenie {1} wroga na {2}s.
+2,4,1,1,Canonneer,ThunderBolt,"# Rzuca błyskawicą, która zadaje {0} obrażeń {1} wrogowi(om) w zasięgu ataku. Schłodzenie {2}s."
+3,3,0,0,Magic Dragon,Reinforcement,# Zwołuje małe smoczki na pole bitwy pod rozkazami z wieży.
+3,3,0,1,Magic Dragon,Dragon's Blessing,"# Smok błogosławi pobliskich sojuszników aurą, która leczy i zwiększa szybkość ataku."
+3,4,1,0,Magic Dragon,Shove,# Odpycha {0} wrogów do tyłu na małą odległość ze starożytną siłą. Schłodzenie {1}s.
+3,4,1,1,Magic Dragon,Intimidate,# Zmniejsza {0}% odporności na magię wrogów w pobliżu.
+4,3,0,0,Priest,Coming Soon,# Wkrótce
+4,3,0,1,Priest,Coming Soon,# Wkrótce
+4,4,1,0,Priest,none,# none
+4,4,1,1,Priest,none,# none

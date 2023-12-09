@@ -1,0 +1,26 @@
+id,level,name,type,short_description,description,unlock_description
+0,0,Arqueiro,ataque físico,Ataque inimigos terrestres e aéreos causando danos físicos.,Ataque inimigos terrestres e aéreos causando danos físicos.,Nível 1 Archer Desbloqueado!
+0,1,Arqueiro,ataque físico,As setas de bronze ajudam a melhorar a faixa de ataque e aumentar o dano.,As setas de bronze ajudam a melhorar a faixa de ataque e aumentar o dano.,Nível 2 Archer Desbloqueado!
+0,2,Arqueiro,ataque físico,"Equipe Archer com setas de aço, aumentando o dano.","Equipe Archer com setas de aço, aumentando o dano.",Nível 3 Archer Desbloqueado!
+0,3,Arqueiro,ataque físico,"Melhorando arcos, aumentando a velocidade de ataque.","Melhorando arcos, aumentando a velocidade de ataque.",Nível 4 Archer Desbloqueado! @Ultimate Upgrade!
+0,4,Arqueiro,ataque físico,Setas de prata que causam danos maciços.,Setas de prata que causam danos maciços.,Nível 5 Archer Desbloqueado!
+1,0,Infantaria,ataque físico,Guerreiros comuns com armadura pesada que podem bloquear o caminho dos inimigos.,Guerreiros comuns com armadura pesada que podem bloquear o caminho dos inimigos.,Nível 1 Infantaria Desbloqueada!
+1,1,Infantaria,ataque físico,Guerreiros treinados com armadura de bronze e armas.,Guerreiros treinados com armadura de bronze e armas.,Nível 2 Infantaria Desbloqueada!
+1,2,Infantaria,ataque físico,Guerreiros experientes com armadura de aço e armas.,Guerreiros experientes com armadura de aço e armas.,Nível 3 Infantaria Desbloqueada!
+1,3,Infantaria,ataque físico,Guerreiros veteranos com armadura e armas de prata.,Guerreiros veteranos com armadura e armas de prata.,Nível 4 Infantaria Desbloqueada! @Ultimate Upgrade!
+1,4,Infantaria,ataque físico,"Os guerreiros agora podem se esconder para emboscar inimigos, evitando danos à distância.","Os guerreiros agora podem se esconder para emboscar inimigos, evitando danos à distância.",Nível 5 Infantaria Desbloqueada!
+2,0,Canonneer,ataque físico,Dano de AoE pequeno que é eficaz para inimigos terrestres.,Dano de AoE pequeno que é eficaz para inimigos terrestres.,Nível 1 Cannoneer Desbloqueado!
+2,1,Canonneer,ataque físico,Dano médio de AoE que é efetivo para inimigos terrestres.,Dano médio de AoE que é efetivo para inimigos terrestres.,Nível 2 Cannoneer Desbloqueado!
+2,2,Canonneer,ataque físico,Alto dano AoE que é eficaz para inimigos terrestres.,Alto dano AoE que é eficaz para inimigos terrestres.,Nível 3 Cannoneer Desbloqueado!
+2,3,Canonneer,ataque físico,"Lança pedregulhos de lava para inimigos terrestres, causando danos maciços.","Lança pedregulhos de lava para inimigos terrestres, causando danos maciços.",Nível 4 Cannoneer Desbloqueado! @Ultimate Upgrade!
+2,4,Canonneer,ataque físico,"Cria um campo estático em torno da área, retardando inimigos.","Cria um campo estático em torno da área, retardando inimigos.",Nível 5 Cannoneer Desbloqueado!
+3,0,Dragão mágico,ataque mágico,Oferece dano penetrante para unidades terrestres e voadoras.,Oferece dano penetrante para unidades terrestres e voadoras.,Nível 1 Dragão Mágico Desbloqueado!
+3,1,Dragão mágico,ataque mágico,"Atire uma esfera extra, causando danos mágicos médios.","Atire uma esfera extra, causando danos mágicos médios.",Nível 2 Dragão Mágico Desbloqueado!
+3,2,Dragão mágico,ataque mágico,Dragão totalmente desenvolvido com maior dano e faixa de ataque.,Dragão totalmente desenvolvido com maior dano e faixa de ataque.,Nível 3 Dragão Mágico Desbloqueado!
+3,3,Dragão mágico,ataque mágico,Dragão de mil anos com força maciça e habilidades especiais.,Dragão de mil anos com força maciça e habilidades especiais.,Nível 4 Dragão Mágico Desbloqueado! @Ultimate Upgrade!
+3,4,Dragão mágico,ataque mágico,"Aciona um raio laser em linha reta, danificando todos os inimigos que acerta.","Aciona um raio laser em linha reta, danificando todos os inimigos que acerta.",Nível 5 Dragão Mágico Desbloqueado!
+4,0,Sacerdote,Gerador de ouro,Gera 10 Gold em 10 segundos.,Gera 10 Gold em 10 segundos.,Nível 1 Sacerdote Desbloqueado!
+4,1,Sacerdote,Gerador de ouro,Gera 25 Gold em 10 segundos. ,Gera 25 Gold em 10 segundos. ,Nível 2 Sacerdote Desbloqueado!
+4,2,Sacerdote,Gerador de ouro,Gera 35 Gold em 10 segundos. ,Gera 25 Gold em 10 segundos. ,Nível 3 Sacerdote Desbloqueado!
+4,3,Sacerdote,Gerador de ouro,Gera 45 Gold em 10 segundos.,Gera 45 Gold em 10 segundos. ,Nível 4 Sacerdote Desbloqueado! @Ultimate Upgrade!
+4,4,Sacerdote,Gerador de ouro,Gera 45 Gold em 10 segundos. ,Gera 45 Gold em 10 segundos. ,Nível 5 Sacerdote Desbloqueado!

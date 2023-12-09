@@ -1,0 +1,4 @@
+skill_level,physics_damage,magic_damage,skill_range,cooldown_time,description,use_type
+0,40,0,120,65000,Tele den vi tri va gay damage AOE + xuyen giap,TapNClickToUse
+1,50,0,125,65000,Tele den vi tri va gay damage AOE + xuyen giap,TapNClickToUse
+2,90,0,130,65000,Tele den vi tri va gay damage AOE + xuyen giap,TapNClickToUse

@@ -1,0 +1,10 @@
+item_id,item_name,item_description
+0,フロストジェム,全体マップ上のすべての敵をフリーズ。
+1,流星コール,流星の巨石は、敵に大規模な被害を扱って、指定された場所を下にシャワー。
+2,ヒーリング・ワード,近くの自軍ユニットを癒す病棟をドロップします。
+3,ゴールドトレジャー,軍隊のための余分な金供給。
+4,Speed Up,Increase all nearby tower's attack speed.
+5,Poison,Toss a gourd full of venom damages enemies.
+6,Reinforcement,Summon a guardian.
+7,Sky Reinforcement, Summon a powerful flying guardian.
+8,Storm,Summon a tornado that push all enemy on the way back to gate.

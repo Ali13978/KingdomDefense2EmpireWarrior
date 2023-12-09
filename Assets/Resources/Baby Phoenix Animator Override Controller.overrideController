@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "Baby Phoenix Animator Override Controller"
+  m_Controller: {fileID: 9100000, guid: ba307b6fa88b48f6b802d51d71dc1187, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: fd9d4f2e3dba411cbced5a4a762b2f92, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d7709f07322c4e4db6618239ffcb72fb, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 2ce45132819f4d00bc272817c3da6485, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d13de7c9858d41bcba6f942f396b787a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5f50535160324eb9843d3d722619f29e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0367c6d68cd64972a4eeb0d693775b92, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 66cc1b4f43e5404081b8a5e08318e2bd, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0367c6d68cd64972a4eeb0d693775b92, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e0680506dace40de86ebfb072f96f320, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b6855f30e41f42999fa36809e3386824, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3a40622082cd4f4ca7c29ede68af4ca5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0367c6d68cd64972a4eeb0d693775b92, type: 2}

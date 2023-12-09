@@ -1,0 +1,4 @@
+skill_level,physics_damage,magic_damage,attack_damage_decrease_percentage,duration,knock_back_distance,skill_range,cooldown_time,description
+0,40,0,40,3000,60,60,10000,Bắn shotgun và knocback enemy trong vùng
+1,50,0,50,3000,60,60,10000,Bắn shotgun và knocback enemy trong vùng
+2,90,0,60,3000,60,60,10000,Bắn shotgun và knocback enemy trong vùng

@@ -1,0 +1,37 @@
+tut_id,tut_description
+choose_map_step_0,Commençons ici !
+start_game_step_0,Choisissez votre héros
+start_game_step_1,Commençons le jeu !
+call_enemy_step_0,Appuyez pour @ commencer la bataille
+call_enemy_step_1,Confirmez!
+build_tower_step_0,Appuyez pour @ construire une tour
+build_first_tower_step_0,Construire pour bloquer les ennemis
+build_first_tower_step_1,Confirmez Build!
+build_second_tower_step_0,Construire pour endommager la zone
+build_second_tower_step_1,Confirmez Build!
+build_third_tower_step_0,Construire pour créer de l'or
+build_third_tower_step_1,Confirmez Build!
+speed_button,Utilisez pour accélérer!
+move_hero_step_0,Appuyez pour choisir le Hero
+move_hero_step_1,Appuyez sur l’emplacement @ pour se déplacer
+hero_skill_step_0,Appuyez pour choisir les compétences
+hero_skill_step_1,Appuyez sur l’emplacement @ pour lancer des compétences
+unlock_hero_step_0,Nouveau héros débloqué !
+unlock_hero_step_1,Appuyez pour choisir le nouveau héros
+unlock_hero_step_2,Appuyez pour déverrouiller
+upgrade_hero_step_0,Choisir un héros pour mettre à jour
+upgrade_hero_step_1,Améliore le niveau du héros!
+upgrade_tower_step_0,Améliorons vos tours!
+upgrade_tower_step_1,Choisir la capacité que vous voulez
+upgrade_tower_step_2,Et améliorez-le!
+open_lucky_chest_step_1_first_chest,Touchez pour ouvrir la boîte
+open_lucky_chest_step_2_second_chest,Touchez pour ouvrir la boîte
+open_lucky_chest_step_3_third_chest,Touchez pour ouvrir la boîte
+open_lucky_chest_step_4_free_chest,Touchez pour obtenir 3 autres cases
+open_lucky_chest_step_5_auto_open,Touchez pour ouvrir la boîte rapidement!
+open_lucky_chest_step_6_free_chest_again,Touchez pour obtenir 3 autres cases
+open_lucky_chest_step_7_auto_open_again,Touchez pour ouvrir la boîte rapidement!
+open_lucky_chest_step_8_continue,Continuez votre aventure!
+use_hero_skill_point_step_0,Améliorons la compétence de votre héros !
+use_hero_skill_point_step_1,Appuyez pour choisir le Hero
+use_hero_skill_point_step_2,Utilisez le(s) point(s) de compétence pour améliorer le (s) niveau (x) de compétence !

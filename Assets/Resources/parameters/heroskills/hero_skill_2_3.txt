@@ -1,0 +1,4 @@
+skill_level,aoe_range,damage,slow_value,slow_duration,cooldown,description
+0,50,20,100,2000,15000,Gay damage AOE + Stun khi tan cong
+1,50,30,100,2000,16000,Gay damage AOE + Stun khi tan cong
+2,50,50,100,2000,17500,Gay damage AOE + Stun khi tan cong

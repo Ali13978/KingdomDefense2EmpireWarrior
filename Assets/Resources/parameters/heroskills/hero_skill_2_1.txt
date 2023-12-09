@@ -1,0 +1,4 @@
+skill_level,armor_bonus,duration,cooldown_time,description
+0,10,7500,15000,Tang giap vat li trong 1 khoang thoi gian
+1,20,7500,15000,Tang giap vat li trong 1 khoang thoi gian
+2,30,7500,15000,Tang giap vat li trong 1 khoang thoi gian

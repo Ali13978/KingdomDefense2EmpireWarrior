@@ -1,0 +1,15 @@
+upgrade_id,upgrade_title,upgrade_description
+0,Discount for building and upgrading,Receive {0} % discount when building and upgrading towers.
+1,Increase Attack Range 1,Increase Attack Range 1
+2,Increase Attack Range 2,Increase Attack Range 2
+3,Increase Attack Speed 1,Increase Attack Speed 1
+4,Increase Attack Speed 2,Increase Attack Speed 2
+5,Resurrection Chance,{0} % chance for Infantry to resurrect immediately.
+6,Critical Chance,Increase {0} % critical chance.
+7,Ignore Defense Chance,Increase {0} % ignore defense chance.
+8,Increase Attack Damage,Increase {0} attack damage.
+9,Slow Chance,Increase {0} % chance to slow enemies during attacks.
+10,Slow Rate,Slow rate.
+11,Slow Duration,Slow duration.
+12,Increase Infantries' Physical Defense,Increase {0} % infantries' physical armor.
+13,Increase Infantries' Health,Increase {0} infantries' max health.

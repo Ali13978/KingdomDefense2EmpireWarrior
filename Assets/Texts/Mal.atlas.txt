@@ -1,0 +1,55 @@
+
+Mal.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 15
+  rotate: true
+  xy: 669, 243
+  size: 177, 223
+  orig: 177, 223
+  offset: 0, 0
+  index: -1
+Layer 107
+  rotate: false
+  xy: 2, 551
+  size: 602, 448
+  orig: 602, 448
+  offset: 0, 0
+  index: -1
+Layer 114
+  rotate: true
+  xy: 381, 229
+  size: 320, 286
+  orig: 320, 286
+  offset: 0, 0
+  index: -1
+Layer 116
+  rotate: false
+  xy: 606, 648
+  size: 393, 351
+  orig: 393, 351
+  offset: 0, 0
+  index: -1
+Layer 117
+  rotate: true
+  xy: 381, 53
+  size: 174, 263
+  orig: 174, 263
+  offset: 0, 0
+  index: -1
+Layer 118
+  rotate: false
+  xy: 669, 422
+  size: 193, 224
+  orig: 193, 224
+  offset: 0, 0
+  index: -1
+Layer 119
+  rotate: false
+  xy: 2, 143
+  size: 377, 406
+  orig: 377, 406
+  offset: 0, 0
+  index: -1

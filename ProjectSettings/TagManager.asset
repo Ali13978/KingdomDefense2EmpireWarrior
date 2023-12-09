@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Tower
+  - LockArea
+  - BuildRegion
+  - Bullet
+  - Destination
+  - Ally
+  - AllyWeapon
+  - EnemyWeapon
+  - Road
+  - Moveable
+  - UnMoveable
+  - UIButton
+  - StartWavePos
+  - CoinPosition
+  - AnimBossInMap
+  - DroppedGold
+  - TutorialFirstTowerBuildRegion
+  - TutorialSecondTowerBuildRegion
+  - TutorialThirdTowerBuildRegion
+  - TutorialMoveHero
+  - TutorialUseHeroSkill
+  - WatchOfferButton
+  - Hero
+  - Pet
+  - TunnelIn
+  - TunnelOut
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Map
+  - Ally
+  - Moveable
+  - Unmoveable
+  - Road
+  - Tower
+  - DroppedItems
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: "Default"
+    uniqueID: 0
+    locked: 0
+  - name: "Map"
+    uniqueID: 1649754671
+    locked: 0
+  - name: "MapObjectLow"
+    uniqueID: 4048161021
+    locked: 0
+  - name: "BulletLow"
+    uniqueID: 4038357277
+    locked: 0
+  - name: "GameObjectsLow"
+    uniqueID: 3796522951
+    locked: 0
+  - name: "EffectLow"
+    uniqueID: 1877640319
+    locked: 0
+  - name: "MapObjectHigh"
+    uniqueID: 68604939
+    locked: 0
+  - name: "GameObjectsHigh"
+    uniqueID: 3423085229
+    locked: 0
+  - name: "BulletHigh"
+    uniqueID: 2905355051
+    locked: 0
+  - name: "EffectHigh"
+    uniqueID: 2828874143
+    locked: 0
+  - name: "Gem"
+    uniqueID: 3871166407
+    locked: 0
+  - name: "UIEffect"
+    uniqueID: 324731265
+    locked: 0
+  - name: "UI"
+    uniqueID: 3984513741
+    locked: 0
+  - name: "Loading"
+    uniqueID: 130393245
+    locked: 0

@@ -1,0 +1,15 @@
+upgrade_id,upgrade_title,upgrade_description
+0,Desconto para construção e atualização,Receba {0}% de desconto ao construir e atualizar torres.
+1,Aumentar faixa de ataque 1,Aumentar faixa de ataque 1
+2,Aumentar faixa de ataque 2,Aumentar a faixa de ataque 2
+3,Aumentar a velocidade de ataque 1,Aumentar a velocidade de ataque 1
+4,Aumentar a velocidade de ataque 2,Aumentar a velocidade de ataque 2
+5,Chance de ressurreição,{0}% chance para a infantaria ressuscitar de imediato.
+6,Chance crítica,Aumente {0}% chance crítica.
+7,Ignorar a chance de defesa,Aumente {0}% ignore a chance de defesa.
+8,Aumentar Dano de Ataque,Aumente {0} o dano de ataque.
+9,Chance lenta,Aumente {0}% chance de retardar os inimigos durante os ataques.
+10,Taxa lenta,Taxa lenta.
+11,Duração lenta,Duração lenta.
+12,Aumente a defesa física das infantarias,Aumente {0}% da armadura física da infantaria.
+13,Aumente a Saúde das Infantarias,Aumente {0} a saúde máxima da infantaria.

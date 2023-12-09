@@ -1,0 +1,4 @@
+skill_level,change_to_stun,duration,description
+0,20,3000,Ti le gay stun moi lan tan cong
+1,30,3000, Ti le gay stun moi lan tan cong
+2,40,3000, Ti le gay stun moi lan tan cong

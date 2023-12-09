@@ -1,0 +1,14 @@
+tip_id,tip_name,tip_description
+0,Armored Enemies,Armored enemies take less damage from Archer and Cannoneer turrets.
+1,Magic Resistance,Dragon turrets are ineffective when facing enemies with high magic resistance.
+2,UFO?,Only Archers and Dragon Towers can reach flying enemies.
+3,Your Command!,Infantry are more useful if they are in the right place at the right time!
+4,The More the Better,"The more reinforcements there are, the faster we can take enemies off the table."
+5,Be Careful!,"When your life (heart) reaches 0, it's gameover!"
+6,Road to Riches,Enemies drop gold after being defeated.
+7,New Tower Introduction,Try out all type of towers to strike at enemies' weak points.
+8,New Tower Introduction,Try out all type of towers to strike at enemies' weak points.
+9,New Tower(s) Unlocked,"Archer, Cannoneer and Magic Dragon Towers @ can now be upgraded to level 2!"
+10,New Tower(s) Unlocked,Archer and Cannoneer Towers @ can now be upgraded to level 3!
+11,New Tower(s) Unlocked,Infantries @ can now be upgraded to level 3!
+12,New Tower(s) Unlocked,Magic Dragon @ can now be upgraded to level 3!

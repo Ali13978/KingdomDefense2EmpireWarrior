@@ -1,0 +1,4 @@
+skill_level,bonus_armor_physics,bonus_armor_magic,description
+0,5,5,Tang giap vat li va giap magic cho unit
+1,10,10,Tang giap vat li va giap magic cho unit
+2,15,15,Tang giap vat li va giap magic cho unit

@@ -1,0 +1,14 @@
+tip_id,tip_name,tip_description
+0,Inimigos blindados,Os inimigos blindados recebem menos danos das torres Archer e Cannoneer.
+1,Resistência mágica,As torres do dragão são ineficazes quando enfrentam inimigos com alta resistência mágica.
+2,OVNI?,Somente Archers e Dragon Towers podem chegar a inimigos voadores.
+3,Seu Comando!,Os cavaleiros são mais úteis se estiverem no lugar certo no momento certo!
+4,Quanto mais melhor,"Quanto mais reforços, mais rápido podemos tirar inimigos da mesa."
+5,Seja cuidadoso!,"Quando sua vida (coração) atinge 0, é gameover!"
+6,Estrada para as riquezas,Os inimigos deixam o ouro depois de serem derrotados.
+7,Nova introdução da torre,Experimente todos os tipos de torres para atacar os pontos fracos dos inimigos.
+8,Nova introdução da torre,Experimente todos os tipos de torres para atacar os pontos fracos dos inimigos.
+9,Nova (s) Torre (es) desbloqueada,"Archer, Cannoneer e Magic Dragon Towers @ agora podem ser atualizados para o nível 2!"
+10,Nova (s) Torre (es) desbloqueada,Archer e Cannoneer Towers @ agora podem ser atualizados para o nível 3!
+11,Nova (s) Torre (es) desbloqueada,Infantarias @ agora podem ser atualizadas para o nível 3!
+12,Nova (s) Torre (es) desbloqueada,Magic Dragon @ agora pode ser atualizado para o nível 3!

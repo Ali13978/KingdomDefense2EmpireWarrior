@@ -1,0 +1,4 @@
+skill_level,dodge_chance,ignore_armor_chance,description
+0,10,10,Xac suat ne tranh tan cong can chien va kha nang tan cong xuyen giap.
+1,15,15,Xac suat ne tranh tan cong can chien va kha nang tan cong xuyen giap.
+2,20,20,Xac suat ne tranh tan cong can chien va kha nang tan cong xuyen giap.

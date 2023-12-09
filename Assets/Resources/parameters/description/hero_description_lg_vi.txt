@@ -1,0 +1,49 @@
+id,name,skill_id,short_description,full_description,skill_name,skill_type,skill_description,skill_unlock
+0,Wukong,0,Tôn Ngộ Không biết được 72 phép biến hóa,Theo truyền thuyết Ngộ Không sinh ra từ một hòn đá và đã học được nhiều thần thông biến hóa và võ công.,Phân Thân,Kích hoạt,Wukong gọi ra {0} bóng của chính mình với sát thương bằng {1}% Wukong,Đã mở khóa
+0,Wukong,1,Tôn Ngộ Không biết được 72 phép biến hóa,Theo truyền thuyết Ngộ Không sinh ra từ một hòn đá và đã học được nhiều thần thông biến hóa và võ công.,Kim Cô Bổng Pháp,Bị động,Điên loạn xoay kim cô bổng gây {0} sát thương lan,Mở khóa khi lên cấp 3.
+0,Wukong,2,Tôn Ngộ Không biết được 72 phép biến hóa,Theo truyền thuyết Ngộ Không sinh ra từ một hòn đá và đã học được nhiều thần thông biến hóa và võ công.,Đại Lực,Bị động,Tăng cường {0}% giáp vật lý cho Wukong,Mở khóa khi lên cấp 6.
+0,Wukong,3,Tôn Ngộ Không biết được 72 phép biến hóa,Theo truyền thuyết Ngộ Không sinh ra từ một hòn đá và đã học được nhiều thần thông biến hóa và võ công.,Tị Cốc,Bị động,Cộng thêm {0}% giáp vật lý bằng tổng số quái đứng gần hắn,Mở khóa khi lên cấp 8.
+1,Ashi,0,Ashi là một mộc tiên có nhiệm vụ bảo hộ rừng thiêng Mirkwood,Ashi là một mộc tiên có nhiệm vụ bảo hộ rừng thiêng Mirkwood,Vạn Tiễn Trận,Kích hoạt,"Tạo ra 1 đám mưa sao băng gây sát thương lan, mỗi mũi tên gây {0} sát thương",Đã mở khóa
+1,Ashi,1,Ashi là một mộc tiên có nhiệm vụ bảo hộ rừng thiêng Mirkwood,Ashi là một mộc tiên có nhiệm vụ bảo hộ rừng thiêng Mirkwood,Chú Tâm Tiễn,Bị động,Cơ hội {0}% bắn ra mũi tên gây chí mạng lên quái,Mở khóa khi lên cấp 3.
+1,Ashi,2,Ashi là một mộc tiên có nhiệm vụ bảo hộ rừng thiêng Mirkwood,Ashi là một mộc tiên có nhiệm vụ bảo hộ rừng thiêng Mirkwood,Liên Xạ Tiễn,Bị động,Bắn các mũi tên liên tục vào một kẻ thù trong {0} giây,Mở khóa khi lên cấp 6.
+1,Ashi,3,Ashi là một mộc tiên có nhiệm vụ bảo hộ rừng thiêng Mirkwood,Ashi là một mộc tiên có nhiệm vụ bảo hộ rừng thiêng Mirkwood,Băng Cầu,Bị động,Bắn cầu phép làm chậm {0}% tốc độ di chuyển của kẻ thù,Mở khóa khi lên cấp 8.
+2,Sir Galahad,0,Sir Galahad short description,Sir Galahad full description,Hộ Vệ Ánh Sáng,Kích hoạt,Triệu hồi người đá ánh sáng khổng lồ với sát thương bằng {0}% Galahad,Đã mở khóa
+2,Sir Galahad,1,Sir Galahad short description,Sir Galahad full description,Khiên Thần Thánh,Bị động,Có khả năng kích hoạt khiên thần thánh giảm {0}% các đòn tấn công vật lí khi bị tấn công,Mở khóa khi lên cấp 3.
+2,Sir Galahad,2,Sir Galahad short description,Sir Galahad full description,Cuồng Kiếm,Bị động,Sinh ra một chuỗi combo tấn công kẻ địch mỗi {0} đòn đánh thường,Mở khóa khi lên cấp 6.
+2,Sir Galahad,3,Sir Galahad short description,Sir Galahad full description,Thánh Kiếm,Bị động,Dùng đại kiếm tấn công mặt đất gây {0} sát thương lan và làm choáng kẻ địch trong phạm vi,Mở khóa khi lên cấp 8.
+3,Shaman King,0,Shaman King short description,Shaman King full description,Sun Meteor,Kích hoạt,"Ném một quả cầu nham thạch xuống đất, gây {0} sát thương lan",Đã mở khóa
+3,Shaman King,1,Shaman King short description,Shaman King full description,Train Spirit,Bị động,Tăng cường {0} tốc độ tấn công và {1} sát thương trong 1 khoảng thời gian.,Mở khóa khi lên cấp 3.
+3,Shaman King,2,Shaman King short description,Shaman King full description,Ice Wall,Bị động,Tạo tường băng làm chậm và gây {0} sát thương mỗi giây cho kẻ địch,Mở khóa khi lên cấp 6.
+3,Shaman King,3,Shaman King short description,Shaman King full description,Sun Anger,Bị động,Hội tụ năng lượng từ mặt trời gây {0} sát thương cho kẻ địch trên diện rộng,Mở khóa khi lên cấp 8.
+4,Lava Golem,0,Coming Soon,Coming Soon,Earthquake,Kích hoạt,"Golem triệu hồi tảng đá lửa, gây {0} sát thương cho kẻ thù và làm choáng chúng",Unlocked.
+4,Lava Golem,1,Coming Soon,Coming Soon,Lava Armor,Bị động,Không nhận Damage trong {0} giây,Unlock at level 3.
+4,Lava Golem,2,Coming Soon,Coming Soon,Lava Punch,Bị động,Có {0}% gây choáng cho kẻ thù,Unlock at level 6.
+4,Lava Golem,3,Coming Soon,Coming Soon,Invigorated,Bị động,"Golem động viên đồng đội, làm tăng {0} tốc độ của họ",Unlock at level 8.
+5,Nature Queen,0,Coming Soon,Coming Soon,Mend,Kích hoạt,Hồi {0} máu cho mọi đồng minh trong phạm vi tác động,Unlocked.
+5,Nature Queen,1,Coming Soon,Coming Soon,Nature's Call,Bị động,Tăng sát thương của Nature Queen  lên {0},Unlock at level 3.
+5,Nature Queen,2,Coming Soon,Coming Soon,Grasping Roots,Bị động,"Nature Queen triệu hồi dây leo, trói {0} kẻ thù trong thời gian ngắn ",Unlock at level 6.
+5,Nature Queen,3,Coming Soon,Coming Soon,Catastrophe,Bị động,Ném liên tiếp {0} mũi lao ánh sáng vào những kẻ thù sắp chạy thoát khỏi bản đồ,Unlock at level 8.
+6,Thor,0,Coming Soon,Coming Soon,Lightning Rod,Active,Stunning enemies in range for {0} seconds.,Unlocked.
+6,Thor,1,Coming Soon,Coming Soon,Call of the king,Passive,Increase allies' attack by {0}% for {1} seconds.,Unlock at level 3.
+6,Thor,2,Coming Soon,Coming Soon,Shazam,Passive,Deal {0} damage to all nearby enemies.,Unlock at level 6.
+6,Thor,3,Coming Soon,Coming Soon,Sky Fall,Passive,Deal {0} damage to the nearest flying enemies.,Unlock at level 8.
+7,Ninja Assassin,0,Coming Soon,Coming Soon,Omnislash,Active,Teleport to the target location and deal {0} piercing damages to enemies around.,Unlocked.
+7,Ninja Assassin,1,Coming Soon,Coming Soon,Escape,Passive,When Hp lower than {0}% bail out while leaving spike that slow down enemies by {1}%.,Unlock at level 3.
+7,Ninja Assassin,2,Coming Soon,Coming Soon,Kusarigama Power ,Passive,Has a chance of {0}% to deal {1} area damages.,Unlock at level 6.
+7,Ninja Assassin,3,Coming Soon,Coming Soon,Houroku-Hiya ,Passive,Throws a timing bomb that deal {0} damages to enemies around. Explodes after {1}s.,Unlock at level 8.
+8,Tristana,0,Coming Soon,Coming Soon,Boom burst,Active,Tristana rút khẩu Bazooka bắn vào vị trí chỉ định gây ra một vụ nổ lớn. Sát thương {0} toàn bộ kẻ địch trong phạm vi.,Unlocked.
+8,Tristana,1,Coming Soon,Coming Soon,Get away from me,Passive,Tristana rút ra một khẩu Piston 4 nòng bắn về phía trước. Kẻ địch bị dính đạn sẽ bị đẩy lùi đồng thời giảm sát thương {0}% trong {1}s.,Unlock at level 3.
+8,Tristana,2,Coming Soon,Coming Soon,Seduce kiss,Passive,Tristana tạo dáng quyến rũ kẻ địch khiến chúng bị choáng trong {0}s.,Unlock at level 6.
+8,Tristana,3,Coming Soon,Coming Soon,Precision,Passive,Tăng tầm tấn công tối đa thêm {0}%.,Unlock at level 8.
+9,Jungle Lord,0,Coming Soon,Coming Soon,Peashooter Army,Active,Triệu hồi {0} cây bắn đạn tự động xung quanh vị trí chỉ định. Cây tồn tại trong {1}s.,Unlocked.
+9,Jungle Lord,1,Coming Soon,Coming Soon,Zombie Mushroom,Passive,Ném nấm độc về phía kẻ địch khiến tối đa {0} kẻ địch đi lùi về vị trí ban đầu trong vòng {1}s.,Unlock at level 3.
+9,Jungle Lord,2,Coming Soon,Coming Soon,Root,Passive,Jungle Lord mọc rễ cắm xuống đất hút dinh dưỡng. Hồi {0}% HP.,Unlock at level 6.
+9,Jungle Lord,3,Coming Soon,Coming Soon,Doppelganger,Passive,Tạo một bản sao Jungle Lord với sức mạnh bằng {0}% tồn tại trong vòng {1}s.,Unlock at level 8.
+10,Steel Dragon,0,Coming Soon,Coming Soon,Dragon Rage,Active,Bắn liên thanh cầu năng lượng khổng lồ lên một vùng trong {0}s gây tối đa {1} sát thương,Unlocked.
+10,Steel Dragon,1,Coming Soon,Coming Soon,Metal Wing,Passive,Vẩy cánh bắn ra các thanh sắt gây {0} sát thương và giảm {1}% phòng thủ của kẻ địch,Unlock at level 3.
+10,Steel Dragon,2,Coming Soon,Coming Soon,Dragon Fang,Passive,Nghiền nát kẻ địch với hàm rồng gây {0} sát thương,Unlock at level 6.
+10,Steel Dragon,3,Coming Soon,Coming Soon,Breath of Destruction,Passive,Bắn tia sáng năng lượng gây {0} sát thương lên một vùng,Unlock at level 8.
+11,Phoenix,0,Coming Soon,Coming Soon,Blazing Road,Active,Tạo một đường lửa dài trên bản đồ gây {0} sát thương lên tất cả kẻ địch đi qua,Unlocked.
+11,Phoenix,1,Coming Soon,Coming Soon,Nova Crash,Passive,Bùng cháy và lao xuống đất tạo ra vụ nổ gây {0} sát thương lên kẻ địch xung quanh,Unlock at level 3.
+11,Phoenix,2,Coming Soon,Coming Soon,Purification,Passive,Thanh tẩy kẻ địch thành tinh linh lửa tinh linh này có thể gây {0} sát thương lên kẻ địch khác,Unlock at level 6.
+11,Phoenix,3,Coming Soon,Coming Soon,Life aura,Passive,Trong {0}s hồi máu cho tất cả đồng minh đứng gần,Unlock at level 8.

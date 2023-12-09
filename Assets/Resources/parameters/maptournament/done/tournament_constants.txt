@@ -1,0 +1,8 @@
+LeagueIndex,Jfactor,InitGemQuantity
+0,2,20
+1,2,20
+2,2.2,25
+3,2.4,25
+4,2.6,30
+5,2.8,30
+6,3,35

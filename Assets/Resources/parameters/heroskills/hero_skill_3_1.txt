@@ -1,0 +1,4 @@
+skill_level,magic_damage_bonus,attack_speed_increase,duration,cooldown_time,description
+0,5,30,7500,30000,Tang damg va attack speed trong 1 khoang thoi gian
+1,10,50,7500,60000,Tang damg va attack speed trong 1 khoang thoi gian
+2,25,80,7500,60000,Tang damg va attack speed trong 1 khoang thoi gian

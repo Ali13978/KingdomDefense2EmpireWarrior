@@ -1,0 +1,8 @@
+id,condition_type,is_enable_theme_1,condition_theme_1,description_theme1,is_enable_theme_2,condition_theme_2,description_theme2
+0,map_id_passed,1,m_5,マップ6を通過しました！,1,m_11,マップ12を通過しました！
+1,star_require,1,s_15,15スターを所有していました！,1,s_33,30スターを所有！
+2,hero_amount_require,0,ha_2,所有している2人の英雄！,1,ha_3,3英雄を所有していました！
+3,hero_level_require_slot0,1,2_5,ガラハッド卿にレベル6が必要です！,0,4_5,ゴーレムレベル6を必要とする！
+4,hero_level_require_slot1,1,1_5,芦ノ湖レベル6を必要とします！,0,5_5,クイーンレベル6が必要です！
+5,hero_level_require_slot1,0,0_0,空,0,0_0,
+6,hero_pet_slot_0,0,p_0,ヒーローのID 0自身のペットを必要とします！,0,p_1,芦ノ湖のペット所有！

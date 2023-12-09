@@ -1,0 +1,43 @@
+level,id,text_tip_content
+0,0,"Buduj wieże obronne, aby odeprzeć wrogów, broniąc swojego królestwa."
+0,1,Bohaterowie będą walczyć obok ciebie.
+0,2,"Postaraj się pokonać wrogów tak szybko, jak to możliwe, zanim uciekną za daleko."
+1,0,Piechota może blokować drogę wrogom.
+1,1,Miotacze kul sieją spustoszenie.
+1,2,"Korzystaj z zebranych gwiazd, aby zwiększyść swoje zdolności."
+2,0,"Korzystaj z Piechoty oraz Miotaczy Kul, aby zwiększyć obrażenia."
+2,1,Magiczny smok strzela do wrogów przerażającymi magicznymi kulami.
+2,2,Bohaterowie zyskują sławę przez pokonanie wrogów.
+3,0,Łucznicy i Magiczne Smoki mogą atakować latających wrogów.
+3,1,Zmodernizowane Piechoty mogą dłużej przetrzymywać wrogów.
+3,2,Możesz przyprowadzić do 3 bohaterów na mecz.
+4,0,Możesz ulepszyć i kupić nowego bohatera w Obozie Bohaterów.
+4,1,Łucznicy i Magiczne Smoki mogą atakować latających wrogów.
+4,2,Strzały łuczników mogą dosięgać szybkich wrogów.
+5,0,"Zmrożone perełki zamrażają cały ekran, pozostawiając ci pokoje do przygotowania."
+5,1,Wzywa wrogów wcześnie dla większego zarobku złota oraz resetuje czas odnowy wszystkich bohaterów.
+5,2,Łucznicy z ostatecznym ulepszeniem mogą spowalniać wrogów przez ich zamrożenie.
+6,0,Magiczne Smoki są skuteczne w przypadku wrogów o wysokiej odporności fizycznej.
+6,1,Magiczne Smoki z ostatecznym ulepszeniem mogą leczyć pobliskich sprzymierzeńców.
+6,2,"Korzystaj z Piechoty oraz Miotaczy Kul, aby zwiększyć obrażenia."
+7,0,Zmodernizowane Piechoty mogą dłużej przetrzymywać wrogów.
+7,1,Możesz ulepszyć i kupić nowego bohatera w Obozie Bohaterów.
+7,2,Magiczne Smoki z ostatecznym ulepszeniem mogą leczyć pobliskich sprzymierzeńców.
+8,0,Magiczny smok strzela do wrogów przerażającymi magicznymi kulami.
+8,1,Magiczne Smoki z ostatecznym ulepszeniem mogą leczyć pobliskich sprzymierzeńców.
+8,2,"Odwiedź nasz Fanpage, aby omówić strategie i taktyki."
+9,0,Piechota z ostatecznym ulepszeniem może atakować wrogów z daleka.
+9,1,Zmodernizowana Piechota może dłużej przetrzymywać wrogów.
+9,2,Wybór odpowiednich Bohaterów i Wież ma duży wpływ na wynik.
+10,0,Nie spiesz się z walką z wrogami przez korzystanie z wzmacniających przedmiotów.
+10,1,Możesz przyprowadzić do 3 bohaterów na mecz.
+10,2,"Podnieś poziom bohaterów, dzięki perłom w Obozie Bohaterów."
+11,0,"Trzymaj wrogów na swoim miejscu tak długo jak możesz, aby ich pokonać."
+11,1,"Zmierz się ponownie z mapą, aby uzyskać dodatkowe doświadczenie."
+11,2,"Podnieś poziom bohaterów, dzięki perłom w Obozie Bohaterów."
+12,0,WSKAZÓWKA: Drugi Najwyższy Kanonier może spowolnić grupy wrogów.
+13,0,WSKAZÓWKA: Drugi Najwyższy Kanonier może spowolnić grupy wrogów.
+14,0,WSKAZÓWKA: Druga Piechota przedziera się przez obronę i przydaje się przeciwko wysokiej obronie wroga.
+15,0,WSKAZÓWKA: Druga Piechota przedziera się przez obronę i przydaje się przeciwko wysokiej obronie wroga.
+16,0,"WSKAZÓWKA: Magiczny Smok strzela promieniem lasera w linii prostej, który działa znakomicie w obszarze liniowym."
+17,0,Ostrzeżenie: Obszar szefa. Zatrzymaj ich całą swoją mocą na wieży.

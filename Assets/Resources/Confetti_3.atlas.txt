@@ -1,0 +1,90 @@
+
+Confetti_3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 3, 47
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+Layer 10
+  rotate: false
+  xy: 3, 156
+  size: 68, 67
+  orig: 68, 67
+  offset: 0, 0
+  index: -1
+Layer 11
+  rotate: false
+  xy: 326, 462
+  size: 79, 47
+  orig: 79, 47
+  offset: 0, 0
+  index: -1
+Layer 12
+  rotate: false
+  xy: 3, 3
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 3, 104
+  size: 62, 49
+  orig: 62, 49
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 253, 443
+  size: 70, 66
+  orig: 70, 66
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 74, 163
+  size: 48, 60
+  orig: 48, 60
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 3, 226
+  size: 120, 83
+  orig: 120, 83
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 3, 312
+  size: 132, 91
+  orig: 132, 91
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: false
+  xy: 138, 333
+  size: 100, 66
+  orig: 100, 66
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 3, 406
+  size: 132, 103
+  orig: 132, 103
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: false
+  xy: 138, 402
+  size: 112, 107
+  orig: 112, 107
+  offset: 0, 0
+  index: -1

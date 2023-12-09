@@ -1,0 +1,10 @@
+item_id,item_name,item_description
+0,冰冻宝石,冰冻地图里的所有敌人。
+1,流星召唤,流星巨石在指定地点发射，对敌人造成极大伤害。
+2,治愈病房,抛下一个病房来治愈邻近的盟友单位。
+3,金宝,给军队的额外金币。
+4,Speed Up,Increase all nearby tower's attack speed.
+5,Poison,Toss a gourd full of venom damages enemies.
+6,Reinforcement,Summon a guardian.
+7,Sky Reinforcement, Summon a powerful flying guardian.
+8,Storm,Summon a tornado that push all enemy on the way back to gate.

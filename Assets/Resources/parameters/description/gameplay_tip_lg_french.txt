@@ -1,0 +1,14 @@
+tip_id,tip_name,tip_description
+0,Armures Ennemis,Les ennemis blindés subissent moins de dégâts des tourelles Archer et Canonnière.
+1,Résistance magique,Les tourelles de dragon sont inefficaces face aux ennemis ayant une résistance magique élevée.
+2,OVNI ?,Seuls les Archers et les Tours Dragon magiques peuvent atteindre les ennemis volants.
+3,Votre commande !,Les chevaliers sont plus utiles s'ils sont au bon endroit au bon moment !
+4,Plus sera mieux,"Plus il y a de renforts, plus vite nous pouvons éliminer les ennemis de la table."
+5,Fais attention !,"Quand votre vie (cœur) atteint 0, c'est gameover !"
+6,Route de la richesse,Les ennemis perdent de l'or après avoir été vaincus.
+7,Introduction nouvelle Tour,Essayez tous les types de tours pour frapper les points faibles des ennemis.
+8,Introduction nouvelle Tour,Essayez tous les types de tours pour frapper les points faibles des ennemis.
+9,Nouvelle Tour Débloqué,"Archer, Canonnier et Tours Dragon magique @ peuvent maintenant être améliorés au niveau 2 !"
+10,Nouvelle Tour Débloqué,Archer et Canonnier @ peuvent maintenant être améliorés au niveau 3 !
+11,Nouvelle Tour Débloqué,L’infanterie @ peut maintenant être mis à niveau au niveau 3 !
+12,Nouvelle Tour Débloqué,Dragon magique @ peut maintenant être mis à niveau au niveau 3 !

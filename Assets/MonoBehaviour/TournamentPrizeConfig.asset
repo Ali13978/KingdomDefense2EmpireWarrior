@@ -1,0 +1,206 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df028a815d614ab2a5154fbe703ed47a, type: 3}
+  m_Name: "TournamentPrizeConfig"
+  m_EditorClassIdentifier: 
+  SheetName: "Assets\x2fQuickSheet\x2fGameConfig\x2fTournamentConfig\x2fTournamentConfig.xlsx"
+  WorksheetName: "TournamentPrizeConfig"
+  dataArray:
+  - leagueindex: 0
+    rankrangelower: 1
+    rankrangeupper: 1
+    itemtypes: "Gem,Item0,League"
+    itemquantities: E80300000100000001000000
+  - leagueindex: 0
+    rankrangelower: 3
+    rankrangeupper: 2
+    itemtypes: "Gem,Item1,League"
+    itemquantities: F40100000100000001000000
+  - leagueindex: 0
+    rankrangelower: 10
+    rankrangeupper: 4
+    itemtypes: "Gem,Item2,League"
+    itemquantities: 2C0100000100000001000000
+  - leagueindex: 0
+    rankrangelower: 25
+    rankrangeupper: 11
+    itemtypes: "Gem,Item2"
+    itemquantities: 4B00000001000000
+  - leagueindex: 0
+    rankrangelower: 100000
+    rankrangeupper: 26
+    itemtypes: "Gem,Item2"
+    itemquantities: 1900000001000000
+  - leagueindex: 1
+    rankrangelower: 1
+    rankrangeupper: 1
+    itemtypes: "Gem,Item0,League"
+    itemquantities: B00400000100000001000000
+  - leagueindex: 1
+    rankrangelower: 3
+    rankrangeupper: 2
+    itemtypes: "Gem,Item1,League"
+    itemquantities: 580200000100000001000000
+  - leagueindex: 1
+    rankrangelower: 10
+    rankrangeupper: 4
+    itemtypes: "Gem,Item2,League"
+    itemquantities: 680100000100000001000000
+  - leagueindex: 1
+    rankrangelower: 25
+    rankrangeupper: 11
+    itemtypes: "Gem,Item2"
+    itemquantities: 5A00000001000000
+  - leagueindex: 1
+    rankrangelower: 100000
+    rankrangeupper: 26
+    itemtypes: "Gem,Item2"
+    itemquantities: 1E00000001000000
+  - leagueindex: 2
+    rankrangelower: 1
+    rankrangeupper: 1
+    itemtypes: "Gem,Item0,League"
+    itemquantities: 780500000200000001000000
+  - leagueindex: 2
+    rankrangelower: 3
+    rankrangeupper: 2
+    itemtypes: "Gem,Item1,League"
+    itemquantities: BC0200000200000001000000
+  - leagueindex: 2
+    rankrangelower: 10
+    rankrangeupper: 4
+    itemtypes: "Gem,Item2,League"
+    itemquantities: A40100000200000001000000
+  - leagueindex: 2
+    rankrangelower: 25
+    rankrangeupper: 11
+    itemtypes: "Gem,Item2"
+    itemquantities: 6900000002000000
+  - leagueindex: 2
+    rankrangelower: 100000
+    rankrangeupper: 26
+    itemtypes: "Gem,Item2"
+    itemquantities: 2300000002000000
+  - leagueindex: 3
+    rankrangelower: 1
+    rankrangeupper: 1
+    itemtypes: "Gem,Item0,League"
+    itemquantities: 400600000200000001000000
+  - leagueindex: 3
+    rankrangelower: 3
+    rankrangeupper: 2
+    itemtypes: "Gem,Item1,League"
+    itemquantities: 200300000200000001000000
+  - leagueindex: 3
+    rankrangelower: 10
+    rankrangeupper: 4
+    itemtypes: "Gem,Item2,League"
+    itemquantities: E00100000200000001000000
+  - leagueindex: 3
+    rankrangelower: 25
+    rankrangeupper: 11
+    itemtypes: "Gem,Item2"
+    itemquantities: 7800000001000000
+  - leagueindex: 3
+    rankrangelower: 100000
+    rankrangeupper: 26
+    itemtypes: "Gem,Item2"
+    itemquantities: 2800000001000000
+  - leagueindex: 4
+    rankrangelower: 1
+    rankrangeupper: 1
+    itemtypes: "Gem,Item0,League"
+    itemquantities: 080700000300000001000000
+  - leagueindex: 4
+    rankrangelower: 3
+    rankrangeupper: 2
+    itemtypes: "Gem,Item1,League"
+    itemquantities: 840300000300000001000000
+  - leagueindex: 4
+    rankrangelower: 10
+    rankrangeupper: 4
+    itemtypes: "Gem,Item2,League"
+    itemquantities: 1C0200000300000001000000
+  - leagueindex: 4
+    rankrangelower: 25
+    rankrangeupper: 11
+    itemtypes: "Gem,Item2"
+    itemquantities: 8700000003000000
+  - leagueindex: 4
+    rankrangelower: 100000
+    rankrangeupper: 26
+    itemtypes: "Gem,Item2"
+    itemquantities: 2D00000003000000
+  - leagueindex: 5
+    rankrangelower: 1
+    rankrangeupper: 1
+    itemtypes: "Gem,Item0,League"
+    itemquantities: D00700000300000001000000
+  - leagueindex: 5
+    rankrangelower: 3
+    rankrangeupper: 2
+    itemtypes: "Gem,Item1,League"
+    itemquantities: E80300000300000001000000
+  - leagueindex: 5
+    rankrangelower: 10
+    rankrangeupper: 4
+    itemtypes: "Gem,Item2,League"
+    itemquantities: 580200000300000001000000
+  - leagueindex: 5
+    rankrangelower: 25
+    rankrangeupper: 11
+    itemtypes: "Gem,Item2"
+    itemquantities: 9600000003000000
+  - leagueindex: 5
+    rankrangelower: 100000
+    rankrangeupper: 26
+    itemtypes: "Gem,Item2"
+    itemquantities: 3200000003000000
+  - leagueindex: 6
+    rankrangelower: 1
+    rankrangeupper: 1
+    itemtypes: "Gem,Item0"
+    itemquantities: 9808000005000000
+  - leagueindex: 6
+    rankrangelower: 3
+    rankrangeupper: 2
+    itemtypes: "Gem,Item1"
+    itemquantities: 4C04000005000000
+  - leagueindex: 6
+    rankrangelower: 10
+    rankrangeupper: 4
+    itemtypes: "Gem,Item2"
+    itemquantities: 9402000005000000
+  - leagueindex: 6
+    rankrangelower: 25
+    rankrangeupper: 11
+    itemtypes: "Gem,Item2"
+    itemquantities: A500000005000000
+  - leagueindex: 6
+    rankrangelower: 100000
+    rankrangeupper: 26
+    itemtypes: "Gem,Item2"
+    itemquantities: 3700000005000000
+  - leagueindex: 1000
+    rankrangelower: 1
+    rankrangeupper: 1
+    itemtypes: "Gem,Item0,Item1"
+    itemquantities: 2C0100000100000001000000
+  - leagueindex: 1000
+    rankrangelower: 5
+    rankrangeupper: 2
+    itemtypes: "Gem,Item2"
+    itemquantities: 6400000001000000
+  - leagueindex: 1000
+    rankrangelower: 100
+    rankrangeupper: 6
+    itemtypes: "Gem"
+    itemquantities: 0A000000

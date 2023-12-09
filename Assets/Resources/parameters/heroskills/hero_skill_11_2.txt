@@ -1,0 +1,4 @@
+skill_level,magic_damage,explode_range,minion_lifetime,minion_quantity,cooldown_time,
+0,15,75,18000,3,25000,"Purification: hoi sinh X con quai thanh tinh linh lua, tinh linh deal dam len cac quai khac"
+1,18,75,19000,4,25000,
+2,25,75,19000,5,25000,

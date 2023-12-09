@@ -1,0 +1,4 @@
+skill_level,total_heal,heal_range,heal_duration,cooldown_time,
+0,80,150,7000,58000,hoi mau 1 vung
+1,120,150,8000,58000,
+2,160,150,10000,58000,

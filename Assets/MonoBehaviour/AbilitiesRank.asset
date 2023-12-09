@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fddaff3f2422ac933bbdef6ab7265264, type: 3}
+  m_Name: "AbilitiesRank"
+  m_EditorClassIdentifier: 
+  AttackSpeedValue: C4090000DC050000EE020000
+  AttackSpeedDescription: 46000000470000004800000049000000
+  AttackRangeValue: AA000000E600000022010000
+  AttackRangeDescription: 4A000000430000004B0000004C000000
+  ArmorValue: 19000000320000004B000000
+  ArmorDescription: 4200000043000000440000004500000041000000
+  MSpeedValue: 14000000280000003C000000
+  MSpeedDescription: 46000000470000004800000049000000

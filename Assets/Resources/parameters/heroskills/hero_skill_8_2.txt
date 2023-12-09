@@ -1,0 +1,4 @@
+skill_level,skill_range,duration,cooldown_time,description
+0,120,2000,40000,Quyến rũ stunt 1 con quái trong tầm đánh
+1,120,3000,42000,Quyến rũ stunt 1 con quái trong tầm đánh
+2,120,5000,42000,Quyến rũ stunt 1 con quái trong tầm đánh

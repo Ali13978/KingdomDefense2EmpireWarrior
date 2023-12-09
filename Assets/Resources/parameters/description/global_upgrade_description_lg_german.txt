@@ -1,0 +1,15 @@
+upgrade_id,upgrade_title,upgrade_description
+0,Rabatt für Bau und Ausbau,Erhalte {0} % Rabatt für den Bau und Ausbau
+1,Attackenreichweite um 1 erhöhen,Erhöhe Attackenreichweite um 1
+2,Attackenreichweite um 2 erhöhen,Erhöhe Attackenreichweite um 2
+3,Attackengeschwindigkeit 1 erhöhen ,Erhöhe Attackengeschwindigkeit 1
+4,Attackengeschwindigkeit 2 erhöhen,Erhöhe Attackengeschwindigkeit 2
+5,Chance auf Wiederbelebung,"{0} % Möglichkeit für die Infanterie, sofort wieder auferstehen zu können."
+6,Kritische Chance,Erhöhe {0} % Kritische Chance
+7,Verteidigungschance ignorieren,Erhöhe {0} % Verteidigungschance ignorieren
+8,Erhöhung des Angriffsschadens,Erhöhe {0} Angriffschaden.
+9,Langsame Chance,Erhöhe {0} % Chance um Feinde während Attacken zu verlangsamen.
+10,Langsames Tempo,Langsames Tempo
+11,Langsame Dauer,Langsame Dauer
+12,Die körperliche Verteidigung des Fußtrupps verstärken,Erhöhe {0} % körperliche Verteidigung des Fußtrupps
+13,Gesundheit des Fußtrupps verbessern,Erhöhe {0} Fußtrupps maximale Gesundheit.

@@ -1,0 +1,27 @@
+id,name,level,desctiption,special_ability
+0,Pirate,0,Common enemy unit with low health and attack damage.,# No special ability @# Medium movement @# Spawn in group
+1,Barbosa,0,Common enemy unit with a mace to defend themselves.,# Medium movement @# Low physical defense
+2,Lupin,0,Highly agile enemy unit with moderate power. They can dodge melee attacks.,# Fast @# Can dodge melee attacks
+3,Loki,0,Slightly stronger than his brother Lupin and can also dodge melee attacks.,# Fast @# Can dodge melee attacks @# Low physical defense
+4,Kimora,0,An enemy unit that possesses fearsome dark magic. Has the ability to heal nearby enemies.,# Slow @# High magic resistance @# Heal nearby enemies
+5,Orc Tank,0,Giant orc with thick skin and high health pool.,# Slow @# High health @# Steals 3 hearts when escaped
+6,One-Eye,0,Flies over troops and towers. Has immunity to all ground-based attacks and skills.,"# No attack, can't be blocked @# Only Archer and Magic Dragon can reach them"
+7,Orc King,0,King who rules the mountain lands. He commands local monsters with the horn of war.,"# Extremely high health, damage and defense @# Steals 25 hearts when escaped @#Summons minions"
+8,Wild Boar,0,Roar King's minion. The beast can travel from place to place swiftly.,# Fast @# Spawn in group
+9,Werewolf,0,Werewolves are highly intelligent. They sneak past towers easily and can only be stopped by infantries and melee Heroes.,# Fast @# Sneak past towers
+10,Snail,0,Monstrous snail-like creature with high magic resistance.,# High magic resistance @# Steals 2 hearts when escaped @# Transforms when die
+11,Bold Snail,0,Evolves from common Snail. They moves faster after shredding their heavy shell but at the expense of their defense.,# Fast @# High damage
+12,Mutated Snail,0,Mutated Snail that takes the form of a man. Hits extremely hard and also is very tough to kill.,# Very high magic resistance @# Steals 2 hearts when escaped @# Transforms when die
+13,Bold Mutated Snail,0,Evolves from Mutated Snail. They moves faster after throwing away the umbrella but at the expense of their defense.,# Fast @# High damage
+14,Tribal Warrior,0,Very adaptive and can use long-ranged attack by throwing spears.,# Attack from a distance @# Spawn in group
+15,Drunk Orc,0,Huge orc monster with deadly axe as weapon. He can heal himself by consuming orc-exclusive wine.,# Takes 3 hearts when killed @# Self-heal
+16,Mine King,0,King who rules the gold mine. His whole body is made of pure gold.,"# Extremely high health, damage and defense @# Steals 25 hearts when escaped @#Summons minions"
+17,Gitrog,0,Golden King's minion. It may explode when engaged in combat.,# Fast @# Explodes during close encounter
+18,Hungry Hare,0,"Spellbound hares, highly dangerous and vicious.",# Fast @# Spawn in group
+19,Malicious Hare,0,"Equipped with shield and weapon, these hares pose much more threats than their hungry counterparts.",# High physical defense @# Medium movement
+20,Walrus Tank,0,Possesses immense vitality and stamina. Blocks ranged attack with his large shield when moving.,# Very high defense and magic resistance @# Immune damage when moving
+21,Ice Beast,0,Big beast born from the southern ocean. Their skin is especially thick to survive the coldness in their native land.,# Slow @# Very high health @# High physical defense
+22,Winged Bear,0,Mutated Bear that can fly and assaults their prey from the sky with equipped bombs.,"# Flying unit, throw bombs from above @# Very high physical defense"
+23,Witch,0,"Cunning, sly witch.",# Medium movement @# Very high magic resistance @# Immediately assassinate an enemy
+24,Catapult,0,Catapult used by Ice Beast to attack enemies from afar.,# Slow @# Attack and freeze from a distance
+25,Frost Queen,0,"A former witch who was betrayed by her partner. Filled with hatred and desire for revenge, she fell into oblivion studying dark arts.",# Teleports across the map @# Turns enemies into her allies @# Summon minions

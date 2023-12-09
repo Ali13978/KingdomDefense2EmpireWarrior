@@ -1,0 +1,43 @@
+level,id,text_tip_content
+0,0,"Baue Verteidigungstürme, um Feinde zu vertreiben und dein Königreich zu beschützen."
+0,1,Helden werden neben dir kämpfen.
+0,2,"Versuche so schnell wie möglich deine Feinde zu besiegen, bevor sie zu weit gehen."
+1,0,Fußtrupps können den Weg der Feinde blockieren.
+1,1,Kanoniere richten AoE-Schaden an.
+1,2,"Benutze gesammelte Sterne, um deine Fähigkeit zu verbessern."
+2,0,"Benutze sowohl Fußtruppen- als auch Kanoniere, um den Schaden zu maximieren."
+2,1,Magischer Drache schießt furchterregende magische Sphären auf Feinde.
+2,2,Helden gewinnen EXP durch den Sieg über Feinde.
+3,0,Bogenschützen und magische Drachen können fliegende Feinde angreifen.
+3,1,Verbesserte Fußtrupps können Feinde länger aufhalten.
+3,2,Du kannst bis zu 3 Helden pro Spiel mitbringen.
+4,0,Im Heldencamp kannst du neue Helden aufrüsten und kaufen.
+4,1,Bogenschützen und magische Drachen können fliegende Feinde angreifen.
+4,2,Bogenschützenpfeile können schnelle Feinde fangen.
+5,0,Frost Juwel friert den gesamten Bildschirm ein und lässt Räume für die Vorbereitung frei.
+5,1,"Wenn du Feinde frühzeitig herrufst, um ein besseres Goldeinkommen zu erzielen, setzt dies auch die Schwächung aller Helden zurück."
+5,2,"Bogenschützen mit dem ultimativen Upgrade können Feinde verlangsamen, indem sie sie einfrieren."
+6,0,Magische Drachen sind effektiv bei Gegnern mit hohem körperlichem Widerstand.
+6,1,Ein magischer Drache mit dem ultimativen Upgrade kann Verbündete in der Nähe heilen.
+6,2,"Benutze sowohl Fußtrupps als auch Kanoniere, um den Schaden zu maximieren."
+7,0,Verbesserte Fußtrupps können Feinde länger aufhalten.
+7,1,Im Heldencamp kannst du neue Helden aufrüsten und kaufen.
+7,2,Ein magischer Drache mit dem ultimativen Upgrade kann Verbündete in der Nähe heilen.
+8,0,Ein magischer Drache schießt furchterregende magische Sphären auf Feinde.
+8,1,Ein magischer Drache mit dem ultimativen Upgrade kann Verbündete in der Nähe heilen.
+8,2,Besucht unsere Fanpage um über Strategien und Taktiken zu diskutieren.
+9,0,Fußtrups mit dem ultimativen Upgrade können Feinde aus der Ferne angreifen.
+9,1,Verbesserte Fußtrupps können Feinde länger aufhalten.
+9,2,Die Wahl der geeigneten Helden und Türme hat großen Einfluss auf das Ergebnis.
+10,0,"Nimm dir Zeit, deine Feinde abzuwehren, indem du Powerup verwendest."
+10,1,Du kannst bis zu 3 Helden pro Spiel mitbringen.
+10,2,Verbessere deine Helden mit Juweln in den Heldencamps
+11,0,"Halte Feine in der Position, so lange du sie besiegen kannst"
+11,1,Fordere die Karte für zusätzliche EXP erneut heraus
+11,2,Verbessere deine Helden mit Juweln in den Heldencamps
+12,0,TIPP: Canonneers zweites Ultimate kann Gruppen von Feinden verlangsamen.
+13,0,TIPP: Canonneers zweites Ultimate kann Gruppen von Feinden verlangsamen.
+14,0,TIPP: Die zweite Ultimate der Infanterie dringt in die Verteidigung ein und ist nützlich gegen Feinde mit hoher Verteidigung.
+15,0,TIPP: Die zweite Ultimate der Infanterie dringt in die Verteidigung ein und ist nützlich gegen Feinde mit hoher Verteidigung.
+16,0,"TIPP: Magic Dragon feuert den Laserstrahl in einer geraden Linie ab, die am besten im linearen Bereich funktioniert."
+17,0,Warnung: Boss-Bereich. Stoppen Sie sie mit aller Kraft mit den Ultimates des Turms.

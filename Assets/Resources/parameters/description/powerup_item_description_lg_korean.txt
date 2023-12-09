@@ -1,0 +1,10 @@
+item_id,item_name,item_description
+0,Frost Gem,맵 전체에 있는 적을 얼립니다.
+1,Meteor Call,지정된 위치에 유성을 낙하시켜 적들에게 엄청난 피해를 줍니다.
+2,Healing Ward,주변의 아군을 치유하는 토템을 설치합니다.
+3,Gold Treasure,추가금액을 즉시 지급하는 상자입니다.
+4,Speed Up,Increase all nearby tower's attack speed.
+5,Poison,Toss a gourd full of venom damages enemies.
+6,Reinforcement,Summon a guardian.
+7,Sky Reinforcement, Summon a powerful flying guardian.
+8,Storm,Summon a tornado that push all enemy on the way back to gate.

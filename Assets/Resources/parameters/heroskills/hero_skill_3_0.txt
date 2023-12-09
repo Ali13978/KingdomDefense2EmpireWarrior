@@ -1,0 +1,4 @@
+skill_level,physics_damage,magic_damage,skill_range,meteor_speed,duration,cooldown_time,description,use_type
+0,90,0,60,70,2200,70000,Tha cau lua,TapNClickToUse
+1,110,0,60,70,2200,70000,Tha cau lua,TapNClickToUse
+2,150,0,60,70,2200,70000,Tha cau lua,TapNClickToUse

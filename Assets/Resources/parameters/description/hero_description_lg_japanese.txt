@@ -1,0 +1,49 @@
+id,name,skill_id,short_description,full_description,skill_name,skill_type,skill_description,skill_unlock
+0,悟空,0,近日公開,近日公開,ソウルスプリット,アクティブ,悟空召喚限られた時間のための戦いで彼を支援するための悟空の攻撃力の{1}％と{0}のクローン。,ロック解除されました。
+0,悟空,1,近日公開,近日公開,フューリー如意バン,受動的,悟空は近くの敵に{0}％のダメージを与え、広く彼のスタッフを回転させます。,レベル3でロックを解除します。
+0,悟空,2,近日公開,近日公開,アイアン隠します,受動的,敵からのダメージを{0}％減少させる。,レベル6でロックを解除します。
+0,悟空,3,近日公開,近日公開,きかん気,受動的,悟空のアーマーは、それぞれ近くに敵のために{0}％増加します。,レベル8でロックを解除します。
+1,芦ノ湖,0,近日公開,近日公開,それは雨ください,アクティブ,雨は指定された場所の下で矢を結晶化させ、{0}のダメージを与える。,ロック解除されました。
+1,芦ノ湖,1,近日公開,近日公開,リーサル・アロー,受動的,その臨界点を撮影して敵の弱点を悪用する{0}％の確率を持っています。,レベル3でロックを解除します。
+1,芦ノ湖,2,近日公開,近日公開,迅速なショット,受動的,芦ノ湖が大幅{0}秒間攻撃速度を増加させ、彼女の感覚を焦点を当てています。,レベル6でロックを解除します。
+1,芦ノ湖,3,近日公開,近日公開,凍傷,受動的,の敵を遅くリリース魔法球{0}％。,レベル8でロックを解除します。
+2,ガラハッド卿,0,近日公開,近日公開,光の軍団,アクティブ,敵をかわすと、それらを駆除するためにガラハッドの攻撃の{0}％と天国の保護者呼びかけます。,ロック解除されました。
+2,ガラハッド卿,1,近日公開,近日公開,聖なる盾,受動的,攻撃すると、{0}％でガラハッドの防衛を高めるために、適度なチャンスを持っています。,レベル3でロックを解除します。
+2,ガラハッド卿,2,近日公開,近日公開,熱意,受動的,重スラッシュごとに{0}攻撃を届けます。,レベル6でロックを解除します。
+2,ガラハッド卿,3,近日公開,近日公開,ハルマゲドン,受動的,範囲内のすべての敵に{0}ダメージを与え、地面に剣スマッシュし、それらを気絶させます。,レベル8でロックを解除します。
+3,シャーマンキング,0,近日公開,近日公開,流星,アクティブ,シャーマンキングは、{0}の損害賠償を扱って、巨大な隕石で指定されたフィールドをシャワー。,ロック解除されました。
+3,シャーマンキング,1,近日公開,近日公開,濃度,受動的,大幅{0}によってシャーマンキングの攻撃速度を向上させ、魔法の力のサージ{1}によってダメージ。,レベル3でロックを解除します。
+3,シャーマンキング,2,近日公開,近日公開,冷凍王国,受動的,目標位置をフリーズ。 通過敵{0}損害毎秒を受け、上昇スパイクによって損傷されています。,レベル6でロックを解除します。
+3,シャーマンキング,3,近日公開,近日公開,ライトニングスパーク,受動的,{0}のダメージを扱う、範囲内の敵を感電雷間欠泉と領域を爆破。,レベル8でロックを解除します。
+4,ラヴァゴーレム,0,近日公開,近日公開,地震,アクティブ,多数の炎岩、見事な地上敵とあたえる{0}損害を生成します。,ロック解除されました。
+4,ラヴァゴーレム,1,近日公開,近日公開,溶岩アーマー,受動的,受け取ったすべてのダメージを{0}秒以内に無効にします。,レベル3でロックを解除します。
+4,ラヴァゴーレム,2,近日公開,近日公開,溶岩パンチ,受動的,通常攻撃で敵を気絶させるための補助金ゴーレム{0}％の確率。,レベル6でロックを解除します。
+4,ラヴァゴーレム,3,近日公開,近日公開,元気,受動的,ゴーレムはそれらをより機敏作り、彼の燃える情熱を持って、すべての同盟国を鼓舞します。 連合軍は{0}速度を得ます。,レベル8でロックを解除します。
+5,ネイチャークイーン,0,近日公開,近日公開,繕います,アクティブ,{0}馬力の目標半径内のすべての味方を回復させます。,ロック解除されました。
+5,ネイチャークイーン,1,近日公開,近日公開,自然のコール,受動的,{0}ポイントによる天然女王の攻撃を強化するために母なる地球のパワーを呼び起こします。,レベル3でロックを解除します。
+5,ネイチャークイーン,2,近日公開,近日公開,根をつかむ,受動的,召喚森林ブドウ損傷および根短時間で{0}敵。,レベル6でロックを解除します。
+5,ネイチャークイーン,3,近日公開,近日公開,破局,受動的,{0}ホーミングが敵を後退した後、そのチェイスを槍て撮影します。,レベル8でロックを解除します。
+6,Thor,0,Coming Soon,Coming Soon,Lightning Rod,Active,"Lightning strikes from the sky, stunning all enemies for {0}s.",Unlocked.
+6,Thor,1,Coming Soon,Coming Soon,Call of the king,Passive,Increases all allies' attack power by {0}% for {1}s.,Unlock at level 3.
+6,Thor,2,Coming Soon,Coming Soon,Shazam,Passive,"Electrifies his surrounding with lightning bolts, dealing {0} damage to nearby enemies.",Unlock at level 6.
+6,Thor,3,Coming Soon,Coming Soon,Sky Fall,Passive,"Electrocutes the nearest flying opponent, dealing {0} damage.",Unlock at level 8.
+7,Ninja Assassin,0,Coming Soon,Coming Soon,Omnislash,Active,"Blinks to the enemies location and assaults them, dealing {0} penetration damage.",Unlocked.
+7,Ninja Assassin,1,Coming Soon,Coming Soon,Escape,Passive,"When HP drops below {0}%, retreat while releasing small spikes on the ground that slows enemies down by {1}%.",Unlock at level 3.
+7,Ninja Assassin,2,Coming Soon,Coming Soon,Kusarigama Power ,Passive,Basic attack has {0}% chance to deal {1} AOE damage.,Unlock at level 6.
+7,Ninja Assassin,3,Coming Soon,Coming Soon,Houroku-Hiya ,Passive,"Set a timer bomb that sets off in {1}s. When explodes, deals {0} damage to hit enemies.",Unlock at level 8.
+8,Tristana,0,Coming Soon,Coming Soon,Boom burst,Active,"Fires a series of rockets to a designated area, dealing {0} damage to enemies in the location.",Unlocked.
+8,Tristana,1,Coming Soon,Coming Soon,Get away from me,Passive,"Blasts away all enemies on her way with a four-barrel pistol, deals damage and weakens their attack power by {0}% .",Unlock at level 3.
+8,Tristana,2,Coming Soon,Coming Soon,Seduce kiss,Passive,Charm the nearest opponent for {0}s.,Unlock at level 6.
+8,Tristana,3,Coming Soon,Coming Soon,Precision,Passive,Increases attack range by {0}%.,Unlock at level 8.
+9,Jungle Lord,0,Coming Soon,Coming Soon,Peashooter Army,Active,Summons {0} Peashooters to his aid on a designated area. Peashooters last {1}s.,Unlocked.
+9,Jungle Lord,1,Coming Soon,Coming Soon,Zombie Mushroom,Passive,"Tosses a toxic mushroom towards the enemies, confusing {0} opponents and making them go back to the starting point. The effect lasts for {1}s.",Unlock at level 3.
+9,Jungle Lord,2,Coming Soon,Coming Soon,Root,Passive,"Jungle Lord plants his roots down the ground to absorb nutritions, healing {0}% HP.",Unlock at level 6.
+9,Jungle Lord,3,Coming Soon,Coming Soon,Doppelganger,Passive,"Spawns a Jungle Lord's copy with {0}% of his stats, lasts for {1}s.",Unlock at level 8.
+10,Steel Dragon,0,Coming Soon,Coming Soon,Dragon Rage,Active,"Rains down energy spheres on a targeted area in {0}s, dealing a maximum of {1} damage.",Unlocked.
+10,Steel Dragon,1,Coming Soon,Coming Soon,Metal Wing,Passive,"Ferociously attacks enemies with razor sharp feathers firing from its wings, dealing {0} damage while decreasing {1}% of hit enemies' defense.",Unlock at level 3.
+10,Steel Dragon,2,Coming Soon,Coming Soon,Dragon Fang,Passive,"Crushes the enemies with its strong jaw, dealing {0} damage.",Unlock at level 6.
+10,Steel Dragon,3,Coming Soon,Coming Soon,Breath of Destruction,Passive,Fires an energy laser that deals {0} damage on a wide area.,Unlock at level 8.
+11,Phoenix,0,Coming Soon,Coming Soon,Blazing Road,Active,Incinerates the ground in a line. Enemies standing on the scorched ground take {0} damage.,Unlocked.
+11,Phoenix,1,Coming Soon,Coming Soon,Nova Crash,Passive,"Sets Phoenix himself ablaze and dives below, creating a huge explosion that deals {0} damage to enemies within.",Unlock at level 3.
+11,Phoenix,2,Coming Soon,Coming Soon,Purification,Passive,"Brainwashes an enemy and turns it into a fire pixie. The pixie then explodes, dealing {0} AoE damage to nearby enemies.",Unlock at level 6.
+11,Phoenix,3,Coming Soon,Coming Soon,Life aura,Passive,Continuously recovers nearby allies' HP for {0}s.,Unlock at level 8.

@@ -1,0 +1,49 @@
+id,name,skill_id,short_description,full_description,skill_name,skill_type,skill_description,skill_unlock
+0,WuKong,0,Coming Soon,Coming Soon,Seelenspaltung,Aktiv,"Wukong beschwört {0} Klone mit {1}% von Wukongs Angriffskraft, um ihn für eine begrenzte Zeit im Kampf zu unterstützen.",Freigeschaltet.
+0,WuKong,1,Coming Soon,Coming Soon,Fury Ruyi Bang,Passiv,Wukong dreht seinen Stab weit und verursacht {0}% Schaden an Gegnern in der Nähe.,Ab Level 3 freigeschaltet
+0,WuKong,2,Coming Soon,Coming Soon,Eisenhaut,Passiv,Verringert den von Gegnern erlittenen Schaden um {0}%.,Ab Level 6 freigeschaltet
+0,WuKong,3,Coming Soon,Coming Soon,Unschlagbar,Passiv,Erhöht die Rüstung von Wukong um {0}% für jeden Gegner in der Nähe.,Ab Level 8 freigeschaltet
+1,Ashi,0,Coming Soon,Coming Soon,Lass es regnen,Aktiv,Regen kristallisierte Pfeile entlang der angegebenen Position und verursachte {0} Schaden.,Freigeschaltet.
+1,Ashi,1,Coming Soon,Coming Soon,Tödlicher Pfeil,Passiv,"Haben Sie {0}% Chance, die Schwäche des Gegners auszunutzen, indem Sie seine kritischen Punkte abschießen.",Ab Level 3 freigeschaltet
+1,Ashi,2,Coming Soon,Coming Soon,Schneller Schuss,Passiv,"Ashi fokussiert ihre Sinne, erhöht das Angriffstempo für {0} Sekunden drastisch.",Ab Level 6 freigeschaltet
+1,Ashi,3,Coming Soon,Coming Soon,Frostbeule,Passiv,"Löst magische Sphären aus, die Feinde um {0}% verlangsamen.",Ab Level 8 freigeschaltet
+2,Sir Galahad,0,Coming Soon,Coming Soon,Legion des Lichts,Aktiv,"Rufe einen himmlischen Wächter mit {0}% von Galahads Angriff an, um Feinde abzuwehren und sie zu vernichten.",Freigeschaltet.
+2,Sir Galahad,1,Coming Soon,Coming Soon,Heiliges Schild,Passiv,"Wenn er angegriffen wird, hat er eine moderate Chance, Galahads Verteidigung um {0}% zu erhöhen.",Ab Level 3 freigeschaltet
+2,Sir Galahad,2,Coming Soon,Coming Soon,Eifer,Passiv,Liefert einen starken Schrägstrich bei allen {0} Angriffen.,Ab Level 6 freigeschaltet
+2,Sir Galahad,3,Coming Soon,Coming Soon,Armageddon,Passiv,"Zerschlägt sein Schwert zu Boden, fügt allen Gegnern in Reichweite {0} Schaden zu und betäubt sie.",Ab Level 8 freigeschaltet
+3,Shaman King,0,Coming Soon,Coming Soon,Meteor,Aktiv,Der Schamanenkönig schüttet das vorgesehene Feld mit einem massiven Meteor aus und verursacht {0} Schaden.,Freigeschaltet.
+3,Shaman King,1,Coming Soon,Coming Soon,Konzentration,Passiv,Erhöht das Angriffstempo des Schamanenkönigs um {0} und den Schaden um {1} mit einer Welle magischer Kraft.,Ab Level 3 freigeschaltet
+3,Shaman King,2,Coming Soon,Coming Soon,Gefrorenes Königreich,Passiv,friert den Zielort ein. Vorbeiziehende Gegner werden durch die aufsteigenden Spikes geschädigt und erhalten jede Sekunde {0} Schaden.,Ab Level 6 freigeschaltet
+3,Shaman King,3,Coming Soon,Coming Soon,Blitzschlag,Passiv,"Sprengen Sie das Gebiet mit Blitzgeysiren in die Luft, die Feinde in Reichweite mit Stromschlag töten und dabei {0} Schaden anrichten.",Ab Level 8 freigeschaltet
+4,Lava Golem,0,Coming Soon,Coming Soon,Erdbeben,Aktiv,"Erzeugt zahlreiche flammende Felsbrocken, atemberaubende, bodengebundene Feinde und fügt {0} Schaden zu.",Freigeschaltet.
+4,Lava Golem,1,Coming Soon,Coming Soon,Lava Rüstung,Passiv,Negiert alle empfangenen Schäden innerhalb von {0} Sekunden.,Ab Level 3 freigeschaltet
+4,Lava Golem,2,Coming Soon,Coming Soon,Lavaschlag,Passiv,"Gewährt Golem {0}% Chance, die Feinde mit normalem Angriff zu betäuben.",Ab Level 6 freigeschaltet
+4,Lava Golem,3,Coming Soon,Coming Soon,Erwecken,Passiv,Golem inspiriert alle Verbündeten mit seiner brennenden Leidenschaft und macht sie agiler. Verbündete gewinnen {0} Geschwindigkeit.,Ab Level 8 freigeschaltet
+5,Nature Queen,0,Coming Soon,Coming Soon,Heilen,Aktiv,Heilen Sie alle Verbündeten innerhalb des Zielradius für {0} PS.,Freigeschaltet.
+5,Nature Queen,1,Coming Soon,Coming Soon,Ruf der Natur,Passiv,"Rufen Sie die Kraft von Mutter Erde hervor, um den Angriff der Natürlichen Königin um {0} Punkte zu verstärken.",Ab Level 3 freigeschaltet
+5,Nature Queen,2,Coming Soon,Coming Soon,Greifende Wurzeln,Passiv,"Beschwörung von Waldreben, die in kurzer Zeit Schaden anrichten und Feinde verwurzeln {0}.",Ab Level 6 freigeschaltet
+5,Nature Queen,3,Coming Soon,Coming Soon,Katastrophe,Passiv,"Schiesst {0} Zielsuchspitzen, die hinter den zurückweichenden Feinden herjagen.",Ab Level 8 freigeschaltet
+6,Thor,0,Coming Soon,Coming Soon,Lightning Rod,Active,"Lightning strikes from the sky, stunning all enemies for {0}s.",Unlocked.
+6,Thor,1,Coming Soon,Coming Soon,Call of the king,Passive,Increases all allies' attack power by {0}% for {1}s.,Unlock at level 3.
+6,Thor,2,Coming Soon,Coming Soon,Shazam,Passive,"Electrifies his surrounding with lightning bolts, dealing {0} damage to nearby enemies.",Unlock at level 6.
+6,Thor,3,Coming Soon,Coming Soon,Sky Fall,Passive,"Electrocutes the nearest flying opponent, dealing {0} damage.",Unlock at level 8.
+7,Ninja Assassin,0,Coming Soon,Coming Soon,Omnislash,Active,"Blinks to the enemies location and assaults them, dealing {0} penetration damage.",Unlocked.
+7,Ninja Assassin,1,Coming Soon,Coming Soon,Escape,Passive,"When HP drops below {0}%, retreat while releasing small spikes on the ground that slows enemies down by {1}%.",Unlock at level 3.
+7,Ninja Assassin,2,Coming Soon,Coming Soon,Kusarigama Power ,Passive,Basic attack has {0}% chance to deal {1} AOE damage.,Unlock at level 6.
+7,Ninja Assassin,3,Coming Soon,Coming Soon,Houroku-Hiya ,Passive,"Set a timer bomb that sets off in {1}s. When explodes, deals {0} damage to hit enemies.",Unlock at level 8.
+8,Tristana,0,Coming Soon,Coming Soon,Boom burst,Active,"Fires a series of rockets to a designated area, dealing {0} damage to enemies in the location.",Unlocked.
+8,Tristana,1,Coming Soon,Coming Soon,Get away from me,Passive,"Blasts away all enemies on her way with a four-barrel pistol, deals damage and weakens their attack power by {0}% .",Unlock at level 3.
+8,Tristana,2,Coming Soon,Coming Soon,Seduce kiss,Passive,Charm the nearest opponent for {0}s.,Unlock at level 6.
+8,Tristana,3,Coming Soon,Coming Soon,Precision,Passive,Increases attack range by {0}%.,Unlock at level 8.
+9,Jungle Lord,0,Coming Soon,Coming Soon,Peashooter Army,Active,Summons {0} Peashooters to his aid on a designated area. Peashooters last {1}s.,Unlocked.
+9,Jungle Lord,1,Coming Soon,Coming Soon,Zombie Mushroom,Passive,"Tosses a toxic mushroom towards the enemies, confusing {0} opponents and making them go back to the starting point. The effect lasts for {1}s.",Unlock at level 3.
+9,Jungle Lord,2,Coming Soon,Coming Soon,Root,Passive,"Jungle Lord plants his roots down the ground to absorb nutritions, healing {0}% HP.",Unlock at level 6.
+9,Jungle Lord,3,Coming Soon,Coming Soon,Doppelganger,Passive,"Spawns a Jungle Lord's copy with {0}% of his stats, lasts for {1}s.",Unlock at level 8.
+10,Steel Dragon,0,Coming Soon,Coming Soon,Dragon Rage,Active,"Rains down energy spheres on a targeted area in {0}s, dealing a maximum of {1} damage.",Unlocked.
+10,Steel Dragon,1,Coming Soon,Coming Soon,Metal Wing,Passive,"Ferociously attacks enemies with razor sharp feathers firing from its wings, dealing {0} damage while decreasing {1}% of hit enemies' defense.",Unlock at level 3.
+10,Steel Dragon,2,Coming Soon,Coming Soon,Dragon Fang,Passive,"Crushes the enemies with its strong jaw, dealing {0} damage.",Unlock at level 6.
+10,Steel Dragon,3,Coming Soon,Coming Soon,Breath of Destruction,Passive,Fires an energy laser that deals {0} damage on a wide area.,Unlock at level 8.
+11,Phoenix,0,Coming Soon,Coming Soon,Blazing Road,Active,Incinerates the ground in a line. Enemies standing on the scorched ground take {0} damage.,Unlocked.
+11,Phoenix,1,Coming Soon,Coming Soon,Nova Crash,Passive,"Sets Phoenix himself ablaze and dives below, creating a huge explosion that deals {0} damage to enemies within.",Unlock at level 3.
+11,Phoenix,2,Coming Soon,Coming Soon,Purification,Passive,"Brainwashes an enemy and turns it into a fire pixie. The pixie then explodes, dealing {0} AoE damage to nearby enemies.",Unlock at level 6.
+11,Phoenix,3,Coming Soon,Coming Soon,Life aura,Passive,Continuously recovers nearby allies' HP for {0}s.,Unlock at level 8.

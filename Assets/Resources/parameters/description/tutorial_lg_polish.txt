@@ -1,0 +1,37 @@
+tut_id,tut_description
+choose_map_step_0,Zacznij tutaj!
+start_game_step_0,Wybierz swego bohatera!
+start_game_step_1,Rozpocznij grę!
+call_enemy_step_0,"Wciśnij, aby rozpocząć bitwę"
+call_enemy_step_1,Potwierdzać!
+build_tower_step_0,"Wciśnij, aby zbudować wieżę"
+build_first_tower_step_0,Piechota może blokować drogę wrogom
+build_first_tower_step_1,"Wciśnij ponownie, aby potwierdzić!"
+build_second_tower_step_0,Miotacz Kul sieje spustoszenie
+build_second_tower_step_1,"Wciśnij ponownie, aby potwierdzić!"
+build_third_tower_step_0,Ksiądz pomaga generować złoto
+build_third_tower_step_1,"Wciśnij ponownie, aby potwierdzić!"
+speed_button,"Włącz, aby przyspieszyć grę"
+move_hero_step_0,"Wciśnij, aby wybrać bohatera"
+move_hero_step_1,"Naciśnij na lokalizację, aby przesunąć"
+hero_skill_step_0,"Wciśnij, aby wybrać umiejętność"
+hero_skill_step_1,"Naciśnij na lokalizację, @ aby przydzielić umiejętność"
+unlock_hero_step_0,Nowy bohater odblokowany!
+unlock_hero_step_1,"Wciśnij, aby wybrać nowego bohatera"
+unlock_hero_step_2,"Wciśnij, aby odblokować"
+upgrade_hero_step_0,Wybierz bohatera do ulepszenia
+upgrade_hero_step_1,Uaktualnij poziom bohatera!
+upgrade_tower_step_0,Pozwól ulepszyć twoje wieże!
+upgrade_tower_step_1,Wybierz porządną umiejętność
+upgrade_tower_step_2,I ulepsz go!
+open_lucky_chest_step_1_first_chest,"Dotknij, aby otworzyć pudełko!"
+open_lucky_chest_step_2_second_chest,"Dotknij, aby otworzyć pudełko!"
+open_lucky_chest_step_3_third_chest,"Dotknij, aby otworzyć pudełko!"
+open_lucky_chest_step_4_free_chest,"Dotknij, aby uzyskać 3 kolejne pudełko!"
+open_lucky_chest_step_5_auto_open,"Dotknij, aby szybko otworzyć pudełko!"
+open_lucky_chest_step_6_free_chest_again,"Dotknij, aby uzyskać 3 kolejne pudełko!"
+open_lucky_chest_step_7_auto_open_again,"Dotknij, aby szybko otworzyć pudełko!"
+open_lucky_chest_step_8_continue,Kontynuuj swoją przygodę!
+use_hero_skill_point_step_0,Ulepsz umiejętności twojego bohatera!
+use_hero_skill_point_step_1,"Naciśnij, aby wybrać bohatera."
+use_hero_skill_point_step_2,"Użyj punktu(ów) umiejętności, aby podnieść poziom(y) umiejętności!"

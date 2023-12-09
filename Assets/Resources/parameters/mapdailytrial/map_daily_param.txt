@@ -1,0 +1,8 @@
+day,map_id,note,title,tower_level_max_0,tower_level_max_1,tower_level_max_2,tower_level_max_3,tower_level_max_4,input_hero_id_slot_0,input_hero_id_slot_1,input_hero_id_slot_2,input_hero_level,input_pi_freezing,input_pi_meteor,input_pi_healing,input_pi_goldchest
+0,0,Input Param,Galahad Trial,-1,0,1,1,-1,2,-1,-1,9,10,10,0,0
+1,0,Input Param,Ashi Trial,2,1,1,1,-1,1,-1,-1,9,0,0,0,0
+2,0,Input Param,Wukong Trial,2,2,2,2,2,0,-1,-1,9,0,0,0,0
+3,1,Input Param,Shaman Trial,3,2,2,3,3,3,-1,-1,9,0,0,0,0
+4,1,Input Param,Golem Trial,3,3,3,3,3,4,-1,-1,9,0,0,0,0
+5,1,Input Param,Queen Trial,3,3,3,3,3,5,-1,-1,9,0,0,0,0
+6,2,Input Param,Squad Trial,3,3,3,3,3,3,4,5,9,0,0,0,0

@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "DragonTower3"
+  m_Controller: {fileID: 9100000, guid: c4b031347fdd493eba17322ee1dd12b3, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 3b4a7918d7e64563a25378133e112b67, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d4f163bfbefd473096cbcd47f213417f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 055de0f2571f4601b4b2a1aee7a19110, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ef2abf484a0045a8953dd892a5b3655e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3dbc0a28c6b74f49813104cd7101e844, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a8d8ede3f2784ae0bbc0882025468ac4, type: 2}

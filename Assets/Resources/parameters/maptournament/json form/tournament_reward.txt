@@ -1,0 +1,268 @@
+[
+  {
+    "LeagueIndex": 0,
+    "RankRangeLower": 1,
+    "RankRangeUpper": 1,
+    "ItemTypes": "Gem,Item0,League",
+    "ItemQuantities": "500,1,1"
+  },
+  {
+    "LeagueIndex": 0,
+    "RankRangeLower": 3,
+    "RankRangeUpper": 2,
+    "ItemTypes": "Gem,Item1,League",
+    "ItemQuantities": "250,1,1"
+  },
+  {
+    "LeagueIndex": 0,
+    "RankRangeLower": 10,
+    "RankRangeUpper": 4,
+    "ItemTypes": "Gem,Item2,League",
+    "ItemQuantities": "150,1,1"
+  },
+  {
+    "LeagueIndex": 0,
+    "RankRangeLower": 25,
+    "RankRangeUpper": 11,
+    "ItemTypes": "Gem,Item2",
+    "ItemQuantities": "40,1"
+  },
+  {
+    "LeagueIndex": 0,
+    "RankRangeLower": 100000,
+    "RankRangeUpper": 26,
+    "ItemTypes": "Gem,Item2",
+    "ItemQuantities": "15,1"
+  },
+  {
+    "LeagueIndex": 1,
+    "RankRangeLower": 1,
+    "RankRangeUpper": 1,
+    "ItemTypes": "Gem,Item0,League",
+    "ItemQuantities": "600,1,1"
+  },
+  {
+    "LeagueIndex": 1,
+    "RankRangeLower": 3,
+    "RankRangeUpper": 2,
+    "ItemTypes": "Gem,Item1,League",
+    "ItemQuantities": "300,1,1"
+  },
+  {
+    "LeagueIndex": 1,
+    "RankRangeLower": 10,
+    "RankRangeUpper": 4,
+    "ItemTypes": "Gem,Item2,League",
+    "ItemQuantities": "180,1,1"
+  },
+  {
+    "LeagueIndex": 1,
+    "RankRangeLower": 25,
+    "RankRangeUpper": 11,
+    "ItemTypes": "Gem,Item2",
+    "ItemQuantities": "45,1"
+  },
+  {
+    "LeagueIndex": 1,
+    "RankRangeLower": 100000,
+    "RankRangeUpper": 26,
+    "ItemTypes": "Gem,Item2",
+    "ItemQuantities": "20,1"
+  },
+  {
+    "LeagueIndex": 2,
+    "RankRangeLower": 1,
+    "RankRangeUpper": 1,
+    "ItemTypes": "Gem,Item0,League",
+    "ItemQuantities": "700,2,1"
+  },
+  {
+    "LeagueIndex": 2,
+    "RankRangeLower": 3,
+    "RankRangeUpper": 2,
+    "ItemTypes": "Gem,Item1,League",
+    "ItemQuantities": "350,2,1"
+  },
+  {
+    "LeagueIndex": 2,
+    "RankRangeLower": 10,
+    "RankRangeUpper": 4,
+    "ItemTypes": "Gem,Item2,League",
+    "ItemQuantities": "210,2,1"
+  },
+  {
+    "LeagueIndex": 2,
+    "RankRangeLower": 25,
+    "RankRangeUpper": 11,
+    "ItemTypes": "Gem,Item2",
+    "ItemQuantities": "50,2"
+  },
+  {
+    "LeagueIndex": 2,
+    "RankRangeLower": 100000,
+    "RankRangeUpper": 26,
+    "ItemTypes": "Gem,Item2",
+    "ItemQuantities": "20,2"
+  },
+  {
+    "LeagueIndex": 3,
+    "RankRangeLower": 1,
+    "RankRangeUpper": 1,
+    "ItemTypes": "Gem,Item0,League",
+    "ItemQuantities": "800,2,1"
+  },
+  {
+    "LeagueIndex": 3,
+    "RankRangeLower": 3,
+    "RankRangeUpper": 2,
+    "ItemTypes": "Gem,Item1,League",
+    "ItemQuantities": "400,2,1"
+  },
+  {
+    "LeagueIndex": 3,
+    "RankRangeLower": 10,
+    "RankRangeUpper": 4,
+    "ItemTypes": "Gem,Item2,League",
+    "ItemQuantities": "240,2,1"
+  },
+  {
+    "LeagueIndex": 3,
+    "RankRangeLower": 25,
+    "RankRangeUpper": 11,
+    "ItemTypes": "Gem,Item2",
+    "ItemQuantities": "60,1"
+  },
+  {
+    "LeagueIndex": 3,
+    "RankRangeLower": 100000,
+    "RankRangeUpper": 26,
+    "ItemTypes": "Gem,Item2",
+    "ItemQuantities": "20,1"
+  },
+  {
+    "LeagueIndex": 4,
+    "RankRangeLower": 1,
+    "RankRangeUpper": 1,
+    "ItemTypes": "Gem,Item0,League",
+    "ItemQuantities": "900,3,1"
+  },
+  {
+    "LeagueIndex": 4,
+    "RankRangeLower": 3,
+    "RankRangeUpper": 2,
+    "ItemTypes": "Gem,Item1,League",
+    "ItemQuantities": "450,3,1"
+  },
+  {
+    "LeagueIndex": 4,
+    "RankRangeLower": 10,
+    "RankRangeUpper": 4,
+    "ItemTypes": "Gem,Item2,League",
+    "ItemQuantities": "250,3,1"
+  },
+  {
+    "LeagueIndex": 4,
+    "RankRangeLower": 25,
+    "RankRangeUpper": 11,
+    "ItemTypes": "Gem,Item2",
+    "ItemQuantities": "65,3"
+  },
+  {
+    "LeagueIndex": 4,
+    "RankRangeLower": 100000,
+    "RankRangeUpper": 26,
+    "ItemTypes": "Gem,Item2",
+    "ItemQuantities": "25,3"
+  },
+  {
+    "LeagueIndex": 5,
+    "RankRangeLower": 1,
+    "RankRangeUpper": 1,
+    "ItemTypes": "Gem,Item0,League",
+    "ItemQuantities": "1000,3,1"
+  },
+  {
+    "LeagueIndex": 5,
+    "RankRangeLower": 3,
+    "RankRangeUpper": 2,
+    "ItemTypes": "Gem,Item1,League",
+    "ItemQuantities": "500,3,1"
+  },
+  {
+    "LeagueIndex": 5,
+    "RankRangeLower": 10,
+    "RankRangeUpper": 4,
+    "ItemTypes": "Gem,Item2,League",
+    "ItemQuantities": "300,3,1"
+  },
+  {
+    "LeagueIndex": 5,
+    "RankRangeLower": 25,
+    "RankRangeUpper": 11,
+    "ItemTypes": "Gem,Item2",
+    "ItemQuantities": "70,3"
+  },
+  {
+    "LeagueIndex": 5,
+    "RankRangeLower": 100000,
+    "RankRangeUpper": 26,
+    "ItemTypes": "Gem,Item2",
+    "ItemQuantities": "25,3"
+  },
+  {
+    "LeagueIndex": 6,
+    "RankRangeLower": 1,
+    "RankRangeUpper": 1,
+    "ItemTypes": "Gem,Item0",
+    "ItemQuantities": "1100,5"
+  },
+  {
+    "LeagueIndex": 6,
+    "RankRangeLower": 3,
+    "RankRangeUpper": 2,
+    "ItemTypes": "Gem,Item1",
+    "ItemQuantities": "650,5"
+  },
+  {
+    "LeagueIndex": 6,
+    "RankRangeLower": 10,
+    "RankRangeUpper": 4,
+    "ItemTypes": "Gem,Item2",
+    "ItemQuantities": "330,5"
+  },
+  {
+    "LeagueIndex": 6,
+    "RankRangeLower": 25,
+    "RankRangeUpper": 11,
+    "ItemTypes": "Gem,Item2",
+    "ItemQuantities": "80,5"
+  },
+  {
+    "LeagueIndex": 6,
+    "RankRangeLower": 100000,
+    "RankRangeUpper": 26,
+    "ItemTypes": "Gem,Item2",
+    "ItemQuantities": "30,5"
+  },
+  {
+    "LeagueIndex": 1000,
+    "RankRangeLower": 1,
+    "RankRangeUpper": 1,
+    "ItemTypes": "Gem,Item0,Item1",
+    "ItemQuantities": "1000,1,1"
+  },
+  {
+    "LeagueIndex": 1000,
+    "RankRangeLower": 5,
+    "RankRangeUpper": 2,
+    "ItemTypes": "Gem,Item2",
+    "ItemQuantities": "50,1"
+  },
+  {
+    "LeagueIndex": 1000,
+    "RankRangeLower": 100,
+    "RankRangeUpper": 6,
+    "ItemTypes": "Gem",
+    "ItemQuantities": "10,"
+  }
+]

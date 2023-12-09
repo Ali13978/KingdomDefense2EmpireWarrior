@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77b8bbe3c3a0f959191f4802d81e8bb4, type: 3}
+  m_Name: "FacebookServicesReward"
+  m_EditorClassIdentifier: 
+  listReward:
+  - name: "Login"
+    rewardID: "reward_id_login"
+    rewardAmount_Gem: 50
+    rewardAmount_ItemFreezing: 0
+    rewardAmount_ItemMeteor: 0
+    rewardAmount_ItemHealingWard: 0
+    rewardAmount_ItemGoldChest: 0
+  - name: "Like Fanpage"
+    rewardID: "reward_id_like_fanpage"
+    rewardAmount_Gem: 50
+    rewardAmount_ItemFreezing: 0
+    rewardAmount_ItemMeteor: 0
+    rewardAmount_ItemHealingWard: 0
+    rewardAmount_ItemGoldChest: 0
+  - name: "Invite Friends"
+    rewardID: "reward_id_invite_friend"
+    rewardAmount_Gem: 5
+    rewardAmount_ItemFreezing: 0
+    rewardAmount_ItemMeteor: 0
+    rewardAmount_ItemHealingWard: 0
+    rewardAmount_ItemGoldChest: 0
+  - name: "Share Fanpage"
+    rewardID: "reward_id_share_fanpage"
+    rewardAmount_Gem: 50
+    rewardAmount_ItemFreezing: 0
+    rewardAmount_ItemMeteor: 0
+    rewardAmount_ItemHealingWard: 0
+    rewardAmount_ItemGoldChest: 0
+  - name: "Share Promotion Image"
+    rewardID: "reward_id_share_promotion_image"
+    rewardAmount_Gem: 50
+    rewardAmount_ItemFreezing: 0
+    rewardAmount_ItemMeteor: 0
+    rewardAmount_ItemHealingWard: 0
+    rewardAmount_ItemGoldChest: 0
+  - name: "Share Screenshot"
+    rewardID: "reward_id_share_screenshot"
+    rewardAmount_Gem: 50
+    rewardAmount_ItemFreezing: 0
+    rewardAmount_ItemMeteor: 0
+    rewardAmount_ItemHealingWard: 0
+    rewardAmount_ItemGoldChest: 0
+  - name: "Join Group"
+    rewardID: "reward_id_join_group"
+    rewardAmount_Gem: 50
+    rewardAmount_ItemFreezing: 0
+    rewardAmount_ItemMeteor: 0
+    rewardAmount_ItemHealingWard: 0
+    rewardAmount_ItemGoldChest: 0
+  - name: "Share Link Game"
+    rewardID: "reward_id_share_link_game"
+    rewardAmount_Gem: 50
+    rewardAmount_ItemFreezing: 0
+    rewardAmount_ItemMeteor: 0
+    rewardAmount_ItemHealingWard: 0
+    rewardAmount_ItemGoldChest: 0
+  - name: "Watch Ad"
+    rewardID: "reward_id_watch_ad"
+    rewardAmount_Gem: 100
+    rewardAmount_ItemFreezing: 0
+    rewardAmount_ItemMeteor: 0
+    rewardAmount_ItemHealingWard: 0
+    rewardAmount_ItemGoldChest: 0
+  - name: "Install GOE"
+    rewardID: "reward_id_install_goe"
+    rewardAmount_Gem: 200
+    rewardAmount_ItemFreezing: 0
+    rewardAmount_ItemMeteor: 0
+    rewardAmount_ItemHealingWard: 0
+    rewardAmount_ItemGoldChest: 0

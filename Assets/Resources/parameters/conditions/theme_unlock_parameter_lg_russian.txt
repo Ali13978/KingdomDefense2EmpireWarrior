@@ -1,0 +1,8 @@
+id,condition_type,is_enable_theme_1,condition_theme_1,description_theme1,is_enable_theme_2,condition_theme_2,description_theme2
+0,map_id_passed,1,m_5,Пройденная карта 6!,1,m_11,Пройденная карта 12!
+1,star_require,1,s_15,Владеет 15 звездами!,1,s_33,Владеет 33 звездами!
+2,hero_amount_require,0,ha_2,Принадлежит 2 героям!,1,ha_3,Принадлежит 3 героям!
+3,hero_level_require_slot0,1,2_5,Требовать Sir Galahad уровень 6!,0,4_5,Require Golem level 6!
+4,hero_level_require_slot1,1,1_5,Требовать Ashi уровень 6!,0,5_5,Require Queen level 6!
+5,hero_level_require_slot1,0,0_0,,0,0_0,empty
+6,hero_pet_slot_0,0,p_0,,0,p_1,Owned Ashi's Pet!

@@ -1,0 +1,15 @@
+upgrade_id,upgrade_title,upgrade_description
+0,Promotion pour la construction et mise à jour,Recevez {0}% lors de la construction et de l'amélioration des tours.
+1,Augmentation attaque Rang 1,Augmentation attaque Rang 1
+2,Augmentation attaque rang 2,Augmentation attaque rang 2
+3,Augmenter la vitesse d’attaque 1,Augmenter la vitesse d’attaque 1
+4,Augmenter la vitesse d’attaque 2,Augmenter la vitesse d’attaque 2
+5,Possibilité de résurrection,{0} % de chance pour l’infanterie de ressusciter immédiatement.
+6,Chances de dégâts critiques,Augmente les chances de dégâts critiques de {0}%.
+7,Ignorer la chance de défense,Augmente {0}% ignore les chances de défense.
+8,Augmenter les dégâts d’attaque,Augmente les dégâts d'attaque de {0}.
+9,Ralentir la Chance,Augmente {0}% de chance de ralentir les ennemis pendant les attaques.
+10,Vitesse lente,Vitesse lente
+11,Durée lente,Durée lente.
+12,Augmente la défense physique des infanteries,Augmente l'armure physique de {0}% des infanteries.
+13,Améliorer la santé des infanteries,Augmente l'état de santé maximum de infanteries de {0}.

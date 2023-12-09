@@ -1,0 +1,4 @@
+skill_level,health_percentage_active,health_amount,duration,cooldown_time,description
+0,25,30,4000,68000,Tự động hồi máu
+1,25,40,4000,68000,Tự động hồi máu
+2,25,60,4000,68000,Tự động hồi máu

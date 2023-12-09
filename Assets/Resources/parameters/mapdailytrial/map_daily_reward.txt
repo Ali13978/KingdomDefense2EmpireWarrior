@@ -1,0 +1,22 @@
+day,note,reward_level,condition,wave_require,gem_bonus,item_freezing_bonus,item_meteor_bonus,item_healing_bonus,item_goldchest_bonus
+0,Reward,0,Pass wave,3,10,0,0,0,0
+0,Reward,1,Pass wave,6,20,0,0,0,0
+0,Reward,2,Pass wave,9,50,0,0,0,0
+1,Reward,0,Pass wave,3,0,0,2,0,0
+1,Reward,1,Pass wave,6,0,0,3,0,0
+1,Reward,2,Pass wave,9,0,0,5,0,0
+2,Reward,0,Pass wave,3,0,2,0,0,0
+2,Reward,1,Pass wave,6,0,3,0,0,0
+2,Reward,2,Pass wave,9,250,0,0,0,0
+3,Reward,0,Pass wave,3,20,0,0,0,0
+3,Reward,1,Pass wave,6,30,0,0,0,0
+3,Reward,2,Pass wave,9,50,0,0,0,0
+4,Reward,0,Pass wave,3,0,0,0,2,0
+4,Reward,1,Pass wave,6,0,0,0,3,0
+4,Reward,2,Pass wave,9,0,0,0,5,0
+5,Reward,0,Pass wave,3,0,0,2,0,0
+5,Reward,1,Pass wave,6,0,0,3,0,0
+5,Reward,2,Pass wave,9,100,0,0,0,0
+6,Reward,0,Pass wave,3,50,0,0,0,0
+6,Reward,1,Pass wave,6,150,0,0,0,0
+6,Reward,2,Pass wave,9,300,0,0,0,0

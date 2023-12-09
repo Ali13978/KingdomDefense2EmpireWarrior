@@ -1,0 +1,49 @@
+id,name,skill_id,short_description,full_description,skill_name,skill_type,skill_description,skill_unlock
+0,悟空,0,Coming Soon,即将来临,分魂术,活动,悟空使用  {1}% 的攻击力召唤 {0} 个克隆在有限时间内帮助他参与战斗。,解锁
+0,悟空,1,Coming Soon,即将来临,如意金箍棒,被动,悟空大力转动棒子，为四周敌人献上 {0}% 损害。,解锁第3关
+0,悟空,2,Coming Soon,即将来临,铁皮,被动,减低敌人造成的 {0}% 伤害,解锁第6关
+0,悟空,3,Coming Soon,即将来临,不屈不挠,被动,为每一个逼近悟空的敌人增加悟空的盔甲力 {0}%  ,解锁第8关
+1,艾斯,0,Coming Soon,即将来临,阵雨术,活动,阵雨在指定位置结晶化箭头，造成 {0} 伤害。,解锁
+1,艾斯,1,Coming Soon,即将来临,致命箭头,被动,拥有 {0}% 机会来通过射击敌人关键点攻击他们的弱点。,解锁第3关
+1,艾斯,2,Coming Soon,即将来临,快速射击,被动,艾斯集中神志，大幅提高 {0} 秒的攻击速度。,解锁第6关
+1,艾斯,3,Coming Soon,即将来临,冻疮,被动,释放魔法球来减慢敌人速度 {0}%  。,解锁第8关
+2,加拉哈德大师,0,Coming Soon,即将来临,光的军团,活动,以 {0}% 的加拉哈德攻击术召唤天堂守护者来抵挡并消灭敌人。,解锁
+2,加拉哈德大师,1,Coming Soon,即将来临,神圣盾牌,被动,攻击时，有 {0}% 的机会增加加拉哈德的防御力。,解锁第3关
+2,加拉哈德大师,2,Coming Soon,即将来临,劲力,被动,每 {0} 个攻击发出一次严重砍击。,解锁第6关
+2,加拉哈德大师,3,Coming Soon,即将来临,阿尔马盖敦,被动,将剑往地面上大力砸，造成范围内所有敌人 {0}% 的伤害并击昏他们。,解锁第8关
+3,通灵王,0,Coming Soon,即将来临,流星,活动,通灵王在指定范围释放大量流星，造成 {0} 伤害。,解锁
+3,通灵王,1,Coming Soon,即将来临,集中力,被动,大幅加强通灵王 {0} 的攻击速度和以激增的神奇力量造成 {1} 的伤害。,解锁第3关
+3,通灵王,2,Coming Soon,即将来临,冻结王国,被动,冻结指定地点。路过此地的敌人被升起的尖锋刺伤，每秒接收 {0} 的伤害。,解锁第6关
+3,通灵王,3,Coming Soon,即将来临,雷电光,被动,用雷电光炸毁该区域并电击范围内的敌人，造成 {0} 个伤害。,解锁第8关
+4,熔岩傀儡,0,Coming Soon,即将来临,地震,活动,生产燃烧的巨石，击中地面行动的敌人并造成 {0} 伤害。,解锁
+4,熔岩傀儡,1,Coming Soon,即将来临,容颜盔甲,被动,在 {0} 秒内消除所有伤害。,解锁第3关
+4,熔岩傀儡,2,Coming Soon,即将来临,熔岩拳,被动,赐傀儡 {0}% 机会以平常的攻击击中敌人。,解锁第6关
+4,熔岩傀儡,3,Coming Soon,即将来临,精神鼓舞,被动,傀儡用它燃烧的热情激发所有盟友，让他们更加敏捷。盟友增加 {0} 速度。,解锁第8关
+5,大自然女皇,0,Coming Soon,即将来临,愈合,活动,用 {0} 愈合分来治愈指定范围内的所有盟友。,解锁
+5,大自然女皇,1,Coming Soon,即将来临,大自然召唤,被动,召唤大自然之母的力量来加强大自然女皇 {0}% 的攻击力。,解锁第3关
+5,大自然女皇,2,Coming Soon,即将来临,魔抓藤蔓,被动,召唤森林藤蔓来伤害和在短时间内抓紧 {0} 敌人。,解锁第6关
+5,大自然女皇,3,Coming Soon,即将来临,劫难,被动,射出 {0} 个尖矛来追击正在撤退的敌人。,解锁第8关
+6,Thor,0,Coming Soon,Coming Soon,Lightning Rod,Active,"Lightning strikes from the sky, stunning all enemies for {0}s.",Unlocked.
+6,Thor,1,Coming Soon,Coming Soon,Call of the king,Passive,Increases all allies' attack power by {0}% for {1}s.,Unlock at level 3.
+6,Thor,2,Coming Soon,Coming Soon,Shazam,Passive,"Electrifies his surrounding with lightning bolts, dealing {0} damage to nearby enemies.",Unlock at level 6.
+6,Thor,3,Coming Soon,Coming Soon,Sky Fall,Passive,"Electrocutes the nearest flying opponent, dealing {0} damage.",Unlock at level 8.
+7,Ninja Assassin,0,Coming Soon,Coming Soon,Omnislash,Active,"Blinks to the enemies location and assaults them, dealing {0} penetration damage.",Unlocked.
+7,Ninja Assassin,1,Coming Soon,Coming Soon,Escape,Passive,"When HP drops below {0}%, retreat while releasing small spikes on the ground that slows enemies down by {1}%.",Unlock at level 3.
+7,Ninja Assassin,2,Coming Soon,Coming Soon,Kusarigama Power ,Passive,Basic attack has {0}% chance to deal {1} AOE damage.,Unlock at level 6.
+7,Ninja Assassin,3,Coming Soon,Coming Soon,Houroku-Hiya ,Passive,"Set a timer bomb that sets off in {1}s. When explodes, deals {0} damage to hit enemies.",Unlock at level 8.
+8,Tristana,0,Coming Soon,Coming Soon,Boom burst,Active,"Fires a series of rockets to a designated area, dealing {0} damage to enemies in the location.",Unlocked.
+8,Tristana,1,Coming Soon,Coming Soon,Get away from me,Passive,"Blasts away all enemies on her way with a four-barrel pistol, deals damage and weakens their attack power by {0}% .",Unlock at level 3.
+8,Tristana,2,Coming Soon,Coming Soon,Seduce kiss,Passive,Charm the nearest opponent for {0}s.,Unlock at level 6.
+8,Tristana,3,Coming Soon,Coming Soon,Precision,Passive,Increases attack range by {0}%.,Unlock at level 8.
+9,Jungle Lord,0,Coming Soon,Coming Soon,Peashooter Army,Active,Summons {0} Peashooters to his aid on a designated area. Peashooters last {1}s.,Unlocked.
+9,Jungle Lord,1,Coming Soon,Coming Soon,Zombie Mushroom,Passive,"Tosses a toxic mushroom towards the enemies, confusing {0} opponents and making them go back to the starting point. The effect lasts for {1}s.",Unlock at level 3.
+9,Jungle Lord,2,Coming Soon,Coming Soon,Root,Passive,"Jungle Lord plants his roots down the ground to absorb nutritions, healing {0}% HP.",Unlock at level 6.
+9,Jungle Lord,3,Coming Soon,Coming Soon,Doppelganger,Passive,"Spawns a Jungle Lord's copy with {0}% of his stats, lasts for {1}s.",Unlock at level 8.
+10,Steel Dragon,0,Coming Soon,Coming Soon,Dragon Rage,Active,"Rains down energy spheres on a targeted area in {0}s, dealing a maximum of {1} damage.",Unlocked.
+10,Steel Dragon,1,Coming Soon,Coming Soon,Metal Wing,Passive,"Ferociously attacks enemies with razor sharp feathers firing from its wings, dealing {0} damage while decreasing {1}% of hit enemies' defense.",Unlock at level 3.
+10,Steel Dragon,2,Coming Soon,Coming Soon,Dragon Fang,Passive,"Crushes the enemies with its strong jaw, dealing {0} damage.",Unlock at level 6.
+10,Steel Dragon,3,Coming Soon,Coming Soon,Breath of Destruction,Passive,Fires an energy laser that deals {0} damage on a wide area.,Unlock at level 8.
+11,Phoenix,0,Coming Soon,Coming Soon,Blazing Road,Active,Incinerates the ground in a line. Enemies standing on the scorched ground take {0} damage.,Unlocked.
+11,Phoenix,1,Coming Soon,Coming Soon,Nova Crash,Passive,"Sets Phoenix himself ablaze and dives below, creating a huge explosion that deals {0} damage to enemies within.",Unlock at level 3.
+11,Phoenix,2,Coming Soon,Coming Soon,Purification,Passive,"Brainwashes an enemy and turns it into a fire pixie. The pixie then explodes, dealing {0} AoE damage to nearby enemies.",Unlock at level 6.
+11,Phoenix,3,Coming Soon,Coming Soon,Life aura,Passive,Continuously recovers nearby allies' HP for {0}s.,Unlock at level 8.

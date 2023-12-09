@@ -1,0 +1,26 @@
+id,level,name,type,short_description,description,unlock_description
+0,0,Arquero,agresión física,"Ataca enemigos de tierra y de aire, lidiando con daño físico. ","Ataca enemigos de tierra y de aire, lidiando con daño físico. ",Â¡Nivel 1 de Arquero desbloqueado
+0,1,Arquero,agresión física,Las flechas de bronce ayudan a mejorar el rango de ataque y a aumentar el daño. ,Las flechas de bronce ayudan a mejorar el rango de ataque y a aumentar el daño. ,Â¡Nivel 2 de Arquero desbloqueado
+0,2,Arquero,agresión física,"Equipa Arqueros con flechas de acero, lo que mejorará aún más el daño.","Equipa Arqueros con flechas de acero, lo que mejorará aún más el daño.",Â¡Nivel 3 de Arquero desbloqueado
+0,3,Arquero,agresión física,"Mejora de arcos, aumentando la velocidad de ataque.","Mejora de arcos, aumentando la velocidad de ataque.",Â¡Nivel 4 de Arquero desbloqueado! Â¡Habilidad definitiva mejorada!
+0,4,Arquero,agresión física,Flechas de plata causando daño masivo.,Flechas de plata causando daño masivo.,Â¡Nivel 5 de Arquero desbloqueado
+1,0,Infanteria,agresión física,Guerreros comunes con armadura pesada que pueden bloquear el camino de los enemigos.,Guerreros comunes con armadura pesada que pueden bloquear el camino de los enemigos.,Â¡Nivel 1 de Infanteria desbloqueada
+1,1,Infanteria,agresión física,Guerreros entrenados con armaduras y armas de bronce.,Guerreros entrenados con armaduras y armas de bronce.,Â¡Nivel 2 de Infanteria desbloqueada
+1,2,Infanteria,agresión física,Guerreros experimentados con armaduras y armas de acero.,Guerreros experimentados con armaduras y armas de acero.,Â¡Nivel 3 de Infanteria desbloqueada
+1,3,Infanteria,agresión física,Guerreros veteranos con armaduras y armas de plata.,Guerreros veteranos con armaduras y armas de plata.,Â¡Nivel 4 de Infanteria desbloqueada!Â¡Habilidad definitiva mejorada!
+1,4,Infanteria,agresión física,"Los guerreros ahora pueden esconderse para emboscar enemigos, evitando daños a distancia.","Los guerreros ahora pueden esconderse para emboscar enemigos, evitando daños a distancia.",Â¡Nivel 5 de Infanteria desbloqueada
+2,0,CaÃ±onero,agresión física,Pequeño daño AoE que es efectivo contra los enemigos en tierra.,Pequeño daño AoE que es efectivo contra los enemigos en tierra.,Â¡Nivel 1 de CaÃ±onero desbloqueado
+2,1,CaÃ±onero,agresión física,Medio daño AoE que es efectivo contra los enemigos de tierra.,Medio daño AoE que es efectivo contra los enemigos de tierra.,Â¡Nivel 2 de CaÃ±onero desbloqueado
+2,2,CaÃ±onero,agresión física,Gran daño AoE que es efectivo contra los enemigos de tierra.,Gran daño AoE que es efectivo contra los enemigos de tierra.,Â¡Nivel 3 de CaÃ±onero desbloqueado
+2,3,CaÃ±onero,agresión física,"Lanza rocas de lava a enemigos terrestres, infligiendo un daño masivo.","Lanza rocas de lava a enemigos terrestres, infligiendo un daño masivo.",Â¡Nivel 4 de CaÃ±onero desbloqueado!Â¡Habilidad definitiva mejorada!
+2,4,CaÃ±onero,agresión física,"Crea un campo estático alrededor del área, ralentizando a los enemigos.","Crea un campo estático alrededor del área, ralentizando a los enemigos.",Â¡Nivel 5 de CaÃ±onero desbloqueado
+3,0,Dragon magico,ataque mágico,Inflinge daño penetrante tanto a las unidades terrestres como a las voladoras.,Inflinge daño penetrante tanto a las unidades terrestres como a las voladoras.,Â¡Nivel 1 de DragÃ³n MÃ¡gico desbloqueado
+3,1,Dragon magico,ataque mágico,"Dispara una esfera extra, causando medio daño mágico.","Dispara una esfera extra, causando medio daño mágico.",Â¡Nivel 2 de DragÃ³n MÃ¡gico desbloqueado
+3,2,Dragon magico,ataque mágico,Dragón completamente crecido con mayor daño y rango de ataque.,Dragón completamente crecido con mayor daño y rango de ataque.,Â¡Nivel 3 de DragÃ³n MÃ¡gico desbloqueado
+3,3,Dragon magico,ataque mágico,Dragón de miles de años con una gran fuerza y habilidades especiales.,Dragón de miles de años con una gran fuerza y habilidades especiales.,Â¡Nivel 4 de DragÃ³n MÃ¡gico desbloqueado!Â¡Habilidad definitiva mejorada!
+3,4,Dragon magico,ataque mágico,"Dispara un rayo láser en línea recta, dañando a todos los enemigos que toca.","Dispara un rayo láser en línea recta, dañando a todos los enemigos que toca.",Â¡Nivel 5 de DragÃ³n MÃ¡gico desbloqueado
+4,0,Sacerdote,Generar oro,Genera 10 de oro en 10 segundos.,Genera 10 de oro en 10 segundos.,Â¡Nivel 1 de Sacerdote desbloqueado
+4,1,Sacerdote,Generar oro,Genera 25 de oro en 10 segundos.,Genera 25 de oro en 10 segundos.,Â¡Nivel 2 de Sacerdote desbloqueado
+4,2,Sacerdote,Generar oro,Genera 35 de oro en 10 segundos.,Genera 35 de oro en 10 segundos.,Â¡Nivel 3 de Sacerdote desbloqueado
+4,3,Sacerdote,Generar oro,Genera 45 de oro en 10 segundos.,Genera 45 de oro en 10 segundos.,Â¡Nivel 4 de Sacerdote desbloqueado!Â¡Habilidad definitiva mejorada!
+4,4,Sacerdote,Generar oro,Genera 45 de oro en 10 segundos.,Genera 45 de oro en 10 segundos.,Â¡Nivel 5 de Sacerdote desbloqueado

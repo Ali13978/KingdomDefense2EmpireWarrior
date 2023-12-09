@@ -1,0 +1,15 @@
+upgrade_id,upgrade_title,upgrade_description
+0,Giảm Giá,Giảm {0} % giá xây và nâng cấp trụ.
+1,Tầm Đánh,Mở rộng phạm vi tấn công của trụ.
+2,Tầm Đánh,Mở rộng phạm vi tấn công của trụ.
+3,Tốc Độ,Tăng tốc độ tấn công.
+4,Tốc Độ,Tắc tốc độ tấn công.
+5,Hồi Sinh,{0} % cơ hội hồi sinh lính ngay khi chết.
+6,Crit Damage,Tăng {0} % tỉ lệ gây Crit Damage lên quái.
+7,Xuyên Giáp,Tăng {0} % tỉ lệ xuyên giáp vật lý và phép.
+8,Sát Thương,Tăng {0} sát thương mỗi viên đạn.
+9,Làm Chậm,Tăng {0} % tỷ lệ làm chậm kẻ thù khi tấn công.
+10,Làm Chậm,Tăng tỷ lệ làm chậm kẻ thù khi tấn công.
+11,Làm Chậm,Tăng thời gian làm chậm kẻ thù.
+12,Tăng Giáp Vật Lý,Tăng {0} % kháng vật lý cho lính.
+13,Sinh Lực,Tăng {0} máu cho mỗi đơn vị lính.

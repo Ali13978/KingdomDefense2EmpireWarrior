@@ -1,0 +1,2 @@
+slot_count,line_count,early_call_money,life_2_star,life_3_star,gem_taken_first_time,gem_taken_second_time,gem_taken_third_time
+3,3,2,65,90,100,40,20

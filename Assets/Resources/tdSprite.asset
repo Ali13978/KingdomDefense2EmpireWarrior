@@ -1,0 +1,383 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2019389346, guid: 0904eccab3b1ee9ab22971135755e058, type: 3}
+  m_Name: "tdSprite"
+  m_EditorClassIdentifier: 
+  hashCode: 1987488793
+  material: {fileID: 2100000, guid: 12cff60f4fff430b8d67a8fd3b340f37, type: 2}
+  materialHashCode: 0
+  spriteSheet: {fileID: 2800000, guid: 6ffd4af99da541b9b45a111aba4401c8, type: 3}
+  spriteInfoList:
+  - id: 0
+    x: 0
+    y: 198
+    width: 30
+    height: 28
+    xOffset: -5.229002
+    yOffset: 22.68535
+    xAdvance: 30
+    scale: 1
+    name: "tdSprite_8"
+    hashCode: -288220130
+    unicode: 0
+    pivot: {x: -5.229002, y: 22.68535}
+    sprite: {fileID: 21300016, guid: 6ffd4af99da541b9b45a111aba4401c8, type: 3}
+  - id: 1
+    x: 33
+    y: 196
+    width: 30
+    height: 30
+    xOffset: -3.600496
+    yOffset: 23.14252
+    xAdvance: 30
+    scale: 1
+    name: "tdSprite_9"
+    hashCode: -288220129
+    unicode: 0
+    pivot: {x: -3.600496, y: 23.14252}
+    sprite: {fileID: 21300018, guid: 6ffd4af99da541b9b45a111aba4401c8, type: 3}
+  - id: 2
+    x: 195
+    y: 224
+    width: 29
+    height: 32
+    xOffset: -3.64331
+    yOffset: 25.77103
+    xAdvance: 29
+    scale: 1
+    name: "tdSprite_6"
+    hashCode: -288220144
+    unicode: 0
+    pivot: {x: -3.64331, y: 25.77103}
+    sprite: {fileID: 21300012, guid: 6ffd4af99da541b9b45a111aba4401c8, type: 3}
+  - id: 3
+    x: 161
+    y: 224
+    width: 32
+    height: 32
+    xOffset: -4.057679
+    yOffset: 26.85669
+    xAdvance: 32
+    scale: 1
+    name: "tdSprite_5"
+    hashCode: -288220141
+    unicode: 0
+    pivot: {x: -4.057679, y: 26.85669}
+    sprite: {fileID: 21300010, guid: 6ffd4af99da541b9b45a111aba4401c8, type: 3}
+  - id: 4
+    x: 128
+    y: 223
+    width: 31
+    height: 33
+    xOffset: -3.014816
+    yOffset: 27.89952
+    xAdvance: 31
+    scale: 1
+    name: "tdSprite_4"
+    hashCode: -288220142
+    unicode: 0
+    pivot: {x: -3.014816, y: 27.89952}
+    sprite: {fileID: 21300008, guid: 6ffd4af99da541b9b45a111aba4401c8, type: 3}
+  - id: 5
+    x: 97
+    y: 224
+    width: 32
+    height: 31
+    xOffset: -5.143327
+    yOffset: 24.72818
+    xAdvance: 32
+    scale: 1
+    name: "tdSprite_3"
+    hashCode: -288220139
+    unicode: 0
+    pivot: {x: -5.143327, y: 24.72818}
+    sprite: {fileID: 21300006, guid: 6ffd4af99da541b9b45a111aba4401c8, type: 3}
+  - id: 6
+    x: 64
+    y: 227
+    width: 30
+    height: 29
+    xOffset: -3.600479
+    yOffset: 25.35669
+    xAdvance: 30
+    scale: 1
+    name: "tdSprite_2"
+    hashCode: -288220140
+    unicode: 0
+    pivot: {x: -3.600479, y: 25.35669}
+    sprite: {fileID: 21300004, guid: 6ffd4af99da541b9b45a111aba4401c8, type: 3}
+  - id: 7
+    x: 31
+    y: 227
+    width: 31
+    height: 29
+    xOffset: -3.557667
+    yOffset: 24.27101
+    xAdvance: 31
+    scale: 1
+    name: "tdSprite_1"
+    hashCode: -288220137
+    unicode: 0
+    pivot: {x: -3.557667, y: 24.27101}
+    sprite: {fileID: 21300002, guid: 6ffd4af99da541b9b45a111aba4401c8, type: 3}
+  - id: 8
+    x: 0
+    y: 228
+    width: 29
+    height: 28
+    xOffset: -4.186174
+    yOffset: 23.77101
+    xAdvance: 29
+    scale: 1
+    name: "tdSprite_0"
+    hashCode: -288220138
+    unicode: 0
+    pivot: {x: -4.186174, y: 23.77101}
+    sprite: {fileID: 21300000, guid: 6ffd4af99da541b9b45a111aba4401c8, type: 3}
+  - id: 9
+    x: 225
+    y: 223
+    width: 31
+    height: 32
+    xOffset: -4.643327
+    yOffset: 25.77101
+    xAdvance: 31
+    scale: 1
+    name: "tdSprite_7"
+    hashCode: -288220143
+    unicode: 0
+    pivot: {x: -4.643327, y: 25.77101}
+    sprite: {fileID: 21300014, guid: 6ffd4af99da541b9b45a111aba4401c8, type: 3}
+  - id: 10
+    x: 99
+    y: 200
+    width: 24
+    height: 23
+    xOffset: -2.228989
+    yOffset: 19.09969
+    xAdvance: 24
+    scale: 1
+    name: "tdSprite_11"
+    hashCode: -921329978
+    unicode: 0
+    pivot: {x: -2.228989, y: 19.09969}
+    sprite: {fileID: 21300022, guid: 6ffd4af99da541b9b45a111aba4401c8, type: 3}
+  - id: 11
+    x: 62
+    y: 198
+    width: 35
+    height: 28
+    xOffset: -5.557677
+    yOffset: 23.77101
+    xAdvance: 35
+    scale: 1
+    name: "tdSprite_10"
+    hashCode: -921329977
+    unicode: 0
+    pivot: {x: -5.557677, y: 23.77101}
+    sprite: {fileID: 21300020, guid: 6ffd4af99da541b9b45a111aba4401c8, type: 3}
+  - id: 12
+    x: 202
+    y: 113
+    width: 40
+    height: 41
+    xOffset: -2.629319
+    yOffset: 36.24218
+    xAdvance: 40
+    scale: 1
+    name: "tdSprite_23"
+    hashCode: -921330009
+    unicode: 0
+    pivot: {x: -2.629319, y: 36.24218}
+    sprite: {fileID: 21300046, guid: 6ffd4af99da541b9b45a111aba4401c8, type: 3}
+  - id: 13
+    x: 161
+    y: 112
+    width: 40
+    height: 43
+    xOffset: -3.172165
+    yOffset: 36.69935
+    xAdvance: 40
+    scale: 1
+    name: "tdSprite_22"
+    hashCode: -921330010
+    unicode: 0
+    pivot: {x: -3.172165, y: 36.69935}
+    sprite: {fileID: 21300044, guid: 6ffd4af99da541b9b45a111aba4401c8, type: 3}
+  - id: 14
+    x: 121
+    y: 113
+    width: 40
+    height: 42
+    xOffset: -3.172159
+    yOffset: 37.285
+    xAdvance: 40
+    scale: 1
+    name: "tdSprite_21"
+    hashCode: -921330011
+    unicode: 0
+    pivot: {x: -3.172159, y: 37.285}
+    sprite: {fileID: 21300042, guid: 6ffd4af99da541b9b45a111aba4401c8, type: 3}
+  - id: 15
+    x: 81
+    y: 112
+    width: 40
+    height: 43
+    xOffset: -4.257828
+    yOffset: 36.69935
+    xAdvance: 40
+    scale: 1
+    name: "tdSprite_20"
+    hashCode: -921330012
+    unicode: 0
+    pivot: {x: -4.257828, y: 36.69935}
+    sprite: {fileID: 21300040, guid: 6ffd4af99da541b9b45a111aba4401c8, type: 3}
+  - id: 16
+    x: 40
+    y: 111
+    width: 40
+    height: 44
+    xOffset: -4.25784
+    yOffset: 37.19934
+    xAdvance: 40
+    scale: 1
+    name: "tdSprite_19"
+    hashCode: -921329970
+    unicode: 0
+    pivot: {x: -4.25784, y: 37.19934}
+    sprite: {fileID: 21300038, guid: 6ffd4af99da541b9b45a111aba4401c8, type: 3}
+  - id: 17
+    x: 0
+    y: 113
+    width: 38
+    height: 42
+    xOffset: -4.343504
+    yOffset: 37.82784
+    xAdvance: 38
+    scale: 1
+    name: "tdSprite_18"
+    hashCode: -921329969
+    unicode: 0
+    pivot: {x: -4.343504, y: 37.82784}
+    sprite: {fileID: 21300036, guid: 6ffd4af99da541b9b45a111aba4401c8, type: 3}
+  - id: 18
+    x: 203
+    y: 155
+    width: 43
+    height: 43
+    xOffset: -3.043658
+    yOffset: 38.32784
+    xAdvance: 43
+    scale: 1
+    name: "tdSprite_17"
+    hashCode: -921329984
+    unicode: 0
+    pivot: {x: -3.043658, y: 38.32784}
+    sprite: {fileID: 21300034, guid: 6ffd4af99da541b9b45a111aba4401c8, type: 3}
+  - id: 19
+    x: 163
+    y: 156
+    width: 39
+    height: 42
+    xOffset: -4.843503
+    yOffset: 37.82785
+    xAdvance: 39
+    scale: 1
+    name: "tdSprite_16"
+    hashCode: -921329983
+    unicode: 0
+    pivot: {x: -4.843503, y: 37.82785}
+    sprite: {fileID: 21300032, guid: 6ffd4af99da541b9b45a111aba4401c8, type: 3}
+  - id: 20
+    x: 125
+    y: 156
+    width: 38
+    height: 42
+    xOffset: -3.80066
+    yOffset: 36.74217
+    xAdvance: 38
+    scale: 1
+    name: "tdSprite_15"
+    hashCode: -921329982
+    unicode: 0
+    pivot: {x: -3.80066, y: 36.74217}
+    sprite: {fileID: 21300030, guid: 6ffd4af99da541b9b45a111aba4401c8, type: 3}
+  - id: 21
+    x: 85
+    y: 156
+    width: 39
+    height: 41
+    xOffset: -2.672178
+    yOffset: 35.15651
+    xAdvance: 39
+    scale: 1
+    name: "tdSprite_14"
+    hashCode: -921329981
+    unicode: 0
+    pivot: {x: -2.672178, y: 35.15651}
+    sprite: {fileID: 21300028, guid: 6ffd4af99da541b9b45a111aba4401c8, type: 3}
+  - id: 22
+    x: 43
+    y: 156
+    width: 39
+    height: 40
+    xOffset: -3.215009
+    yOffset: 34.11368
+    xAdvance: 39
+    scale: 1
+    name: "tdSprite_13"
+    hashCode: -921329980
+    unicode: 0
+    pivot: {x: -3.215009, y: 34.11368}
+    sprite: {fileID: 21300026, guid: 6ffd4af99da541b9b45a111aba4401c8, type: 3}
+  - id: 23
+    x: 0
+    y: 155
+    width: 41
+    height: 42
+    xOffset: -2.586502
+    yOffset: 36.74219
+    xAdvance: 41
+    scale: 1
+    name: "tdSprite_12"
+    hashCode: -921329979
+    unicode: 0
+    pivot: {x: -2.586502, y: 36.74219}
+    sprite: {fileID: 21300024, guid: 6ffd4af99da541b9b45a111aba4401c8, type: 3}
+  - id: 24
+    x: 41
+    y: 68
+    width: 41
+    height: 43
+    xOffset: -0.9580017
+    yOffset: 37.24218
+    xAdvance: 41
+    scale: 1
+    name: "tdSprite_25"
+    hashCode: -921330015
+    unicode: 0
+    pivot: {x: -0.9580017, y: 37.24218}
+    sprite: {fileID: 21300050, guid: 6ffd4af99da541b9b45a111aba4401c8, type: 3}
+  - id: 25
+    x: 0
+    y: 68
+    width: 40
+    height: 44
+    xOffset: -2.62934
+    yOffset: 36.6565
+    xAdvance: 40
+    scale: 1
+    name: "tdSprite_24"
+    hashCode: -921330016
+    unicode: 0
+    pivot: {x: -2.62934, y: 36.6565}
+    sprite: {fileID: 21300048, guid: 6ffd4af99da541b9b45a111aba4401c8, type: 3}
+  fallbackSpriteAssets: []

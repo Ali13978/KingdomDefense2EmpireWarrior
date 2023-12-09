@@ -1,0 +1,27 @@
+id,name,level,desctiption,special_ability
+0,Pirate,0,Đơn vị lính cơ bản.,# Không có khả năng đặc biệt @# Tốc độ trung bình @# Di chuyển theo nhóm
+1,Barbosa,0,Lính cầm chùy được trang bị giáp vật lý.,# Tốc độ trung bình @# Kháng vật lý thấp
+2,Lupin,0,Di chuyển nhanh nhẹn và có thể né đòn tấn công cận chiến.,# Tốc độ nhanh @# Né đòn tấn công cận chiến
+3,Loki,0,Camouf có kỹ năng của Lupin và có giáp vật lý.,# Tốc độ nhanh @# Né đòn tấn công cận chiến @# Kháng vật lý thấp
+4,Kimora,0,Lão phù thủy có khả năng hồi máu.,# Tốc độ chậm @# Kháng phép cao @# Hồi máu cho đồng minh
+5,Orc Tank,0,"Orc Tank chậm chạp, khả năng chịu đòn cao.",# Tốc độ chậm @# HP cao @# Lấy 3 mạng khi chết
+6,One-Eye,0,Quái vật bay trên cao.,"# Không tấn công, không bị cản lại @# Chỉ nhận sát thương từ tấn công tầm xa"
+7,Orc King,0,Vua cai quản 6 vùng đất.,# HP sát thương giáp vật lý lớn @# Lấy 25 mạng khi chết @# Triệu hồi quái vật
+8,Wild Boar,0,Đệ tử của Orc King.,# Tốc độ nhanh @# Di chuyển theo nhóm
+9,Werewolf,0,Di chuyển dưới lòng đất và chui lên khi gặp lính.,"# Di chuyển, tấn công nhanh @# Ẩn mình dưới lòng đất tránh đòn"
+10,Snail,0,Ốc sên đột biến có sát thương phép và giáp phép.,# Kháng phép cao @# Lấy 2 mạng khi chết @# Biến hình khi chết lần đầu
+11,Bold Snail,0,Ốc sên đột biến bỏ lớp vỏ để nhanh nhẹn hơn nhưng giáp thấp hơn.,"# Di chuyển, tấn công nhanh @# Sát thương cao"
+12,Mutated Snail,0,Ốc sên ăn cắp được ô của người đào vàng trong rừng.,# Kháng phép rất cao @# Lấy 2 mạng khi chết @# Biến hình khi chết lần đầu
+13,Bold Mutated Snail,0,Tiến hóa từ Mutated Snail.,"# Di chuyển, tấn công nhanh @# Sát thương phép cao"
+14,Tribal Warrior,0,Ném lao tấn công kẻ thù ở xa.,# Tấn công tầm xa @# Di chuyển theo nhóm
+15,Drunk Orc,0,Có khả năng tự hồi máu cho bản thân bằng bình rượu.,# Lấy 3 mạng khi chết @# Tự hồi máu
+16,Mine King,0,Boss cai quản 6 vùng đất vàng.,# Kháng phép rất cao @# Lấy 25 mạng khi chết @# Triệu hồi quái vật
+17,Gitrog,0,Là quái cảm tử của Mine King.,# Tốc độ rất nhanh @# Phát nổ gây sát thương cực lớn khi gặp kẻ thù
+18,Hungry Hare,0,"Thỏ hoang bị biến chất bởi nữ hoàng băng, khiến chúng trở nên hung ác.",# Tốc độ rất nhanh @# Di chuyển theo nhóm
+19,Malicious Hare,0,"Được trang bị thêm khiên và vũ khí, thỏ hoang trở nên nguy hiểm hơn rất nhiều.",# Kháng vật lý cao @# Tốc độ trung bình
+20,Walrus Tank,0,"Có sức phòng thủ vượt trội. Khi di chuyển, tấm khiên của Walrus có thể chặn các đòn tấn công tầm xa.",# Kháng phép và vật lý rất cao @# Không nhận sát thương vật lý và phép khi di chuyển
+21,Ice Beast,0,Sinh vật bí ẩn từ vùng biển băng tuyết phía nam. Chúng có thân hình to lớn và chậm chạp.,# Tốc độ chậm @# HP rất cao @# Kháng vật lý cao
+22,Winged Bear,0,"Loài gấu đột biến, có thể bay và tấn công từ trên cao.","# Bay trên không, ném bom gây sát thương lan @# Kháng vật lý rất cao"
+23,Witch,0,"Phù thủy tâm địa xấu xa, có thể bay lượn và tấn công từ trên không.",# Tốc độ trung bình @# Kháng phép rất cao @# Tiêu diệt lập tức 1 kẻ địch
+24,Catapult,0,Ice Beast được trang bị máy bắn đá để tấn công tầm xa,# Tốc độ chậm  @# Tấn công tầm xa gây damage và đóng băng kẻ thù
+25,Frost Queen,0,"Là nữ hoàng của vùng biển băng giá. Vì hận thù tình yêu, đã tự luyện phép thuật tà đạo để trả thù.",# Dịch chuyển tức thời toàn bản đồ @# Biến lính thành quái vật @# Triệu hồi quái vật

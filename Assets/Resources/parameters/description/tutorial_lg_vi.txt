@@ -1,0 +1,37 @@
+tut_id,tut_description
+choose_map_step_0,Chọn để bắt đầu
+start_game_step_0,Chọn Hero
+start_game_step_1,Bắt Đầu Chơi
+call_enemy_step_0,Nhấn để gọi quái
+call_enemy_step_1,Xác nhận!
+build_tower_step_0,Nhấn để xây trụ
+build_first_tower_step_0,Trụ chặn quái!
+build_first_tower_step_1,Xác nhận!
+build_second_tower_step_0,Trụ gây sát thương lan!
+build_second_tower_step_1,Xác nhận!
+build_third_tower_step_0,Trụ sinh tiền!
+build_third_tower_step_1,Xác nhận!
+speed_button,Tăng tốc trận đấu!
+move_hero_step_0,Chọn Hero
+move_hero_step_1,Chạm tay xuống đường@để di chuyển
+hero_skill_step_0,Chọn Hero Skill
+hero_skill_step_1,Chạm tay xuống đường@để sử dụng
+unlock_hero_step_0,Hero Mới
+unlock_hero_step_1,Chọn Hero
+unlock_hero_step_2,Mở Khóa
+upgrade_hero_step_0,Chọn Để Nâng Cấp
+upgrade_hero_step_1,Nâng Cấp Level
+upgrade_tower_step_0,Nâng Cấp Tower
+upgrade_tower_step_1,Chọn một trong bốn kỹ năng để nâng cấp
+upgrade_tower_step_2,Nâng Cấp
+open_lucky_chest_step_1_first_chest,Chạm để mở!
+open_lucky_chest_step_2_second_chest,Chạm để mở!
+open_lucky_chest_step_3_third_chest,Chạm để mở!
+open_lucky_chest_step_4_free_chest,Chạm để nhận thêm @ 3 rương miễn phí!
+open_lucky_chest_step_5_auto_open,Chạm để mở nhanh!
+open_lucky_chest_step_6_free_chest_again,Chạm để nhận thêm @ 3 rương miễn phí!
+open_lucky_chest_step_7_auto_open_again,Chạm để mở nhanh!
+open_lucky_chest_step_8_continue,Tiếp tục hành trình!
+use_hero_skill_point_step_0,Nâng cấp kĩ năng cho Hero!
+use_hero_skill_point_step_1,Chọn Hero!
+use_hero_skill_point_step_2,Sử dụng điểm kĩ năng để nâng cấp!

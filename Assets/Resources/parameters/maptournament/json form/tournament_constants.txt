@@ -1,0 +1,37 @@
+[
+  {
+    "LeagueIndex": 0,
+    "Jfactor": 2,
+    "InitGemQuantity": 20
+  },
+  {
+    "LeagueIndex": 1,
+    "Jfactor": 2,
+    "InitGemQuantity": 20
+  },
+  {
+    "LeagueIndex": 2,
+    "Jfactor": 2.2,
+    "InitGemQuantity": 25
+  },
+  {
+    "LeagueIndex": 3,
+    "Jfactor": 2.4,
+    "InitGemQuantity": 25
+  },
+  {
+    "LeagueIndex": 4,
+    "Jfactor": 2.6,
+    "InitGemQuantity": 30
+  },
+  {
+    "LeagueIndex": 5,
+    "Jfactor": 2.8,
+    "InitGemQuantity": 30
+  },
+  {
+    "LeagueIndex": 6,
+    "Jfactor": 3,
+    "InitGemQuantity": 35
+  }
+]

@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 466686b9a47bb10f7c1e135b3d789eeb, type: 3}
+  m_Name: "ItemConfig"
+  m_EditorClassIdentifier: 
+  SheetName: "Assets\x2fQuickSheet\x2fGameConfig\x2fItemConfig\x2fItemConfig.xlsx"
+  WorksheetName: "ItemConfig"
+  dataArray:
+  - id: 0
+    name: "Frost Gem"
+    price_to_buy: 90
+    time_cooldown: 0
+    activation_time: 5000
+    customvalues: 00000000
+  - id: 1
+    name: "Meteor Strike"
+    price_to_buy: 80
+    time_cooldown: 0
+    activation_time: 0
+    customvalues: 460000001E0000000A0000002C010000
+  - id: 2
+    name: "Healing Ward"
+    price_to_buy: 50
+    time_cooldown: 0
+    activation_time: 20000
+    customvalues: 7800000005000000
+  - id: 3
+    name: "Chest Of Gold"
+    price_to_buy: 60
+    time_cooldown: 0
+    activation_time: 0
+    customvalues: C8000000
+  - id: 4
+    name: "Speed up"
+    price_to_buy: 150
+    time_cooldown: 0
+    activation_time: 8000
+    customvalues: 96000000C8000000
+  - id: 5
+    name: "Poison"
+    price_to_buy: 200
+    time_cooldown: 0
+    activation_time: 10000
+    customvalues: 09000000A0000000
+  - id: 6
+    name: "Reinforcement"
+    price_to_buy: 200
+    time_cooldown: 0
+    activation_time: 35000
+    customvalues: 120000001A0000000A00000041000000410000008C0000000A0000002D000000D007000002000000
+  - id: 7
+    name: "Sky Reinforcement"
+    price_to_buy: 300
+    time_cooldown: 0
+    activation_time: 40000
+    customvalues: 220000002F0000000A00000041000000BE000000360100001400000032000000DC05000001000000
+  - id: 8
+    name: "Storm"
+    price_to_buy: 150
+    time_cooldown: 0
+    activation_time: 10000
+    customvalues: FA0000003200000008000000

@@ -1,0 +1,4 @@
+skill_level,chance_to_cast,enemy_affected,stun_duration,skill_range,cooldown,description
+0,10,2,5000,95,1000,Stun enemy trong 1 ban kinh moi khoang thoi gian
+1,10,4,5000,95,1000,Stun enemy trong 1 ban kinh moi khoang thoi gian
+2,10,6,5000,95,1000,Stun enemy trong 1 ban kinh moi khoang thoi gian

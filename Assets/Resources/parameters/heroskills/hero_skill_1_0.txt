@@ -1,0 +1,4 @@
+skill_level,number_of_projectile,range,offset_high,duration,delay_time,damage,cooldown_time,description,use_type
+0,7,80,7,80,250,10,70000,Ban mui ten no,TapNClickToUse
+1,9,80,7,80,250,10,60000,Ban mui ten no,TapNClickToUse
+2,11,80,7,80,250,10,50000,Ban mui ten no,TapNClickToUse

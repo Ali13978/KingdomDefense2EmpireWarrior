@@ -1,0 +1,4 @@
+skill_level,physic_damage,cooldown_time,
+0,160,31000,Dragon fang: bite and deal dam on a single target
+1,180,31000,
+2,220,31000,

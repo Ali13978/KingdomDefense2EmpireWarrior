@@ -1,0 +1,43 @@
+level,id,text_tip_content
+0,0,"Construa torres defensivas para expulsar inimigos, protegendo seu reino."
+0,1,Os heróis vão lutar além de você.
+0,2,Tente vencer os inimigos o mais rápido possível antes de viajar muito longe.
+1,0,As infantarias podem bloquear o caminho dos inimigos.
+1,1,Cannoneers causam dano aoE.
+1,2,Use estrelas acumuladas para atualizar sua habilidade.
+2,0,"Use ambos, infantaria e Cannoneers para maximizar o dano."
+2,1,O Dragão Mágico dispara esferas magicas temíveis aos inimigos.
+2,2,Os heróis ganham EXP ao derrotar inimigos.
+3,0,Archers e Magic Dragons podem atacar inimigos voadores.
+3,1,Infantarias atualizadas podem segurar os inimigos por mais tempo.
+3,2,Você pode trazer até 3 heróis por partida.
+4,0,Você pode atualizar e comprar um novo herói no Hero Camp.
+4,1,Archers e Magic Dragons podem atacar inimigos voadores.
+4,2,As flechas dos arqueiros podem pegar inimigos rápidos.
+5,0,"Frost Gem congela toda a tela, deixando tempo para você se preparar."
+5,1,"Chame os inimigos com antecedência para obter melhores rendimentos do ouro, também reafirma o cooldown de habilidade de todos os heróis."
+5,2,Arqueiros com atualização final podem retardar os inimigos ao congelá-los.
+6,0,Dragões mágicos são eficazes com inimigos de alta resistência física.
+6,1,Magic Dragons com upgrade Ultimate podem curar aliados próximos.
+6,2,"Use ambos, Infantaria e Cannoneers para maximizar o dano."
+7,0,Infantarias atualizadas podem segurar os inimigos por mais tempo.
+7,1,Você pode atualizar e comprar um novo herói no Hero Camp.
+7,2,Magic Dragons com upgrade Ultimate podem curar aliados próximos.
+8,0,O Magic Dragon dispara esferas magicas temíveis aos inimigos.
+8,1,Magic Dragons com upgrade Ultimate podem curar aliados próximos.
+8,2,Visite nossa Fanpage para discutir sobre estratégias e táticas.
+9,0,Infantarias com upgrade Ultimate podem atacar inimigos de longe.
+9,1,Infantarias atualizadas podem segurar os inimigos por mais tempo.
+9,2,Escolher os Heróis e Torres adequados tem um alto impacto no resultado.
+10,0,Leve o seu tempo defendendo os inimigos usando itens Powerup.
+10,1,Você pode trazer até 3 heróis por partida.
+10,2,Atualize o nível Heroes com Gems no Hero Camp.
+11,0,Mantenha os inimigos em posição o máximo que puder para vencê-los.
+11,1,Desafie o mapa novamente para EXP extra.
+11,2,Atualize o nível Heroes com Gems no Hero Camp.
+12,0,DICA: o segundo Ultimate do Artilheiro pode retardar grupos de inimigos.
+13,0,DICA: o segundo Ultimate do Artilheiro pode retardar grupos de inimigos.
+14,0,TIP: O segundo Ultimate da infantería penetra na defesa e é útil contra os inimigos de alta defesa.
+15,0,TIP: O segundo Ultimate da infantería penetra na defesa e é útil contra os inimigos de alta defesa.
+16,0,"TIP: Magic Dragon dispara o raio laser em linha reta, o que funciona melhor na área linear."
+17,0,Aviso: área do chefe. Pare com todas as suas possibilidades usando os Ultimates da torre.

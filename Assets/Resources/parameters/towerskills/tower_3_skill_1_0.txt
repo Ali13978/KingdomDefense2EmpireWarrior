@@ -1,0 +1,4 @@
+skill_level,enemy_affected,distance,skill_range,cooldown_time,description
+0,3,180,110,5000,Teleport 1 so enemy nguoc ve phia cong
+1,4,180,110,5000,Teleport 1 so enemy nguoc ve phia cong
+2,5,180,110,5000,Teleport 1 so enemy nguoc ve phia cong

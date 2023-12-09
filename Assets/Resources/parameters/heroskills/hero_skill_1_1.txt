@@ -1,0 +1,4 @@
+skill_level,ctitical_strike_change_bonus,description
+0,15,Tang crit
+1,20,Tang crit
+2,25,Tang crit

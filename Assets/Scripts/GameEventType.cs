@@ -1,0 +1,25 @@
+public enum GameEventType
+{
+	OnTournamentMapRuleReceived = 4,
+	OnTournamentTierUp = 5,
+	OnLanguageChanged = 6,
+	OnTournamentPriceConstantsReceived = 7,
+	OnCompletePurchase = 8,
+	OnEnemyMoveToEndPoint = 1001,
+	OnSelectHero = 2001,
+	OnSelectEnemy = 2002,
+	OnSelectPet = 2003,
+	OnSelectAlly = 3001,
+	OnClickButton = 4001,
+	OnAfterCalculatePhysicsDamage = 5001,
+	OnAfterCalculateMagicDamage = 5002,
+	OnBeforeCalculatePhysicsDamage = 5003,
+	EventKillMonster = 6001,
+	EventCampaign = 6002,
+	EventUseItem = 6003,
+	EventUseHero = 6004,
+	EventPlayTournament = 6005,
+	EventInviteFriend = 6006,
+	EventEarnGold = 6007,
+	EventUseGem = 6008
+}

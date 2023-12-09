@@ -1,0 +1,14 @@
+tip_id,tip_name,tip_description
+0,Gepanzerte Feinde,Gepanzerte Feinde erleiden weniger Schaden von Bogenschützen- und Kanoniertürmen.
+1,Magieresistenz,"Drachentürme sind wirkungslos, wenn sie Gegnern mit hoher Magieresistenz gegenüberstehen."
+2,UFO?,Nur Bogenschützen und Drachentürme können fliegende Feinde erreichen.
+3,Euer Kommando!,"Ritter sind nützlicher, wenn sie zur richtigen Zeit am richtigen Ort sind!"
+4,Je mehr desto besser,"Je mehr Verstärkungen es gibt, desto schneller können wir Feinde erledigen."
+5,Sei vorsichtig!,"Wenn du kein Leben mehr hast, verlierst du!"
+6,Weg zum Reichtum,Feinde verlieren nach der Niederlage Gold.
+7,Neuer Turm Einführung,"Probiert alle Arten von Türmen aus, um an den Schwachstellen der Feinde anzugreifen."
+8,Neuer Turm Einführung,"Probiert alle Arten von Türmen aus, um an den Schwachstellen der Feinde anzugreifen."
+9,Neuer Turm /Neue Türme freigeschaltet,"Bogenschützen, Kanoniere und magische Drachentürme @ können jetzt auf Stufe 2 aufgerüstet werden!"
+10,Neuer Turm /Neue Türme freigeschaltet,Bogenschützen- und Kanoniertürme @ können jetzt auf Level 3 aufgerüstet werden!
+11,Neuer Turm /Neue Türme freigeschaltet,Fußtruppen @ können jetzt auf Stufe 3 aufgerüstet werden!
+12,Neuer Turm /Neue Türme freigeschaltet,Magischer Drache @ kann jetzt bis Level 3 aufgerüstet werden!

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "Thor"
+  m_Controller: {fileID: 9100000, guid: ba307b6fa88b48f6b802d51d71dc1187, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: fd9d4f2e3dba411cbced5a4a762b2f92, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f4c070e71c42487181b8c93f83749744, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 2ce45132819f4d00bc272817c3da6485, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 21d696720cd14d6cabe9fdc932c47b2d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5f50535160324eb9843d3d722619f29e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 060959958d134ba0b8a46586d24aa1bc, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a3b81a5e96b040958fb19c96a5824c38, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8cb10e9403434de98804a39107cb588e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e0680506dace40de86ebfb072f96f320, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f17c8a95de084bf29758c62f4071aa68, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 66cc1b4f43e5404081b8a5e08318e2bd, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e0d038f402704c618864f6a5cc06eb20, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3a40622082cd4f4ca7c29ede68af4ca5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: eb47a444c7904bfb82a64cc2beec59cb, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c4b922a24b53464b8d4a3b6796411006, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: eb47a444c7904bfb82a64cc2beec59cb, type: 2}

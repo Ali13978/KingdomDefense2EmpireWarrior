@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "Spirit Override Anim"
+  m_Controller: {fileID: 9100000, guid: ba307b6fa88b48f6b802d51d71dc1187, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 66cc1b4f43e5404081b8a5e08318e2bd, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f02383a41412483ea9412be413c9b403, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a3b81a5e96b040958fb19c96a5824c38, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: fa6570523ae946219ac6b7aaf89a89b3, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 2ce45132819f4d00bc272817c3da6485, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4a447435320047e8bf6c730621c19596, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5f50535160324eb9843d3d722619f29e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3bf6ff0a2b594f26ab141ee1e056ed5a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3a40622082cd4f4ca7c29ede68af4ca5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ca1bee2bd25746f69c0714621e0c7c69, type: 2}

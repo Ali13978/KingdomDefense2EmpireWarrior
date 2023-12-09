@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 699d04c8971fc1e5c037962b44ab7227, type: 3}
+  m_Name: "ShopItemAttribute"
+  m_EditorClassIdentifier: 
+  listGemPack:
+  - name: "Gem Pack 1"
+    gemPackID: "kd.v2.gem_pack_1"
+    gemPackValue: 300
+  - name: "Gem Pack 2"
+    gemPackID: "kd.v2.gem_pack_2"
+    gemPackValue: 1500
+  - name: "Gem Pack 3"
+    gemPackID: "kd.v2.gem_pack_3"
+    gemPackValue: 4000
+  - name: "Gem Pack 4"
+    gemPackID: "kd.v2.gem_pack_4"
+    gemPackValue: 7500
+  - name: "Gem Pack 5"
+    gemPackID: "kd.v2.gem_pack_5"
+    gemPackValue: 30000
+  listHeroItem:
+  - name: "Steel Dragon"
+    heroID: 10
+    heroItemID: "kd.hero.dragon"
+  - name: "Phoenix"
+    heroID: 11
+    heroItemID: "kd.hero.phoenix"

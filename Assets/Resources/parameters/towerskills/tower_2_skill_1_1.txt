@@ -1,0 +1,4 @@
+skill_level,enemy_affected,damage_physics,damage_magic,skill_range,cooldown,description
+0,1,250,0,95,10000,Deal damage enemy trong 1 ban kinh.
+1,2,250,0,95,10000,Deal damage enemy trong 1 ban kinh.
+2,3,250,0,95,10000,Deal damage enemy trong 1 ban kinh.

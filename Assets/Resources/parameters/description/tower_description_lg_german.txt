@@ -1,0 +1,26 @@
+id,level,name,type,short_description,description,unlock_description
+0,0,Bogenschütze,physikalische attacke,Greift sowohl Boden- als auch Luftgegner an und fügt ihnen physischen Schaden zu.,Greift sowohl Boden- als auch Luftgegner an und fügt ihnen physischen Schaden zu.,Level 1 Bogenschütze freigeschaltet
+0,1,Bogenschütze,physikalische attacke,Bronzepfeile verbessern die Angriffsreichweite und erhöhen den Schaden.,Bronzepfeile verbessern die Angriffsreichweite und erhöhen den Schaden.,Level 2 Bogenschütze freigeschaltet
+0,2,Bogenschütze,physikalische attacke,"Rüste den Bogenschützen mit Stahlpfeilen aus, um den Schaden weiter zu erhöhen.","Rüste den Bogenschützen mit Stahlpfeilen aus, um den Schaden weiter zu erhöhen.",Level 3 Bogenschütze freigeschaltet
+0,3,Bogenschütze,physikalische attacke,"Verbessern von Bögen, Erhöhen des Angriffstempos.","Verbessern von Bögen, Erhöhen des Angriffstempos.",Level 4 Bogenschütze freigeschaltet! @Ultimatives Upgrade!
+0,4,Bogenschütze,physikalische attacke,"Silberpfeile, die massiven Schaden anrichten.","Silberpfeile, die massiven Schaden anrichten.",Level 5 Bogenschütze freigeschaltet
+1,0,Fußtruppe,physikalische attacke,"Gewöhnliche Krieger mit schwerer Rüstung, die den Weg des Gegners blockieren können.","Gewöhnliche Krieger mit schwerer Rüstung, die den Weg des Gegners blockieren können.",Level 1 Fußtruppe freigeschaltet
+1,1,Fußtruppe,physikalische attacke,Ausgebildete Krieger mit Bronzerüstung und -waffe.,Ausgebildete Krieger mit Bronzerüstung und -waffe.,Level 2 Fußtruppe freigeschaltet
+1,2,Fußtruppe,physikalische attacke,Erfahrene Krieger mit Stahlrüstung und -waffe.,Erfahrene Krieger mit Stahlrüstung und -waffe.,Level 3 Fußtruppe freigeschaltet
+1,3,Fußtruppe,physikalische attacke,Veteranenkrieger mit silberner Rüstung und Waffe.,Veteranenkrieger mit silberner Rüstung und Waffe.,Level 4 Fußtruppe freigeschaltet! @Ultimatives Upgrade!
+1,4,Fußtruppe,physikalische attacke,"Krieger können sich jetzt verstecken, um Feinde zu überfallen und Fernkampfschäden zu vermeiden.","Krieger können sich jetzt verstecken, um Feinde zu überfallen und Fernkampfschäden zu vermeiden.",Level 5 Fußtruppe freigeschaltet
+2,0,Kannone,physikalische attacke,"Kleiner AoE-Schaden, der für bodengebundene Feinde wirksam ist.","Kleiner AoE-Schaden, der für bodengebundene Feinde wirksam ist.",Level 1 Kannone freigeschaltet
+2,1,Kannone,physikalische attacke,"Mittlerer AoE-Schaden, der für bodengebundene Feinde wirksam ist.","Mittlerer AoE-Schaden, der für bodengebundene Feinde wirksam ist.",Level 2 Kannone freigeschaltet
+2,2,Kannone,physikalische attacke,"Hoher AoE-Schaden, der bei Gegnern am Boden wirksam ist.","Hoher AoE-Schaden, der bei Gegnern am Boden wirksam ist.",Level 3 Kannone freigeschaltet
+2,3,Kannone,physikalische attacke,Wirft Lava-Blöcke zu den Gegnern am Boden und fügt ihnen massiven Schaden zu.,Wirft Lava-Blöcke zu den Gegnern am Boden und fügt ihnen massiven Schaden zu.,Level 4 Kannone freigeschaltet! @Ultimatives Upgrade!
+2,4,Kannone,physikalische attacke,Erzeugt ein statisches Feld um das Gebiet herum und verlangsamt Feinde.,Erzeugt ein statisches Feld um das Gebiet herum und verlangsamt Feinde.,Level 5 Kannone freigeschaltet
+3,0,Magischer Drache,magischer angriff,Verursacht durchdringende Schäden sowohl an Boden- als auch an fliegenden Einheiten.,Verursacht durchdringende Schäden sowohl an Boden- als auch an fliegenden Einheiten.,Level 1 magischer Drache freigeschaltet
+3,1,Magischer Drache,magischer angriff,"Feuert eine zusätzliche Kugel, die mittleren magischen Schaden verursacht.","Feuert eine zusätzliche Kugel, die mittleren magischen Schaden verursacht.",Level 2 magischer Drache freigeschaltet
+3,2,Magischer Drache,magischer angriff,Ausgewachsener Drache mit höherer Schadens- und Angriffsreichweite.,Ausgewachsener Drache mit höherer Schadens- und Angriffsreichweite.,Level 3 magischer Drache freigeschaltet
+3,3,Magischer Drache,magischer angriff,Tausend Jahre alter Drache mit massiver Kraft und besonderen Fähigkeiten.,Tausend Jahre alter Drache mit massiver Kraft und besonderen Fähigkeiten.,Level 4 magischer Drache freigeschaltet! @Ultimatives Upgrade!
+3,4,Magischer Drache,magischer angriff,"Feuert einen Laserstrahl in einer geraden Linie ab und schädigt alle Gegner, die er berührt.","Feuert einen Laserstrahl in einer geraden Linie ab und schädigt alle Gegner, die er berührt.",Level 5 magischer Drache freigeschaltet
+4,0,Priester,Gold Generator,Generiert 10 Gold alle 10 Sekunden. ,Generiert 10 Gold in 10 Sekunden. ,Level 1 Priester freigeschaltet
+4,1,Priester,Gold Generator,Generiert 25 Gold alle 10 Sekunden. ,Generiert 25 Gold in 10 Sekunden. ,Level 2 Priester freigeschaltet
+4,2,Priester,Gold Generator,Generiert 35 Gold alle 10 Sekunden. ,Generiert 35 Gold in 10 Sekunden.,Level 3 Priester freigeschaltet
+4,3,Priester,Gold Generator,Generiert 45 Gold alle 10 Sekunden. ,Generiert 45 Gold in 10 Sekunden.,Level 4 Priester freigeschaltet! @Ultimatives Upgrade!
+4,4,Priester,Gold Generator,Generiert 45 Gold alle 10 Sekunden. ,Generiert 45 Gold in 10 Sekunden.,Level 5 Priester freigeschaltet

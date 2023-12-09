@@ -1,0 +1,4 @@
+skill_level,chance_to_cast,number_of_projectile,damage,slow_percent,slow_time,description
+0,10,3,3,20,1000,Ban ra cau phep lam cham
+1,15,3,5,40,1500,Ban ra cau phep lam cham
+2,20,3,7,60,2000,Ban ra cau phep lam cham

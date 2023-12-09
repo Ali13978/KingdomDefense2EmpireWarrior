@@ -1,0 +1,4 @@
+skill_level,skill_range,magic_damage,cooldown_time,
+0,100,100,30000,Nova crash: lao xuong dat gay ra mot vu no
+1,100,120,30000,
+2,100,150,30000,

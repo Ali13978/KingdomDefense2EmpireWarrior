@@ -1,0 +1,848 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cc2bdfafdcd5060dd8c2802269c3c2f, type: 3}
+  m_Name: "EventConfig"
+  m_EditorClassIdentifier: 
+  SheetName: "Assets\x2fQuickSheet\x2fGameConfig\x2fEventOfferSystem\x2fEventOfferConfig.xlsx"
+  WorksheetName: "EventConfig"
+  dataArray:
+  - eventid: 0
+    eventicontype: 2
+    durationinday: 1
+    eventquesttype: 0
+    eventtriggertype: 0
+    triggervalue: 060000001600000017000000
+    comparevaluemode: 1
+    targetquantity: 50
+    eventtitlekey: "EV_TITLE_0"
+    rewardtype: 4
+    rewardid: 0
+    rewardquantity: 1
+    textextradata: 
+  - eventid: 1
+    eventicontype: 2
+    durationinday: 1
+    eventquesttype: 1
+    eventtriggertype: 0
+    triggervalue: 00000000
+    comparevaluemode: 0
+    targetquantity: 1200
+    eventtitlekey: "EV_TITLE_1"
+    rewardtype: 4
+    rewardid: 5
+    rewardquantity: 5
+    textextradata: "monsters"
+  - eventid: 2
+    eventicontype: 5
+    durationinday: 1
+    eventquesttype: 0
+    eventtriggertype: 1
+    triggervalue: 
+    comparevaluemode: 0
+    targetquantity: 5
+    eventtitlekey: "EV_TITLE_2"
+    rewardtype: 4
+    rewardid: 1
+    rewardquantity: 2
+    textextradata: 
+  - eventid: 3
+    eventicontype: 5
+    durationinday: 1
+    eventquesttype: 0
+    eventtriggertype: 2
+    triggervalue: 00000000
+    comparevaluemode: 0
+    targetquantity: 4
+    eventtitlekey: "EV_TITLE_3"
+    rewardtype: 4
+    rewardid: 3
+    rewardquantity: 1
+    textextradata: 
+  - eventid: 4
+    eventicontype: 4
+    durationinday: 1
+    eventquesttype: 0
+    eventtriggertype: 3
+    triggervalue: 01000000
+    comparevaluemode: 2
+    targetquantity: 12
+    eventtitlekey: "EV_TITLE_5"
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 100
+    textextradata: "Meteor call"
+  - eventid: 5
+    eventicontype: 4
+    durationinday: 1
+    eventquesttype: 0
+    eventtriggertype: 3
+    triggervalue: 00000000
+    comparevaluemode: 2
+    targetquantity: 12
+    eventtitlekey: "EV_TITLE_5"
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 100
+    textextradata: "Frost gem"
+  - eventid: 6
+    eventicontype: 4
+    durationinday: 1
+    eventquesttype: 0
+    eventtriggertype: 3
+    triggervalue: 03000000
+    comparevaluemode: 2
+    targetquantity: 8
+    eventtitlekey: "EV_TITLE_5"
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 100
+    textextradata: "Gold treasure"
+  - eventid: 7
+    eventicontype: 4
+    durationinday: 1
+    eventquesttype: 1
+    eventtriggertype: 3
+    triggervalue: 04000000
+    comparevaluemode: 2
+    targetquantity: 20
+    eventtitlekey: "EV_TITLE_5"
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 600
+    textextradata: "Speed up"
+  - eventid: 8
+    eventicontype: 4
+    durationinday: 1
+    eventquesttype: 1
+    eventtriggertype: 3
+    triggervalue: 05000000
+    comparevaluemode: 2
+    targetquantity: 20
+    eventtitlekey: "EV_TITLE_5"
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 600
+    textextradata: "Poison"
+  - eventid: 9
+    eventicontype: 4
+    durationinday: 1
+    eventquesttype: 1
+    eventtriggertype: 3
+    triggervalue: 06000000
+    comparevaluemode: 2
+    targetquantity: 20
+    eventtitlekey: "EV_TITLE_5"
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 600
+    textextradata: "Reinforcement"
+  - eventid: 10
+    eventicontype: 4
+    durationinday: 1
+    eventquesttype: 0
+    eventtriggertype: 3
+    triggervalue: 07000000
+    comparevaluemode: 2
+    targetquantity: 8
+    eventtitlekey: "EV_TITLE_5"
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 300
+    textextradata: "Sky reinforment"
+  - eventid: 11
+    eventicontype: 4
+    durationinday: 1
+    eventquesttype: 1
+    eventtriggertype: 3
+    triggervalue: 08000000
+    comparevaluemode: 2
+    targetquantity: 24
+    eventtitlekey: "EV_TITLE_5"
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 800
+    textextradata: "Storm"
+  - eventid: 12
+    eventicontype: 1
+    durationinday: 1
+    eventquesttype: 0
+    eventtriggertype: 4
+    triggervalue: 00000000
+    comparevaluemode: 2
+    targetquantity: 8
+    eventtitlekey: "EV_TITLE_6"
+    rewardtype: 4
+    rewardid: 3
+    rewardquantity: 1
+    textextradata: "Wukong"
+  - eventid: 13
+    eventicontype: 1
+    durationinday: 1
+    eventquesttype: 0
+    eventtriggertype: 4
+    triggervalue: 03000000
+    comparevaluemode: 2
+    targetquantity: 6
+    eventtitlekey: "EV_TITLE_6"
+    rewardtype: 4
+    rewardid: 4
+    rewardquantity: 1
+    textextradata: "Shaman King"
+  - eventid: 14
+    eventicontype: 1
+    durationinday: 1
+    eventquesttype: 0
+    eventtriggertype: 4
+    triggervalue: 04000000
+    comparevaluemode: 2
+    targetquantity: 6
+    eventtitlekey: "EV_TITLE_6"
+    rewardtype: 4
+    rewardid: 5
+    rewardquantity: 1
+    textextradata: "Golem"
+  - eventid: 15
+    eventicontype: 1
+    durationinday: 1
+    eventquesttype: 0
+    eventtriggertype: 4
+    triggervalue: 05000000
+    comparevaluemode: 2
+    targetquantity: 6
+    eventtitlekey: "EV_TITLE_6"
+    rewardtype: 4
+    rewardid: 6
+    rewardquantity: 1
+    textextradata: "Nature Queen"
+  - eventid: 16
+    eventicontype: 1
+    durationinday: 1
+    eventquesttype: 0
+    eventtriggertype: 4
+    triggervalue: 06000000
+    comparevaluemode: 2
+    targetquantity: 7
+    eventtitlekey: "EV_TITLE_6"
+    rewardtype: 4
+    rewardid: 7
+    rewardquantity: 1
+    textextradata: "Thor"
+  - eventid: 17
+    eventicontype: 1
+    durationinday: 1
+    eventquesttype: 0
+    eventtriggertype: 4
+    triggervalue: 07000000
+    comparevaluemode: 2
+    targetquantity: 5
+    eventtitlekey: "EV_TITLE_6"
+    rewardtype: 4
+    rewardid: 8
+    rewardquantity: 1
+    textextradata: "Ninja"
+  - eventid: 18
+    eventicontype: 1
+    durationinday: 1
+    eventquesttype: 0
+    eventtriggertype: 4
+    triggervalue: 08000000
+    comparevaluemode: 2
+    targetquantity: 5
+    eventtitlekey: "EV_TITLE_6"
+    rewardtype: 4
+    rewardid: 8
+    rewardquantity: 1
+    textextradata: "Tristana"
+  - eventid: 19
+    eventicontype: 1
+    durationinday: 1
+    eventquesttype: 0
+    eventtriggertype: 4
+    triggervalue: 09000000
+    comparevaluemode: 2
+    targetquantity: 5
+    eventtitlekey: "EV_TITLE_6"
+    rewardtype: 4
+    rewardid: 5
+    rewardquantity: 1
+    textextradata: "Jungle Lord"
+  - eventid: 20
+    eventicontype: 1
+    durationinday: 1
+    eventquesttype: 0
+    eventtriggertype: 4
+    triggervalue: 0A000000
+    comparevaluemode: 2
+    targetquantity: 5
+    eventtitlekey: "EV_TITLE_6"
+    rewardtype: 4
+    rewardid: 6
+    rewardquantity: 2
+    textextradata: "Steel Dragon"
+  - eventid: 21
+    eventicontype: 1
+    durationinday: 1
+    eventquesttype: 0
+    eventtriggertype: 4
+    triggervalue: 0B000000
+    comparevaluemode: 2
+    targetquantity: 5
+    eventtitlekey: "EV_TITLE_6"
+    rewardtype: 4
+    rewardid: 7
+    rewardquantity: 2
+    textextradata: "Phoenix"
+  - eventid: 22
+    eventicontype: 0
+    durationinday: 1
+    eventquesttype: 1
+    eventtriggertype: 5
+    triggervalue: 
+    comparevaluemode: 0
+    targetquantity: 10
+    eventtitlekey: "EV_TITLE_4"
+    rewardtype: 4
+    rewardid: 1
+    rewardquantity: 7
+    textextradata: 
+  - eventid: 23
+    eventicontype: 6
+    durationinday: 1
+    eventquesttype: 0
+    eventtriggertype: 6
+    triggervalue: 
+    comparevaluemode: 0
+    targetquantity: 5
+    eventtitlekey: "EV_TITLE_9"
+    rewardtype: 4
+    rewardid: 7
+    rewardquantity: 3
+    textextradata: 
+  - eventid: 24
+    eventicontype: 3
+    durationinday: 1
+    eventquesttype: 1
+    eventtriggertype: 7
+    triggervalue: 
+    comparevaluemode: 0
+    targetquantity: 10000
+    eventtitlekey: "EV_TITLE_7"
+    rewardtype: 4
+    rewardid: 0
+    rewardquantity: 5
+    textextradata: 
+  - eventid: 25
+    eventicontype: 7
+    durationinday: 1
+    eventquesttype: 1
+    eventtriggertype: 8
+    triggervalue: 
+    comparevaluemode: 0
+    targetquantity: 6000
+    eventtitlekey: "EV_TITLE_8"
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 900
+    textextradata: 
+  - eventid: 26
+    eventicontype: 2
+    durationinday: 1
+    eventquesttype: 0
+    eventtriggertype: 0
+    triggervalue: 05000000
+    comparevaluemode: 2
+    targetquantity: 30
+    eventtitlekey: "EV_TITLE_1"
+    rewardtype: 4
+    rewardid: 8
+    rewardquantity: 1
+    textextradata: "Orc Tank"
+  - eventid: 27
+    eventicontype: 2
+    durationinday: 1
+    eventquesttype: 0
+    eventtriggertype: 0
+    triggervalue: 08000000
+    comparevaluemode: 2
+    targetquantity: 60
+    eventtitlekey: "EV_TITLE_1"
+    rewardtype: 4
+    rewardid: 1
+    rewardquantity: 1
+    textextradata: "Wild Boar"
+  - eventid: 28
+    eventicontype: 2
+    durationinday: 2
+    eventquesttype: 1
+    eventtriggertype: 0
+    triggervalue: 07000000
+    comparevaluemode: 2
+    targetquantity: 3
+    eventtitlekey: "EV_TITLE_1"
+    rewardtype: 4
+    rewardid: 6
+    rewardquantity: 4
+    textextradata: "Orc King"
+  - eventid: 29
+    eventicontype: 2
+    durationinday: 1
+    eventquesttype: 0
+    eventtriggertype: 0
+    triggervalue: 0E000000
+    comparevaluemode: 2
+    targetquantity: 50
+    eventtitlekey: "EV_TITLE_1"
+    rewardtype: 4
+    rewardid: 2
+    rewardquantity: 1
+    textextradata: "Tribal Warrior"
+  - eventid: 30
+    eventicontype: 2
+    durationinday: 1
+    eventquesttype: 0
+    eventtriggertype: 0
+    triggervalue: 09000000
+    comparevaluemode: 2
+    targetquantity: 45
+    eventtitlekey: "EV_TITLE_1"
+    rewardtype: 4
+    rewardid: 3
+    rewardquantity: 1
+    textextradata: "Werewolf"
+  - eventid: 31
+    eventicontype: 2
+    durationinday: 2
+    eventquesttype: 1
+    eventtriggertype: 0
+    triggervalue: 10000000
+    comparevaluemode: 2
+    targetquantity: 3
+    eventtitlekey: "EV_TITLE_1"
+    rewardtype: 4
+    rewardid: 7
+    rewardquantity: 4
+    textextradata: "Mine King"
+  - eventid: 32
+    eventicontype: 2
+    durationinday: 1
+    eventquesttype: 0
+    eventtriggertype: 0
+    triggervalue: 00000000
+    comparevaluemode: 2
+    targetquantity: 100
+    eventtitlekey: "EV_TITLE_1"
+    rewardtype: 4
+    rewardid: 5
+    rewardquantity: 1
+    textextradata: "Pirate"
+  - eventid: 100
+    eventicontype: 3
+    durationinday: 7
+    eventquesttype: 2
+    eventtriggertype: 7
+    triggervalue: 
+    comparevaluemode: 0
+    targetquantity: 100000
+    eventtitlekey: "EV_TITLE_10"
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 1000
+    textextradata: 
+  - eventid: 101
+    eventicontype: 2
+    durationinday: 7
+    eventquesttype: 2
+    eventtriggertype: 0
+    triggervalue: 16000000
+    comparevaluemode: 2
+    targetquantity: 5000
+    eventtitlekey: "EV_TITLE_11"
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 1000
+    textextradata: 
+  - eventid: 102
+    eventicontype: 2
+    durationinday: 7
+    eventquesttype: 2
+    eventtriggertype: 0
+    triggervalue: 0400000017000000
+    comparevaluemode: 1
+    targetquantity: 400
+    eventtitlekey: "EV_TITLE_12"
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 1000
+    textextradata: 
+  - eventid: 103
+    eventicontype: 1
+    durationinday: 10
+    eventquesttype: 2
+    eventtriggertype: 4
+    triggervalue: 0B000000
+    comparevaluemode: 2
+    targetquantity: 60
+    eventtitlekey: "EV_TITLE_13"
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 1000
+    textextradata: 
+  - eventid: 104
+    eventicontype: 4
+    durationinday: 7
+    eventquesttype: 2
+    eventtriggertype: 3
+    triggervalue: 02000000
+    comparevaluemode: 2
+    targetquantity: 50
+    eventtitlekey: "EV_TITLE_14"
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 1000
+    textextradata: 
+  - eventid: 0
+    eventicontype: 0
+    durationinday: 0
+    eventquesttype: 0
+    eventtriggertype: 0
+    triggervalue: 
+    comparevaluemode: 0
+    targetquantity: 0
+    eventtitlekey: 
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 0
+    textextradata: 
+  - eventid: 0
+    eventicontype: 0
+    durationinday: 0
+    eventquesttype: 0
+    eventtriggertype: 0
+    triggervalue: 
+    comparevaluemode: 0
+    targetquantity: 0
+    eventtitlekey: 
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 0
+    textextradata: 
+  - eventid: 0
+    eventicontype: 0
+    durationinday: 0
+    eventquesttype: 0
+    eventtriggertype: 0
+    triggervalue: 
+    comparevaluemode: 0
+    targetquantity: 0
+    eventtitlekey: 
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 0
+    textextradata: 
+  - eventid: 0
+    eventicontype: 0
+    durationinday: 0
+    eventquesttype: 0
+    eventtriggertype: 0
+    triggervalue: 
+    comparevaluemode: 0
+    targetquantity: 0
+    eventtitlekey: 
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 0
+    textextradata: 
+  - eventid: 0
+    eventicontype: 0
+    durationinday: 0
+    eventquesttype: 0
+    eventtriggertype: 0
+    triggervalue: 
+    comparevaluemode: 0
+    targetquantity: 0
+    eventtitlekey: 
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 0
+    textextradata: 
+  - eventid: 0
+    eventicontype: 0
+    durationinday: 0
+    eventquesttype: 0
+    eventtriggertype: 0
+    triggervalue: 
+    comparevaluemode: 0
+    targetquantity: 0
+    eventtitlekey: 
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 0
+    textextradata: 
+  - eventid: 0
+    eventicontype: 0
+    durationinday: 0
+    eventquesttype: 0
+    eventtriggertype: 0
+    triggervalue: 
+    comparevaluemode: 0
+    targetquantity: 0
+    eventtitlekey: 
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 0
+    textextradata: 
+  - eventid: 0
+    eventicontype: 0
+    durationinday: 0
+    eventquesttype: 0
+    eventtriggertype: 0
+    triggervalue: 
+    comparevaluemode: 0
+    targetquantity: 0
+    eventtitlekey: 
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 0
+    textextradata: 
+  - eventid: 0
+    eventicontype: 0
+    durationinday: 0
+    eventquesttype: 0
+    eventtriggertype: 0
+    triggervalue: 
+    comparevaluemode: 0
+    targetquantity: 0
+    eventtitlekey: 
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 0
+    textextradata: 
+  - eventid: 0
+    eventicontype: 0
+    durationinday: 0
+    eventquesttype: 0
+    eventtriggertype: 0
+    triggervalue: 
+    comparevaluemode: 0
+    targetquantity: 0
+    eventtitlekey: 
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 0
+    textextradata: 
+  - eventid: 0
+    eventicontype: 0
+    durationinday: 0
+    eventquesttype: 0
+    eventtriggertype: 0
+    triggervalue: 
+    comparevaluemode: 0
+    targetquantity: 0
+    eventtitlekey: 
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 0
+    textextradata: 
+  - eventid: 0
+    eventicontype: 0
+    durationinday: 0
+    eventquesttype: 0
+    eventtriggertype: 0
+    triggervalue: 
+    comparevaluemode: 0
+    targetquantity: 0
+    eventtitlekey: 
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 0
+    textextradata: 
+  - eventid: 0
+    eventicontype: 0
+    durationinday: 0
+    eventquesttype: 0
+    eventtriggertype: 0
+    triggervalue: 
+    comparevaluemode: 0
+    targetquantity: 0
+    eventtitlekey: 
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 0
+    textextradata: 
+  - eventid: 0
+    eventicontype: 0
+    durationinday: 0
+    eventquesttype: 0
+    eventtriggertype: 0
+    triggervalue: 
+    comparevaluemode: 0
+    targetquantity: 0
+    eventtitlekey: 
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 0
+    textextradata: 
+  - eventid: 0
+    eventicontype: 0
+    durationinday: 0
+    eventquesttype: 0
+    eventtriggertype: 0
+    triggervalue: 
+    comparevaluemode: 0
+    targetquantity: 0
+    eventtitlekey: 
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 0
+    textextradata: 
+  - eventid: 0
+    eventicontype: 0
+    durationinday: 0
+    eventquesttype: 0
+    eventtriggertype: 0
+    triggervalue: 
+    comparevaluemode: 0
+    targetquantity: 0
+    eventtitlekey: 
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 0
+    textextradata: 
+  - eventid: 0
+    eventicontype: 0
+    durationinday: 0
+    eventquesttype: 0
+    eventtriggertype: 0
+    triggervalue: 
+    comparevaluemode: 0
+    targetquantity: 0
+    eventtitlekey: 
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 0
+    textextradata: 
+  - eventid: 0
+    eventicontype: 0
+    durationinday: 0
+    eventquesttype: 0
+    eventtriggertype: 0
+    triggervalue: 
+    comparevaluemode: 0
+    targetquantity: 0
+    eventtitlekey: 
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 0
+    textextradata: 
+  - eventid: 0
+    eventicontype: 0
+    durationinday: 0
+    eventquesttype: 0
+    eventtriggertype: 0
+    triggervalue: 
+    comparevaluemode: 0
+    targetquantity: 0
+    eventtitlekey: 
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 0
+    textextradata: 
+  - eventid: 0
+    eventicontype: 0
+    durationinday: 0
+    eventquesttype: 0
+    eventtriggertype: 0
+    triggervalue: 
+    comparevaluemode: 0
+    targetquantity: 0
+    eventtitlekey: 
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 0
+    textextradata: 
+  - eventid: 0
+    eventicontype: 0
+    durationinday: 0
+    eventquesttype: 0
+    eventtriggertype: 0
+    triggervalue: 
+    comparevaluemode: 0
+    targetquantity: 0
+    eventtitlekey: 
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 0
+    textextradata: 
+  - eventid: 0
+    eventicontype: 0
+    durationinday: 0
+    eventquesttype: 0
+    eventtriggertype: 0
+    triggervalue: 
+    comparevaluemode: 0
+    targetquantity: 0
+    eventtitlekey: 
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 0
+    textextradata: 
+  - eventid: 0
+    eventicontype: 0
+    durationinday: 0
+    eventquesttype: 0
+    eventtriggertype: 0
+    triggervalue: 
+    comparevaluemode: 0
+    targetquantity: 0
+    eventtitlekey: 
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 0
+    textextradata: 
+  - eventid: 0
+    eventicontype: 0
+    durationinday: 0
+    eventquesttype: 0
+    eventtriggertype: 0
+    triggervalue: 
+    comparevaluemode: 0
+    targetquantity: 0
+    eventtitlekey: 
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 0
+    textextradata: 
+  - eventid: 0
+    eventicontype: 0
+    durationinday: 0
+    eventquesttype: 0
+    eventtriggertype: 0
+    triggervalue: 
+    comparevaluemode: 0
+    targetquantity: 0
+    eventtitlekey: 
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 0
+    textextradata: 
+  - eventid: 0
+    eventicontype: 0
+    durationinday: 0
+    eventquesttype: 0
+    eventtriggertype: 0
+    triggervalue: 
+    comparevaluemode: 0
+    targetquantity: 0
+    eventtitlekey: 
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 0
+    textextradata: 

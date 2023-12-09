@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\UnityProjects\\KingdomDefense2EmpireWarrior-TESTED\\KingdomDefense2EmpireWarrior-TESTED\\Export\\Kingdom Def\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\suzai\\.gradle\\caches\\transforms-3\\6656fff467391b77a90a0d45719d2e20\\transformed\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                }
+            ]
+        }
+    ]
+}

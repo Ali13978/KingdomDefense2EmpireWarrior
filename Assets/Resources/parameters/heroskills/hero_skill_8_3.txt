@@ -1,0 +1,4 @@
+skill_level,attack_range_bonus_percentage,description
+0,10,Tăng tầm bắn lên theo %
+1,20,Tăng tầm bắn lên theo %
+2,30,Tăng tầm bắn lên theo %

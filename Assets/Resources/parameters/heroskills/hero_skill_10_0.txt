@@ -1,0 +1,4 @@
+skill_level,skill_range,duration,magic_damage,cooldown_time,use_type,desc
+0,50,3000,240,65000,TapNClickToUse,fires a lot of energy balls to an area for a period of time
+1,50,3000,270,65000,TapNClickToUse,
+2,50,3500,320,65000,TapNClickToUse,

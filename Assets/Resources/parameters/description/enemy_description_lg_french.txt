@@ -1,0 +1,27 @@
+id,name,level,desctiption,special_ability
+0,Pirate,0,Unité ennemie commune avec de faibles dégâts de santé et d'attaque.,
+1,Barbosa,0,Unité ennemie commune avec une masse pour se défendre.,
+2,Lupin,0,Unité ennemie très agile avec une puissance modérée. Ils peuvent éviter les attaques de mêlée.,# Rapide @ # Peut esquiver les attaques de mêlée
+3,Loki,0,Légèrement plus fort que son frère Lupin et peut également esquiver les attaques de mêlée.,@# Haute Résistance à l'armure
+4,Kimora,0,Une unité ennemie qui possède une magie noire redoutable. A la capacité de soigner les ennemis proches.,# Lent @# Guérir les ennemis proches @# Haute résistance magique
+5,Orc Tank,0,Orque géant avec peau épaisse et piscine haute santé.,
+6,One-Eye,0,Vol sur les troupes et les tours. Immunité à toutes les attaques et compétences au sol.,# Unité de vol @# Seuls Archer et Magic Dragon peuvent les atteindre.
+7,Orc King,0,Le roi qui gouverne les terres de montagne. Il commande des monstres locaux avec la corne de guerre.,# Santé extrêmement élevée @# Invoque des sangliers sauvages de n'importe où sur la carte.
+8,Sanglier,0,Rugissement sbire du roi. La bête peut se déplacer rapidement d’un endroit à l’autre.,# Rapide @# Se mettre dans le groupe
+9,Loup-garou,0,Les loups-garous sont très intelligents. Ils se faufilent facilement derrière les tours et ne peuvent être stoppés que par les infanteries et les Héros de mêlée.,# Rapide @# Se faufiler dans les tours passées
+10,Escargot,0,Créature monstrueuse escargot avec une grande résistance magique.,# Haute résistance magique @# Se transforme en Escargot Brave quand sa coquille se brise
+11,Escargot Brave,0,Évolution de l'escargot de base. Ils se déplacent plus rapidement après avoir déchiqueté leur lourde carapace mais au détriment de leur défense.,
+12,Escargot Mutant,0,Escargot mutant qui prend la forme d’un homme. Frappe très fort et est aussi très difficile à tuer.,# Attaque élevée @# Haute défense @# Se transforme en Brave Escargot Mutant  lorsque les parapluies se cassent
+13,Brave Escargot Mutant,0,Évolution d’escargot mutant. Ils se déplacent plus vite après avoir jeté le parapluie au détriment de leur défense.,
+14,Guerrier tribal,0,Très adaptatif et peut utiliser une attaque à longue portée en lançant des lances.,# Attaque à distance.
+15,Orc ivre,0,Énorme orc avec une hache mortelle comme arme. Il peut se soigner en consommant du vin d’orcs.,# Guérit lui-même.
+16,Roi de la mine,0,Le roi qui gouverne la mine d'or. Tout son corps est fait d’or pur.,# Santé extrêmement élevée @# Invoque Gitrog de n'importe où sur la carte.
+17,Gitrog,0,Sbire du roi doré. Il peut exploser quand il est engagé dans un combat.,# Rapide @# Explose lors d'une rencontre rapprochée avec des alliés @# Résistance magique élevée
+18,Hungry Hare,0,"Lièvres ensorcelés, très dangereux et vicieux.",# Rapide @# Se mettre dans le groupe
+19,Malicious Hare,0,"Équipés d'un bouclier et d'une arme, ces lièvres posent beaucoup plus de problèmes que leurs homologues affamés.",# Défense physique élevée @# Mouvement moyen
+20,Walrus Tank,0,Possède une vitalité et une endurance immenses. Blocs les attaques à distance avec un grand bouclier lors d’un déplacement.,# Très haute défense et résistance magique @# Dommages immunitaires lors du déplacement
+21,Ice Beast,0,Grosse bête née de l'océan austral. Leur peau est particulièrement épaisse pour survivre à la froideur de leur pays natal.,# Lent @# Très bonne santé @# Défense physique élevée
+22,Winged Bear,0,Ours mutant qui peut voler et assaillir sa proie du ciel équipées de bombes.,"# Unité de vol,  jetez des bombes en l’air @# Très haute défense physique, throw bombs from above @# Very high physical defense"
+23,Witch,0,"Sorcière rusée, maline.",# Mouvement moyen @# Très grande résistance magique @# Assassiner immédiatement un ennemi
+24,Catapult,0,Catapulte utilisée par Ice Beast pour attaquer les ennemis de loin.,# Lent @# Attaque et gèle à distance
+25,Frost Queen,0,"Une ancienne sorcière qui a été trahie par son partenaire. Remplie de haine et de vengeance, elle tomba dans l'oubli en étudiant les arts sombres.",# Se téléporte sur la carte @# Transforme les ennemis en ses alliés @# Invoque des serviteurs

@@ -1,0 +1,4 @@
+skill_level,number_of_minion,physics_damage,magic_damage,minion_attack_range,minion_attack_cooldown,minion_lifetime,skill_range,cooldown_time,description,use_type
+0,3,10,0,170,1000,9000,50,65000,Triệu hồi cây con tấn công,TapNClickToUse
+1,4,10,0,170,1000,10000,50,65000,Triệu hồi cây con tấn công,TapNClickToUse
+2,5,12,0,170,1000,12000,50,65000,Triệu hồi cây con tấn công,TapNClickToUse

@@ -1,0 +1,4 @@
+skill_level,percent_health_activate,amount_of_trap,trap_life_time,physics_damage,magic_damage,slow_percent,slow_duration,skill_range,cooldown_time,description
+0,10,3,3000,20,0,50,2000,35,40000,Chay thoat khi bi tan cong
+1,20,4,4000,35,0,70,2500,40,40000,Chay thoat khi bi tan cong
+2,30,5,4500,65,0,80,3000,45,40000,Chay thoat khi bi tan cong

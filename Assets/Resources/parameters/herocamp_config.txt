@@ -1,0 +1,2 @@
+health_max,attack_damage_max,physics_armor_max,attack_speed_max,magic_armor_max,health_regen,move_speed
+2000,200,100,500,100,100,180

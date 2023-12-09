@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "Tristana"
+  m_Controller: {fileID: 9100000, guid: ba307b6fa88b48f6b802d51d71dc1187, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: fd9d4f2e3dba411cbced5a4a762b2f92, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 91335b095c174d669303c18176e05590, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 2ce45132819f4d00bc272817c3da6485, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0c064009703744dd8ba2f37684fb1579, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5f50535160324eb9843d3d722619f29e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 045c52316dc64fbd9ca2311f8da92a43, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a3b81a5e96b040958fb19c96a5824c38, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 63f7c04c89f94ce6a60d9cb6a335d564, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e0680506dace40de86ebfb072f96f320, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ef8f17e5924c4eaaac35830e4076e447, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3e5cce89cbde45bd9e972a0ebbae4052, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cb07ad036550493fa2d59d3090520220, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 898cf6d597474b28b95fdbe7af09d02f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1bbd1b00c4ea47ffafb51c9d0cc31c94, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3a40622082cd4f4ca7c29ede68af4ca5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1bbd1b00c4ea47ffafb51c9d0cc31c94, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c4b922a24b53464b8d4a3b6796411006, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 45a1ba4e03df48b283cddea9ba17f3b0, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 66cc1b4f43e5404081b8a5e08318e2bd, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ea2c8321f4b34f6696bb0405145366c0, type: 2}

@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14f58705c55c21c43179774d2a432ff8, type: 3}
+  m_Name: "OfferBundle"
+  m_EditorClassIdentifier: 
+  bundlesSingleHero:
+  - offerBundleName: "Bundle Wukong"
+    saleRate: 50
+    offerBundleID: "kd.offer.luckychests.wukong"
+    heroID: 0
+    itemsAmount: 05000000050000000500000005000000
+  - offerBundleName: "Bundle Shaman King"
+    saleRate: 50
+    offerBundleID: "kd.offer.luckychests.shamanking"
+    heroID: 3
+    itemsAmount: 05000000050000000500000005000000
+  - offerBundleName: "Bundle Golem"
+    saleRate: 50
+    offerBundleID: "kd.offer.luckychests.golem"
+    heroID: 4
+    itemsAmount: 05000000050000000500000005000000
+  - offerBundleName: "Bundle Nature Queen"
+    saleRate: 50
+    offerBundleID: "kd.offer.luckychests.naturequeen"
+    heroID: 5
+    itemsAmount: 05000000050000000500000005000000
+  - offerBundleName: "Bundle Thor"
+    saleRate: 50
+    offerBundleID: "kd.offer.luckychests.thor"
+    heroID: 6
+    itemsAmount: 05000000050000000500000005000000
+  - offerBundleName: "Bundle Ninja Assassin"
+    saleRate: 50
+    offerBundleID: "kd.offer.luckychests.ninjaassain"
+    heroID: 7
+    itemsAmount: 05000000050000000500000005000000
+  - offerBundleName: "Bundle Tristana"
+    saleRate: 50
+    offerBundleID: "kd.offer.luckychests.tristana"
+    heroID: 8
+    itemsAmount: 05000000050000000500000005000000
+  - offerBundleName: "Bundle Jungle Lord"
+    saleRate: 50
+    offerBundleID: "kd.offer.luckychests.junglelord"
+    heroID: 9
+    itemsAmount: 05000000050000000500000005000000
+  bundlesItems:
+  - saleRate: 75
+    offerType: 1
+    timeCountDownHours: 48
+    offerBundleID: "kd.offer.worldmap.starterbundle"
+    gemAmount: 300
+    itemsAmount: 05000000050000000500000005000000
+  bundlesComboHeroes:
+  - saleRate: 67
+    offerType: 1
+    timeCountDownHours: 96
+    offerBundleID: "kd.offer.worldmap.special"
+    listHeroesID: 030000000400000005000000

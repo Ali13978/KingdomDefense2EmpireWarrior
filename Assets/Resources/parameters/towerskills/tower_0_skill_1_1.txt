@@ -1,0 +1,4 @@
+skill_level,chance_to_bleed,bonus_damage_percentage,duration,description
+0,30,12,5000,Xac suat gay bleed: enemy nhan them damage trong 1 khoang thoi gian
+1,40,12,5000,Xac suat gay bleed: enemy nhan them damage trong 1 khoang thoi gian
+2,50,12,5000,Xac suat gay bleed: enemy nhan them damage trong 1 khoang thoi gian

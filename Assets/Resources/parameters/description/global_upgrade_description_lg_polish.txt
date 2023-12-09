@@ -1,0 +1,15 @@
+upgrade_id,upgrade_title,upgrade_description
+0,Rabat na budowę i modernizację,Otrzymaj {0} % rabatu na budowę i modernizację wież.
+1,Zwiększ Zasięg Ataku 1,Zwiększ Zasięg Ataku 1
+2,Zwiększ Zasięg Ataku 2,Zwiększ Zasięg Ataku 2
+3,Zwiększ Szybkość Ataku 1,Zwiększ Szybkość Ataku 1
+4,Zwiększ Szybkość Ataku 2,Zwiększ Szybkość Ataku 2
+5,Szansa Zmartwychwstania,{0} % szans na natychmiastowe wskrzeszenie Piechoty.
+6,Szansa Krytyczna, Zwiększ szansę na cios krytyczny o {0} %.
+7,Zignoruj Szansę Obrony,Zwiększ szansę na przebicie pancerza o {0} %.
+8,Zwiększ Straty od Ataku,Zwiększ straty od ataku {0}.
+9,Powolna Szansa,Zwiększ szanse spowalniania wrogów podczas ataków o {0} %.
+10,Powolne Tempo,Powolne Tempo
+11,Powolny Czas Trwania,Powolny Czas Trwania
+12,Zwiększ Obronę Fizyczną Piechoty,Zwiększ Obronę Fizyczną Piechoty o {0} %.
+13,Zwiększ Zdrowie Piechoty,Zwiększ Maksymalne Zdrowie Piechoty {0}.

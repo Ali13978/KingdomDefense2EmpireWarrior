@@ -1,0 +1,21 @@
+id,level,ultimate_id,skill_id,name,ultimate_name,ultimate_description
+0,3,0,0,Archer,Multi-Shot,# 넓은 범위의 적들에게 피해를 주는 강력한 화살을 발사합니다.
+0,3,0,1,Archer,Freezing Arrow,# 확률적으로 화살에 냉기를 부여합니다.
+0,4,1,0,Archer,Assassinate,# 적을 바로 죽일 확률이 {0}% 입니다.
+0,4,1,1,Archer,Critical Shot,# 스킬의 유효 기간동안 적들은 다른 공격에서 {0}% 대미지를 더 입습니다.
+1,3,0,0,Infantry,Steel Bulwark,# 병사들의 방어력이 증가합니다.
+1,3,0,1,Infantry,Dexterity,# 병사들에게 멀리 있는 적을 쓰러뜨릴 수 있는 도끼를 제공합니다.
+1,4,1,0,Infantry,Vigor,# {0}% 확률로 적의 공격을 관통 공격으로 역습할 수 있습니다
+1,4,1,1,Infantry,Blade Storm,# 연속으로 역습을 {0} 번 공격합니다. 재사용 대기 시간 {1}초.
+2,3,0,0,Canonneer,Precision,# 가장 높은 체력을 가진 적과 그 주변의 적들에게 거대한 바위를 던져 피해를 가합니다.
+2,3,0,1,Canonneer,Hellfire Cannonball,# 용암이 들어있는 바위를 던져 바위가 떨어진 곳에 불의 길을 만듭니다.
+2,4,1,0,Canonneer,Heavy Boulder,# 1초마다 적 {1}명을  {0}% 확률로 {2}초 동안 기절시킵니다.
+2,4,1,1,Canonneer,ThunderBolt,# 번개창을 공격 거리 내에 던지며 {0} 대미지를 {1} 명에게 입힙니다. 재사용 대기시간 {2}초. 
+3,3,0,0,Magic Dragon,Reinforcement,# 아기용을 소환해 같이 싸웁니다.
+3,3,0,1,Magic Dragon,Dragon's Blessing,# 용이 주변의 아군에게 축복을 내려 공격속도와 자가치유능력을 부여합니다.
+3,4,1,0,Magic Dragon,Shove,# 적 {0} 명을 고대 힘으로 짧은 거리를 밉니다. 재사용 대기시간 {1}초. 
+3,4,1,1,Magic Dragon,Intimidate,# 근처에 있는 적들의 마법 방어력을 {0}% 내립니다.
+4,3,0,0,Priest,Coming Soon,# Coming Soon
+4,3,0,1,Priest,Coming Soon,# Coming Soon
+4,4,1,0,Priest,none,# none
+4,4,1,1,Priest,none,# none

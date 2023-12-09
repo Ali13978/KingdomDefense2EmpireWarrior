@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a0159a45b93445cb98141b90e592a8b0
+timeCreated: 1652200894
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "Nirmala Bold"
+  fontNames:
+  - Nirmala UI
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

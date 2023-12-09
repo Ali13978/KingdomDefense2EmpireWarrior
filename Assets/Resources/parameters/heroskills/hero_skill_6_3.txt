@@ -1,0 +1,4 @@
+skill_level,physics_damage,magic_damage,skill_range,cooldown_time,description
+0,25,0,120,23000,Tan cong quai bay trong ban kinh
+1,35,0,120,23000,Tan cong quai bay trong ban kinh
+2,50,0,120,23000,Tan cong quai bay trong ban kinh

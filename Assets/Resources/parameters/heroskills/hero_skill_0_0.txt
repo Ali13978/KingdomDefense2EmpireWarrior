@@ -1,0 +1,4 @@
+skill_level,number_clone,parameter_scale,duration,cooldown_time,description,use_type
+0,2,25,25000,30000,Phan bong,TapNClickToUse
+1,2,35,25000,30000,Phan bong,TapNClickToUse
+2,2,50,25000,30000,Phan bong,TapNClickToUse

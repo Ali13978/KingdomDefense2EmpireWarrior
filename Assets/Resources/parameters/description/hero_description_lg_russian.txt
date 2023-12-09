@@ -1,0 +1,49 @@
+id,name,skill_id,short_description,full_description,skill_name,skill_type,skill_description,skill_unlock
+0,WuKong,0,Coming Soon,Coming Soon,Разделение души,Активное,Укун призывает {0} клонов (обладающих {1}% силы атаки Укуна) которые ограниченное время помогают ему в сражении.,Разблокировано
+0,WuKong,1,Coming Soon,Coming Soon,Посох ярости,Пассивное,"Укун вращает посох вокруг себя, нанося {0}% повреждения врагам, находящимся вблизи.",Разблокируется при уровне 3.
+0,WuKong,2,Coming Soon,Coming Soon,Железная шкура,Пассивное,"Уменьшает урон, получаемый от врагов на {0}%.",Разблокируется при уровне 6.
+0,WuKong,3,Coming Soon,Coming Soon,Непреклонность,Пассивное,"Увеличивает броню Укуна на {0}% для всех врагов, находящихся вблизи.",Разблокируется при уровне 8.
+1,Ashi,0,Coming Soon,Coming Soon,Да будет дождь,Активное,"На выбранную местность обрушивается дождь из кристальных стрел, наносящий {0} урон.",Разблокировано
+1,Ashi,1,Coming Soon,Coming Soon,Смертельная стрела,Пассивное,Вероятность {0}% поразить врага в наименее защищённое место.,Разблокируется при уровне 3.
+1,Ashi,2,Coming Soon,Coming Soon,Частая стрельба,Пассивное,Аши концентрирует внимание и на {0} секунд увеличивает скорость атаки.,Разблокируется при уровне 6.
+1,Ashi,3,Coming Soon,Coming Soon,Обморожение,Пассивное,"Вызывает магические сферы, которые замедляют врагов на {0}%.",Разблокируется при уровне 8.
+2,Sir Galahad,0,Coming Soon,Coming Soon,Легион света,Активное,Призыв небесного хранителя (обладающего {0}% силы атаки Галаада) для уничтожения врагов.,Разблокировано
+2,Sir Galahad,1,Coming Soon,Coming Soon,Святой щит,Пассивное,"Когда Галаад получает урон, его защита со средней вероятностью повысится на {0}%.",Разблокируется при уровне 3.
+2,Sir Galahad,2,Coming Soon,Coming Soon,Рвение,Пассивное,Персонаж наносит сильный удар каждые {0} атак.,Разблокируется при уровне 6.
+2,Sir Galahad,3,Coming Soon,Coming Soon,Армагеддон,Пассивное,"Персонаж бьёт мечом об землю, нанося {0} повреждения всем врагам вокруг себя и оглушая их.",Разблокируется при уровне 8.
+3,Shaman King,0,Coming Soon,Coming Soon,Метеор,Активное,"Царь-шаман вызывает метеоритный дождь на выбранную местность, наносящий {0} повреждения.",Разблокировано
+3,Shaman King,1,Coming Soon,Coming Soon,Концентрация,Пассивное,Магическая сила Царя-шамана увеличивает его скорость на {0} и силу атаки на {1}.,Разблокируется при уровне 3.
+3,Shaman King,2,Coming Soon,Coming Soon,Ледяное царство,Пассивное,"Замораживает выбранную местность. Проходящие враги поражаются ледяными пиками, получая {0} урон каждую секунду",Разблокируется при уровне 6.
+3,Shaman King,3,Coming Soon,Coming Soon,Разряд молнии,Пассивное,"Поражает врагов, находящихся на выбранной местности, электрическими разрядами, нанося {0} урон.",Разблокируется при уровне 8.
+4,Lava Golem,0,Coming Soon,Coming Soon,Землетрясение,Активное,"Огненные валуны поражают и оглушают врагов, находящихся на земле, нанося {0} урон.",Разблокировано
+4,Lava Golem,1,Coming Soon,Coming Soon,Лавовая броня,Пассивное,В течение {0} секунд все полученные повреждения сводятся на нет.,Разблокируется при уровне 3.
+4,Lava Golem,2,Coming Soon,Coming Soon,Лавовый удар,Пассивное,Голем с {0}% вероятностью оглушает врагов обычными атаками.,Разблокируется при уровне 6.
+4,Lava Golem,3,Coming Soon,Coming Soon,Воодушевление,Пассивное,Горячий энтузиазм Голема передаётся всем союзникам и делает их более подвижными. Союзники получают {0} скорость.,Разблокируется при уровне 8.
+5,Nature Queen,0,Coming Soon,Coming Soon,Лечение,Активное,"Лечит всех союзников, находящихся в радиусе действия, возвращая им {0} единиц здоровья.",Разблокировано
+5,Nature Queen,1,Coming Soon,Coming Soon,Зов природы,Пассивное,Мать Земля увеличивает силу атаки Царицы природы на {0} единиц.,Разблокируется при уровне 3.
+5,Nature Queen,2,Coming Soon,Coming Soon,Цепкие корни,Пассивное,Лесные растения останавливают {0} врагов на короткое время и наносят им повреждения.,Разблокируется при уровне 6.
+5,Nature Queen,3,Coming Soon,Coming Soon,Катастрофа,Пассивное,"Вызывает {0} копий, которые преследуют отступающих врагов.",Разблокируется при уровне 8.
+6,Thor,0,Coming Soon,Coming Soon,Lightning Rod,Active,"Lightning strikes from the sky, stunning all enemies for {0}s.",Unlocked.
+6,Thor,1,Coming Soon,Coming Soon,Call of the king,Passive,Increases all allies' attack power by {0}% for {1}s.,Unlock at level 3.
+6,Thor,2,Coming Soon,Coming Soon,Shazam,Passive,"Electrifies his surrounding with lightning bolts, dealing {0} damage to nearby enemies.",Unlock at level 6.
+6,Thor,3,Coming Soon,Coming Soon,Sky Fall,Passive,"Electrocutes the nearest flying opponent, dealing {0} damage.",Unlock at level 8.
+7,Ninja Assassin,0,Coming Soon,Coming Soon,Omnislash,Active,"Blinks to the enemies location and assaults them, dealing {0} penetration damage.",Unlocked.
+7,Ninja Assassin,1,Coming Soon,Coming Soon,Escape,Passive,"When HP drops below {0}%, retreat while releasing small spikes on the ground that slows enemies down by {1}%.",Unlock at level 3.
+7,Ninja Assassin,2,Coming Soon,Coming Soon,Kusarigama Power ,Passive,Basic attack has {0}% chance to deal {1} AOE damage.,Unlock at level 6.
+7,Ninja Assassin,3,Coming Soon,Coming Soon,Houroku-Hiya ,Passive,"Set a timer bomb that sets off in {1}s. When explodes, deals {0} damage to hit enemies.",Unlock at level 8.
+8,Tristana,0,Coming Soon,Coming Soon,Boom burst,Active,"Fires a series of rockets to a designated area, dealing {0} damage to enemies in the location.",Unlocked.
+8,Tristana,1,Coming Soon,Coming Soon,Get away from me,Passive,"Blasts away all enemies on her way with a four-barrel pistol, deals damage and weakens their attack power by {0}% .",Unlock at level 3.
+8,Tristana,2,Coming Soon,Coming Soon,Seduce kiss,Passive,Charm the nearest opponent for {0}s.,Unlock at level 6.
+8,Tristana,3,Coming Soon,Coming Soon,Precision,Passive,Increases attack range by {0}%.,Unlock at level 8.
+9,Jungle Lord,0,Coming Soon,Coming Soon,Peashooter Army,Active,Summons {0} Peashooters to his aid on a designated area. Peashooters last {1}s.,Unlocked.
+9,Jungle Lord,1,Coming Soon,Coming Soon,Zombie Mushroom,Passive,"Tosses a toxic mushroom towards the enemies, confusing {0} opponents and making them go back to the starting point. The effect lasts for {1}s.",Unlock at level 3.
+9,Jungle Lord,2,Coming Soon,Coming Soon,Root,Passive,"Jungle Lord plants his roots down the ground to absorb nutritions, healing {0}% HP.",Unlock at level 6.
+9,Jungle Lord,3,Coming Soon,Coming Soon,Doppelganger,Passive,"Spawns a Jungle Lord's copy with {0}% of his stats, lasts for {1}s.",Unlock at level 8.
+10,Steel Dragon,0,Coming Soon,Coming Soon,Dragon Rage,Active,"Rains down energy spheres on a targeted area in {0}s, dealing a maximum of {1} damage.",Unlocked.
+10,Steel Dragon,1,Coming Soon,Coming Soon,Metal Wing,Passive,"Ferociously attacks enemies with razor sharp feathers firing from its wings, dealing {0} damage while decreasing {1}% of hit enemies' defense.",Unlock at level 3.
+10,Steel Dragon,2,Coming Soon,Coming Soon,Dragon Fang,Passive,"Crushes the enemies with its strong jaw, dealing {0} damage.",Unlock at level 6.
+10,Steel Dragon,3,Coming Soon,Coming Soon,Breath of Destruction,Passive,Fires an energy laser that deals {0} damage on a wide area.,Unlock at level 8.
+11,Phoenix,0,Coming Soon,Coming Soon,Blazing Road,Active,Incinerates the ground in a line. Enemies standing on the scorched ground take {0} damage.,Unlocked.
+11,Phoenix,1,Coming Soon,Coming Soon,Nova Crash,Passive,"Sets Phoenix himself ablaze and dives below, creating a huge explosion that deals {0} damage to enemies within.",Unlock at level 3.
+11,Phoenix,2,Coming Soon,Coming Soon,Purification,Passive,"Brainwashes an enemy and turns it into a fire pixie. The pixie then explodes, dealing {0} AoE damage to nearby enemies.",Unlock at level 6.
+11,Phoenix,3,Coming Soon,Coming Soon,Life aura,Passive,Continuously recovers nearby allies' HP for {0}s.,Unlock at level 8.

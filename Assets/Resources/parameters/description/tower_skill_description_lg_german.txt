@@ -1,0 +1,21 @@
+id,level,ultimate_id,skill_id,name,ultimate_name,ultimate_description
+0,3,0,0,Archer,Mehrfachschuss,# Startet mächtige Pfeile in die gegnerische Formation und fügt Schaden in einem weiten Gebiet zu.
+0,3,0,1,Archer,Gefrohrener Pfeil,"# Hat die Chance, die Pfeile mit Eis zu überziehen."
+0,4,1,0,Archer,Meuchelmord,"# Hat eine {0}% Chance, den Gegner sofort zu töten."
+0,4,1,1,Archer,Kritischer Schuss,# Getroffene Gegner nehmen {0}% mehr Schaden von einer anderen Quelle während der Aktivierung der Fertigkeit.
+1,3,0,0,Infantry,Stahl Bollwerk,# Erhöht die Verteidigung der Fußtruppen
+1,3,0,1,Infantry,Geschicklichkeit,"# Stattet die Fußtruppen mit Wurfaxten aus, um Feinde aus der Entfernung anzugreifen."
+1,4,1,0,Infantry,Schlagkraft,"# Gewährt {0}% Chance, dem Angriff des Gegners mit einem durchdringenden Schlag zu begegnen."
+1,4,1,1,Infantry,Klingensturm,# Gibt aufeinanderfolgende Angriffe von {0} Treffern frei. Abklingzeit {1}s.
+2,3,0,0,Canonneer,Präzision,# Wirft einen tödlichen Felsbrocken zum Feind mit der höchsten Gesundheit und seiner Umgebung.
+2,3,0,1,Canonneer,Höllenfeuer-Kanonenkugel,"# Wirft lavabeschichteten Felsbrocken, der eine Spur von Feuer hinterlässt."
+2,4,1,0,Canonneer,Schwerer Felsblock,"# Jede Sekunde hat {0}% Chance, {1} Gegner für {2}s zu betäuben."
+2,4,1,1,Canonneer,Donnerkeil,"# Schleudert einen Blitzspeer, der {0} Schaden an {1} Gegnern in Angriffsreichweite verursacht. Abklingzeit {2}s."
+3,3,0,0,Magic Dragon,Verstärkung,# Beschwört Babydrachen auf das Schlachtfeld unter dem Kommando des Turms.
+3,3,0,1,Magic Dragon,Drachensegen,"# Der Drache segnet nahegelegene Verbündete mit einer Aura, die sie heilt und ihr Angriffstempo erhöht."
+3,4,1,0,Magic Dragon,Schieben,# Schieb {0} Feinde mit einer uralten Kraft auf kurze Distanz zurück. Abklingzeit {1}s.
+3,4,1,1,Magic Dragon,Einschüchterung,# Reduziere {0}% Magieresistenz von Gegnern in der Nähe.
+4,3,0,0,Priest,Kommt bald,# Kommt bald
+4,3,0,1,Priest,Kommt bald,# Kommt bald
+4,4,1,0,Priest,none,# none
+4,4,1,1,Priest,none,# none

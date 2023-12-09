@@ -1,0 +1,10 @@
+item_id,item_name,item_description
+0,Frost Edelstein,Friert alle Feinde auf der gesamten Karte ein.
+1,Meteor Ruf,Meteoriten-Felsbrocken überschütten den Bestimmungsort und verursachen massive Schäden an Feinden.
+2,Heilende Wache,"Lasst eine Wache fallen, die in der Nähe befreundete Einheiten heilt."
+3,Gold Schatz,Extra Goldversorgung für die Armee.
+4,Speed Up,Increase all nearby tower's attack speed.
+5,Poison,Toss a gourd full of venom damages enemies.
+6,Reinforcement,Summon a guardian.
+7,Sky Reinforcement, Summon a powerful flying guardian.
+8,Storm,Summon a tornado that push all enemy on the way back to gate.

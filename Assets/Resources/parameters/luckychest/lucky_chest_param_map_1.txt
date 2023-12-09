@@ -1,0 +1,46 @@
+id,name,turn,rate,rate_scale,value,preview,note
+0,Hero except Wukong and Ashi,0,0,0,100,0,Random heroID chua so huu tru Wukong
+0,Hero except Wukong and Ashi,1,0,0,100,0,
+0,Hero except Wukong and Ashi,2,0,0,100,0,
+1,Hero Sell Offer Common,0,0,0,10,0,Giam gia mua hero wukong
+1,Hero Sell Offer Common,1,0,0,10,0,
+1,Hero Sell Offer Common,2,0,0,10,0,
+2,Hero Leveup - Hero -ID-1,0,0,0,15000,1,So luong EXP
+2,Hero Leveup - Hero -ID-1,1,10,10,15000,0,
+2,Hero Leveup - Hero -ID-1,2,14,14,15000,0,
+3,Hero Leveup - Hero -ID-2,0,20,20,15000,0,
+3,Hero Leveup - Hero -ID-2,1,10,20,15000,0,
+3,Hero Leveup - Hero -ID-2,2,10,24,15000,0,
+4,(Common) Gem Bonus,0,20,40,3,0,So luong item
+4,(Common) Gem Bonus,1,10,30,3,0,
+4,(Common) Gem Bonus,2,20,44,3,0,
+5,(Un-Common) Gem Bonus,0,10,50,10,0,So luong item
+5,(Un-Common) Gem Bonus,1,15,45,10,0,
+5,(Un-Common) Gem Bonus,2,20,64,10,0,
+6,(Rare) Gem Bonus,0,25,75,20,1,So luong item
+6,(Rare) Gem Bonus,1,30,75,20,0,
+6,(Rare) Gem Bonus,2,20,84,20,0,
+7,(Common) PI – Freezing Bonus,0,15,90,1,0,So luong item
+7,(Common) PI – Freezing Bonus,1,10,85,1,0,
+7,(Common) PI – Freezing Bonus,2,0,84,1,0,
+8,(Common) PI – Meteor Strike Bonus,0,0,90,1,0,So luong item
+8,(Common) PI – Meteor Strike Bonus,1,0,85,1,0,
+8,(Common) PI – Meteor Strike Bonus,2,0,84,1,0,
+9,(Common) PI – Healing Potion Bonus,0,0,90,1,0,So luong item
+9,(Common) PI – Healing Potion Bonus,1,5,90,1,0,
+9,(Common) PI – Healing Potion Bonus,2,0,84,1,0,
+10,(Common) PI – Gold Chest Bonus,0,0,90,1,0,So luong item
+10,(Common) PI – Gold Chest Bonus,1,0,90,1,0,
+10,(Common) PI – Gold Chest Bonus,2,0,84,1,0,
+11,(Rare) PI – Meteor Strike Bonus,0,10,100,2,1,So luong item
+11,(Rare) PI – Meteor Strike Bonus,1,10,100,2,0,
+11,(Rare) PI – Meteor Strike Bonus,2,16,100,2,0,
+12,Hero Wukong,0,0,100,20,0,Tang hero Wukong
+12,Hero Wukong,1,0,100,20,0,
+12,Hero Wukong,2,0,100,20,0,
+13,Hero Ashi,0,0,100,10,0,Tang hero Ashi
+13,Hero Ashi,1,0,100,10,0,
+13,Hero Ashi,2,0,100,10,0,
+14,Hero Sell Offer Un common,0,0,100,20,0,Giam gia mua cac hero khac tru wukong
+14,Hero Sell Offer Un common,1,0,100,20,0,
+14,Hero Sell Offer Un common,2,0,100,20,0,

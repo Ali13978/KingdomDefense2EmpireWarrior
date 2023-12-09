@@ -1,0 +1,3 @@
+id,tower_id,level,name,skill_param_0,skill_param_1,skill_param_2,skill_param_3,skill_param_4,skill_name,skill_description,note
+0,2,4,Stone God,100,130,75,300,300,Friend Zone,Slow all enemies in range ,"Slow chance, Skill Range, Slow percent, Slow time milisecond, Cooldowntime milisecond"
+1,0,4,Archer,80,200,0,0,0,Scale Damage,Scale damage by range,"Damage scale in min range, Damage scale in max range"

@@ -1,0 +1,4 @@
+skill_level,physics_damage,magic_damage,stun_duration,skill_range,cooldown_time,description,use_type
+0,30,0,5000,120,60000,Gay damage va stun enemy trong 1 ban kinh.,TapNClickToUse
+1,40,0,6000,120,60000,Gay damage va stun enemy trong 1 ban kinh.,TapNClickToUse
+2,50,0,8000,120,60000,Gay damage va stun enemy trong 1 ban kinh.,TapNClickToUse

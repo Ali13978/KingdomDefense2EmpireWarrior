@@ -1,0 +1,5 @@
+tower_id,star_tier_0,star_tier_1,star_tier_2,star_tier_3,star_tier_4
+0,1,2,3,4,5
+1,1,2,3,4,5
+2,1,2,3,4,5
+3,1,2,3,4,5

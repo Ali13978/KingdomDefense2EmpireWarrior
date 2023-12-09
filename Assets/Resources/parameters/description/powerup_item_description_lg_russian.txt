@@ -1,0 +1,10 @@
+item_id,item_name,item_description
+0,Ледяной самоцвет,Замораживает всех врагов на карте.
+1,Осколок метеорита,"Метеоритный дождь поражает выбранную местность, нанося врагам сильнейший урон."
+2,Палатка-госпиталь,"Лечение союзников, находящихся в радиусе действия."
+3,Золотое сокровище,Дополнительное золото для вашей армии.
+4,Speed Up,Increase all nearby tower's attack speed.
+5,Poison,Toss a gourd full of venom damages enemies.
+6,Reinforcement,Summon a guardian.
+7,Sky Reinforcement, Summon a powerful flying guardian.
+8,Storm,Summon a tornado that push all enemy on the way back to gate.

@@ -1,0 +1,4 @@
+skill_level,chance_to_cast_skill,damage_burn,duration,skill_range,description
+0,20,20,5000,100,"Ban dan gay chay, gay damage burn trong vung"
+1,20,30,5000,100,"Ban dan gay chay, gay damage burn trong vung"
+2,20,40,5000,100,"Ban dan gay chay, gay damage burn trong vung"

@@ -1,0 +1,14 @@
+tip_id,tip_name,tip_description
+0,Enemigos acorazados,Los enemigos acorazados reciben menos daño de las torretas Archer y Cannoneer.
+1,Resistencia mágica,Las torres de dragón no son efectivas cuando se enfrentan enemigos con alta resistencia mágica.
+2,¿OVNI?,Solo los arqueros y las torres del dragón pueden alcanzar enemigos voladores.
+3,Tu comando!,¡Los Caballeros son más útiles si están en el lugar correcto en el momento correcto!
+4,"Mientras más, mejor","Cuantos más refuerzos haya, más rápido podremos sacar a los enemigos de la mesa."
+5,¡Ten cuidado!,"Cuando tu vida (corazón) llega a 0, ¡es un juego!"
+6,Camino a la riqueza,Los enemigos pierden oro después de ser derrotados.
+7,Nueva introducción a la torre,Pruebe todo tipo de torres para atacar los puntos débiles de los enemigos.
+8,Nueva introducción a la torre,Pruebe todo tipo de torres para atacar los puntos débiles de los enemigos.
+9,Nueva (s) torre (s) desbloqueadas,"¡Arquero, Cañonero y Torres de Dragón Mágico @ ahora pueden actualizarse al nivel 2!"
+10,Nueva (s) torre (s) desbloqueadas,"Arquero, Cañonero y Torres  @ ahora pueden actualizarse al nivel 3."
+11,Nueva (s) torre (s) desbloqueadas,¡Las infanterías @ ahora puede actualizarse al nivel 3!
+12,Nueva (s) torre (s) desbloqueadas,¡Magic Dragon @ ahora puede actualizarse al nivel 3!

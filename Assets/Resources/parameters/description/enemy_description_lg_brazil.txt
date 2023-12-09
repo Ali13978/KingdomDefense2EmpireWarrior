@@ -1,0 +1,27 @@
+id,name,level,desctiption,special_ability
+0,Pirata,0,Unidade inimiga comum com baixa saúde e dano de ataque.,
+1,Barbosa,0,Unidade inimiga comum com uma maça para se defender.,
+2,Lupin,0,Unidade inimiga altamente ágil com poder moderado. Eles podem se esquivar de ataques corpo a corpo.,# Rápido @ # Pode esquivar ataques corpo a corpo
+3,Loki,0,Um pouco mais forte do que seu irmão Lupin e também pode se esquivar de ataques corpo a corpo.,@# Alta resistênciana armadura
+4,Kimora,0,Uma unidade inimiga que possui magia negra temível. Tem a capacidade de curar inimigos próximos.,# Lenta @# Cura os inimigos próximos @# Alta resistência mágica
+5,Tanque Orc,0,Orc gigante com pele grossa e alta saúde.,
+6,Um olho,0,Voa sobre tropas e torres. Tem imunidade a todos os ataques e habilidades terrestres.,# Unidade de vôo  # Somente Archer e Magic Dragon podem alcançá-los.
+7,Rei Orc,0,Rei que governa as terras da montanha. Ele comanda monstros locais com o chifre de guerra.,# Saúde extremamente alta @#Convoca Wild Boars de qualquer lugar do mapa.
+8,Javali selvagem,0,Sargento do Roar King. O animal pode viajar de um lugar para outro rapidamente.,# Rápido @# Spawn no grupo
+9,Lobisomem,0,Os lobisomens são altamente inteligentes. Eles passam as torres passadas facilmente e só podem ser parados por infantes e heróis corpo a corpo.,# Rápido @# Se esgueirar por torres passadas
+10,Caracol,0,Criatura monstruosa semelhante a caracol com alta resistência mágica.,# Alta resistência mágica @# Transforma no caracol corajoso quando a casca se quebra
+11,Caracol corajoso,0,"Evolui a partir do Caracol comum. Eles se movem mais rápido depois de destruir sua casca pesada, mas à custa de sua defesa.",
+12,Caracol Mutante,0,Caracol Mutante que assume a forma de um homem. Ataca de forma dura e também é muito difícil de matar.,# Ataque alto @# Defesa alta @# Transforma no Caracol Mutante Ousado quando o guarda-chuva se quebra
+13,Caracol Ousado,0,"Evolui do Caracol Mutante. Eles se movem mais rápido depois de jogar fora a carapuça, mas à custa de sua defesa.",
+14,Guerreiro Tribal,0,"Muito adaptável e pode usar um ataque de longo alcance, lançando lanças.",# Ataque a distância.
+15,Orc bêbado,0,Enorme monstruoso orc com machado mortal como arma. Ele pode curar-se consumindo vinho exclusivo de orc.,# Cura-se.
+16,Rei da Mina,0,Rei que governa a mina de ouro. Todo o seu corpo é feito de ouro puro.,# Saúde extremamente alta @# Convoca o Gitrog de qualquer lugar do mapa.
+17,Gitrog,0,Minion do rei dourado. Pode explodir quando se envolve em combate.,# Rápido @# Explode durante o encontro próximo com aliados @# Alta resistência mágica
+18,Hungry Hare,0,"Lebres rabugentas, altamente perigosas e viciosas.",# Fast @ # Spawn no grupo
+19,Malicious Hare,0,"Equipados com escudo e arma, estas lebres representam muito mais ameaças do que suas contrapartes famintas.",# Alta defesa física @# Movimento médio
+20,Walrus Tank,0,Possui imensa vitalidade e resistência. Param ataques com seu grande escudo quando se movem.,# Muito alta defesa e resistência mágica @# Dano imunitário quando se move
+21,Ice Beast,0,Grande besta nascida do oceano do sul. Sua pele é especialmente espessa para sobreviver à frieza de sua terra natal.,# Lento @# Saúde muito alta @# Alta defesa física
+22,Winged Bear,0,Urso mutante que pode voar e assaltar sua presa do céu com bombas.,"# Unidade de vôo, jogue bombas de cima @# Defesa física muito alta"
+23,Witch,0,Bruxa astuta.,# Movimento médio @# Resistência mágica muito alta @# Assassinar imediatamente um inimigo
+24,Catapult,0,Catapulta usada pela Besta para atacar inimigos de longe.,#Lento @# Ataque e congelar de uma distância
+25,Frost Queen,0,"Uma ex-bruxa que foi traída por seu parceiro. Cheio de ódio e desejo de vingança, ela caiu no esquecimento estudando artes escuras.",# Se mover através do mapa @# Torne os inimigos em seus aliados @# Convocar minions

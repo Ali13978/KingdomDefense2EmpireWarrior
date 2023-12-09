@@ -1,0 +1,4 @@
+skill_level,armor,description
+0,10,Tang giap
+1,20,Tang giap
+2,25,Tang giap

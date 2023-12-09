@@ -1,0 +1,43 @@
+level,id,text_tip_content
+0,0,"Build defensive towers to drive away enemies, protecting your kingdom."
+0,1,Heroes will fight besides you.
+0,2,Try to defeat enemies as fast as possible before they travel too far.
+1,0,Infantries can block enemies' path.
+1,1,Cannoneers deal AoE damage.
+1,2,Use accummulated Stars to upgrade your Ability.
+2,0,Use both Infantries and Cannoneers to maximize damage.
+2,1,Magic Dragon shoots fearsome magical spheres to enemies.
+2,2,Heroes gain EXP from defeating enemies.
+3,0,Archers and Magic Dragons can attack flying enemies.
+3,1,Upgraded Infantries can hold enemies longer.
+3,2,You can bring up to 3 heroes per match.
+4,0,You can upgrade and buy new hero in Hero Camp.
+4,1,Archers and Magic Dragons can attack flying enemies.
+4,2,Archers' arrows can catch speedy enemies.
+5,0,"Frost Gem freezes the entire screen, leaving rooms for you to prepare."
+5,1,"Call enemies early for better gold income, also resets all heroes' skill cooldown."
+5,2,Archers with Ultimate upgrade can slow enemies down by freezing them.
+6,0,Magic Dragons are effective with high physical resistance enemies.
+6,1,Magic Dragosn with Ultimate upgrade can heal nearby allies.
+6,2,Use both Infantries and Cannoneers to maximize damage.
+7,0,Upgraded Infantries can hold enemies longer.
+7,1,You can upgrade and buy new hero in Hero Camp.
+7,2,Magic Dragons with Ultimate upgrade can heal nearby allies.
+8,0,Magic Dragon shoots fearsome magical spheres to enemies.
+8,1,Magic Dragons with Ultimate upgrade can heal nearby allies.
+8,2,Visit our Fanpage to discuss about strategies and tactics.
+9,0,Infantries with Ultimate upgrade can attack enemies from afar.
+9,1,Upgraded Infantries can hold enemies longer.
+9,2,Choosing the suitable Heroes and Towers have high impact on the result.
+10,0,Take your time fending off enemies by using Powerup Items.
+10,1,You can bring up to 3 heroes per match.
+10,2,Upgrade Heroes level with Gems in Hero Camp.
+11,0,Hold enemies in position as long as you can to defeat them.
+11,1,Challenge the map again for extra EXP.
+11,2,Upgrade Heroes level with Gems in Hero Camp.
+12,0,TIP: Canonneer's second Ultimate may slow down groups of enemies.
+13,0,TIP: Canonneer's second Ultimate may slow down groups of enemies.
+14,0,"TIP: Infantry's second Ultimate penetrates defense, and comes in handy against high defense enemies."
+15,0,"TIP: Infantry's second Ultimate penetrates defense, and comes in handy against high defense enemies."
+16,0,"TIP: Magic Dragon fires laser beam in a straight line, which works best in linear area."
+17,0,Warning: Boss area. Stop them with all your might using tower's Ultimates.

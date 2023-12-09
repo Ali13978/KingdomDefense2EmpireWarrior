@@ -1,0 +1,43 @@
+level,id,text_tip_content
+0,0,"Construire des tours défensives pour chasser les ennemis, protégeant votre royaume."
+0,1,Les héros se battront à côté de vous.
+0,2,Essayez de vaincre les ennemis aussi vite que possible avant qu'ils ne voyagent trop loin.
+1,0,Les infanteries peuvent bloquer le chemin des ennemis.
+1,1,Les canonniers infligent des dégâts AoE.
+1,2,Utilisez des étoiles accumulées pour améliorer votre capacité.
+2,0,Utilisez à la fois les infanteries et les canonniers pour maximiser les dégâts.
+2,1,Dragon Magique tire des sphères magiques redoutables aux ennemis.
+2,2,Les Héros gagnent de l’EXP en battant les ennemis.
+3,0,Archers et Dragons magiques peuvent attaquer les ennemis volants.
+3,1,Les Infantries améliorées peuvent retenir les ennemis plus longtemps.
+3,2,Vous pouvez amener jusqu'à 3 héros par match.
+4,0,Vous pouvez améliorer et acheter un nouveau héros dans Hero Camp.
+4,1,Archers et Dragons magiques peuvent attaquer les ennemis volants.
+4,2,Les flèches des archers peuvent toucher des ennemis rapides.
+5,0,"Frost Gem gèle tout l'écran, laissant des pièces pour vous préparer."
+5,1,"Appelez les ennemis tôt pour un meilleur revenu d'or, réinitialise également le temps de recharge de tous les héros."
+5,2,Les archers avec une mise à niveau ultime peuvent ralentir les ennemis en les gelant.
+6,0,Les dragons magiques sont efficaces avec les ennemis à haute résistance physique.
+6,1,Dragons magiques avec mise à niveau ultime peut soigner les alliés proches.
+6,2,Utilisez à la fois les infanteries et les canonniers pour maximiser les dégâts.
+7,0,Les Infantries améliorées peuvent retenir les ennemis plus longtemps.
+7,1,Vous pouvez améliorer et acheter un nouveau héros dans Hero Camp.
+7,2,Dragons magiques avec mise à niveau ultime peut soigner les alliés proches.
+8,0,Dragon Magique tire des sphères magiques redoutables aux ennemis.
+8,1,Dragons magiques avec mise à niveau ultime peut soigner les alliés proches.
+8,2,Visitez notre Fanpage pour discuter de stratégies et tactiques.
+9,0,Les infanteries avec une mise à niveau Ultime peuvent attaquer des ennemis à distance.
+9,1,Les Infantries améliorées peuvent retenir les ennemis plus longtemps.
+9,2,Le choix des héros et des tours appropriés a un impact important sur le résultat.
+10,0,Prenez votre temps de repousser les ennemis en utilisant des éléments d’améliorations.
+10,1,Vous pouvez amener jusqu'à 3 héros par match.
+10,2,Améliorez le niveau des héros avec des pierres précieuses dans le camp des héros.
+11,0,Tenez les ennemis en position aussi longtemps que possible pour les vaincre.
+11,1,Défiez la carte à nouveau pour de l'EXP supplémentaire.
+11,2,Améliorez le niveau des héros avec des pierres précieuses dans le camp des héros.
+12,0,ASTUCE : Le deuxième canonnier Ultime peut ralentir des groupes d'ennemis.
+13,0,ASTUCE : Le deuxième canonnier Ultime peut ralentir des groupes d'ennemis.
+14,0,"ASTUCE : La deuxième infanterie Ultime pénètre la défense, et s'avère utile contre les ennemis de haute défense."
+15,0,"ASTUCE : La deuxième infanterie Ultime pénètre la défense, et s'avère utile contre les ennemis de haute défense."
+16,0,"ASTUCE : Un dragon magique tire un faisceau laser en ligne droite, ce qui fonctionne mieux dans une zone linéaire."
+17,0,Mise en garde : Zone de boss. Arrêtez-les de toutes vos forces en utilisant les  tours ultimes.

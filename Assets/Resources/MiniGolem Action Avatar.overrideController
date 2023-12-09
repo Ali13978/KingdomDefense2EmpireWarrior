@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "MiniGolem Action Avatar"
+  m_Controller: {fileID: 9100000, guid: 9e613742d9184f28811ad9ba65f924b0, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 8e55974fe99046edb193914c0440888b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2d469f5274bf42669f74ec34dd577b5d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: de1a530ede1b4bfb99e7ef8e81088226, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ecd296ee40f54d3cbc75fe424e284116, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: bf5862f44a02405989cf154803c072d8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 25ae2436e6824ae8a7111022fdca0755, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: aebd9634b720449785fbed0e1fed65b0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4ba613368993446792a08656baff7b8f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b63b752ab09740ca948c0ffb774c41f3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cd066e03f31a4d4b865052dbb1bcc7ab, type: 2}

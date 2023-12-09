@@ -1,0 +1,4 @@
+skill_level,attack_speed_increase,duration,cooldown_time,description
+0,30,1000,12500,Tang attack speed trong 1 khoang thoi gian
+1,30,1500,10500,Tang attack speed trong 1 khoang thoi gian
+2,30,3500,8500,Tang attack speed trong 1 khoang thoi gian

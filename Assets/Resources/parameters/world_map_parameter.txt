@@ -1,0 +1,21 @@
+map_id,name,star_requirement,area_id,description
+0,Mission 1,0,0,Mission 1
+1,Mission 2,0,0,Mission 2
+2,Mission 3,0,0,Mission 3
+3,Mission 4,0,1,Mission 4
+4,Mission 5,0,1,Mission 5
+5,Mission 6,0,1,Mission 6
+6,Mission 7,0,1,Mission 7
+7,Mission 8,0,2,Mission 8
+8,Mission 9,0,2,Mission 9
+9,Mission 10,0,2,Mission 10
+10,Mission 11,0,3,Mission 11
+11,Mission 12,0,3,Mission 12
+12,Mission 13,0,3,Mission 13
+13,Mission 14,0,4,Mission 14
+14,Mission 15,0,4,Mission 15
+15,Mission 16,0,4,Mission 16
+16,Mission 17,0,5,Mission 17
+17,Mission 18,0,5,Mission 18
+18,Mission 19,0,5,Mission 19
+19,Mission 20,0,5,Mission 20

@@ -1,0 +1,15 @@
+upgrade_id,upgrade_title,upgrade_description
+0,Descuento por construcción y actualización,Recibe {0}% de descuento al construir y actualizar torres.
+1,Aumenta el rango de ataque 1,Aumenta el rango de ataque 1
+2,Aumenta el rango de ataque 2,Aumenta el rango de ataque 2
+3,Aumentar la velocidad de ataque 1,Aumentar la velocidad de ataque 1
+4,Aumenta la velocidad de ataque 2,Aumenta la velocidad de ataque 2
+5,Oportunidad de resurrección,{0}% de probabilidad de que la Infantería resucite inmediatamente.
+6,Oportunidad Critica,Aumenta el {0}% de posibilidades críticas.
+7,Ignorar la probabilidad de defensa,Incrementa {0}% ignora la posibilidad de defensa.
+8,Aumenta el daño de ataque,Aumenta {0} daño de ataque.
+9,Oportunidad lenta,Aumenta el {0}% de probabilidades de reducir la velocidad de los enemigos durante los ataques.
+10,Ritmo lento,Ritmo lento.
+11,Duración lenta,Duración lenta
+12,Aumentar la defensa física de las infanterías,Aumenta la armadura física de {0}% infantries.
+13,Aumentar la salud de las infanterías,Aumenta la salud máxima de {0} infanterías.

@@ -1,0 +1,27 @@
+id,name,level,desctiption,special_ability
+0,Pirat,0,Zwykła jednostka wroga o słabym zdrowiu i małej zdolności wyrządzania zniszczeń.,
+1,Barbosa,0,Zwykła jednostka wroga z maczugą do obrony.,
+2,Lupin,0,Wysoce sprawny oddział wroga z umiarkowaną mocą. Mogą unikać lekkich ataków.,# Szybki @# Może unikać ataków rękoma.
+3,Loki,0,Nieco silniejszy niż jego brat Lupin i również może unikać lekkich ataków.,@# Wysoka odporność pancerza
+4,Kimora,0,"Jednostka wroga, która posiada przerażającą mroczną magię. Ma zdolność uzdrawiania pobliskich wrogów.",# Wolny @# Leczy pobliskich wrogów @# Wysoka magiczna odporność
+5,Czołg Orki,0,Gigantyczna orka o grubej skórze i wysokim zdrowiu.,
+6,Jednooki,0,Lata nad żołnierzami i wieżami. Ma umiejętności i odporność na ataki naziemne.,# Latająca jednostka @# Tylko Łucznik i Magiczny Smok może ją dosięgnąć.
+7,Król Orki,0,"Król, który rządzi górskimi ziemiami. Rozkazuje lokalnym potworom rogiem wojny.",# Niezwykle wysokie zdrowie @# Wzywa dzikie dziki z dowolnego miejsca na mapie.
+8,Dziki Dzik,0,Grzmiący pachołek króla. Bestia może szybko przemieszczać się z miejsca na miejsce.,# Szybki @# Mnoży się w grupie
+9,Wilkołak,0,Wilkołaki są bardzo inteligentne. Łatwo omijają wieże i mogą zostać zatrzymane jedynie przez piechotę i bitnych bohaterów.,# Szybki @# Skrada się obok wież
+10,Ślimak,0,Potworne stworzenie przypominające ślimaka z wysoką magiczną odpornością.,"# Wysoka magiczna odporność @# Przekształca się w łysego ślimaka, gdy jego skorupa pęka."
+11,Łysy Ślimak,0,"Pochodzi od zwykłego ślimaka. Porusza się szybciej po strzaskaniu swej ciężkiej skorupy, ale kosztem swej zdolności obrony.",
+12,Zmutowany Ślimak,0,"Zmutowany ślimak, który przyjmuje postać człowieka. Uderza niezwykle mocno, a poza tym bardzo trudno go zabić.","# Wysoki atak @# Wysoka obrona @# Przekształca się w łysego zmutowanego ślimaka, gdy parasol się psuje."
+13,Łysy Zmutowany Ślimak,0,"Powstaje ze zmutowanego ślimaka. Porusza się szybciej po odrzuceniu parasola, ale kosztem swych zdolności obronnych.",
+14,Plemienny Wojownik,0,Bardzo adaptacyjny i może wykonać atak z dystansu przez rzucanie włócznią.,# Atakuje z odległości.
+15,Pijana Orka,0,Ogromny orkowy potwór z zabójczym toporem. Potrafi się wyleczyć spożywając orkowe wino.,# Samodzielnie się leczy.
+16,Król Kopalni,0,"Król, który rządzi kopalnią złota. Całe jego ciało jest zrobione ze szczerego złota.",# Niezwykle silne zdrowie @# Wzywa Gitroga z dowolnego miejsca na mapie.
+17,Gitrog,0,Pachołek króla złota. Może eksplodować podczas walki.,# Szybki @# Wybucha podczas bliskiego spotkania z wrogami @# Wysoka magiczna odporność.
+18,Hungry Hare,0,"Przeklęte zające, bardzo niebezpieczne i okrutne.",# Szybki @# Mnoży się w grupie
+19,Malicious Hare,0,"Wyposażone w tarczę i broń, zające te stanowią o wiele większe zagrożenie niż ich głodne odpowiedniki.",# Wysoka obrona fizyczna @# Średni ruch
+20,Walrus Tank,0,Ma ogromną witalność i wytrzymałość. Blokuje silne ataki swoją dużą tarczą w trakcie ruchu.,# Bardzo wysoka obrona i odporność na magie @# Odporność na zniszczenia podczas poruszania się
+21,Ice Beast,0,"Wielka bestia zrodzona w Oceanie Południowym. Jej skóra jest wyjątkowo gruba, aby przetrwać mróz w ojczyźnie.",# Wolny @# Bardzo dobre zdrowie @# Wysoka obrona fizyczna
+22,Winged Bear,0,"Zmutowany Niedźwiedź, który potrafi latać i atakować swoją zdobycz z nieba swoimi bombami.","# Latająca jednostka, zrzuca bomby z góry @# Bardzo wysoka obrona fizyczna"
+23,Witch,0,"Przebiegła, cwana wiedźma.",# Średni ruch @# Bardzo duża odporność na magię @# Natychmiast zabija wroga
+24,Catapult,0,Katapulta wykorzystywana przez Lodową Bestię do atakowania wrogów z daleka.,# Wolny @# Atakuje i zamraża z odległości
+25,Frost Queen,0,"Była wiedźma, która została zdradzona przez swojego partnera. Przepełniona nienawiścią i pragnieniem zemsty, popadła w zapomnienie studiując mroczne sztuki.",# Teleportuje się na całej mapie @# Zmienia wrogów w swoich sojuszników @# Przywołuje sługi

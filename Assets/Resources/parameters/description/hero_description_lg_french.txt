@@ -1,0 +1,49 @@
+id,name,skill_id,short_description,full_description,skill_name,skill_type,skill_description,skill_unlock
+0,WuKong,0,Coming Soon,Coming Soon,Division de l’âme,Actif,Wukong invoque des {0} clones avec {1}% de la puissance d'attaque de Wukong pour l'aider dans la bataille pendant un temps limité.,Déverrouillée.
+0,WuKong,1,Coming Soon,Coming Soon,Fury Ruyi Bang,Passif,Wukong tourne son bâton et inflige {0}% de dégâts aux ennemis proches.,Déverrouiller au niveau 3.
+0,WuKong,2,Coming Soon,Coming Soon,Fer Caché,Passif,Réduit les dégâts infligés aux ennemis de {0}%.,Déverrouiller au niveau 6.
+0,WuKong,3,Coming Soon,Coming Soon,Inflexible,Passif,Augmente l'Armure de Wukong de {0}% pour chaque ennemi à proximité.,Déverrouiller au niveau 8.
+1,Ashi,0,Coming Soon,Coming Soon,Faiseur de pluie,Actif,"La pluie a cristallisé des flèches en bas de l'emplacement désigné, infligeant {0} points de dégâts.",Déverrouillée.
+1,Ashi,1,Coming Soon,Coming Soon,Flèche mortelle,Passif,Avoir {0}% de chance d'exploiter la faiblesse de l'ennemi en tirant sur ses points critiques.,Déverrouiller au niveau 3.
+1,Ashi,2,Coming Soon,Coming Soon,Tir rapide,Passif,"Ashi concentre ses sens, augmente considérablement la vitesse d'attaque pendant {0} secondes.",Déverrouiller au niveau 6.
+1,Ashi,3,Coming Soon,Coming Soon,Gelure,Passif,Libère des sphères magiques qui ralentissent les ennemis de {0}%.,Déverrouiller au niveau 8.
+2,Sir Galahad,0,Coming Soon,Coming Soon,Légion de la lumière,Actif,Faites appel à un gardien céleste avec {0}% de l'attaque de Galahad pour repousser les ennemis et les exterminer.,Déverrouillée.
+2,Sir Galahad,1,Coming Soon,Coming Soon,Bouclier sacré,Passif,"Quand il est attaqué, il a une chance modérée d'augmenter la défense de Galahad de {0}%.",Déverrouiller au niveau 3.
+2,Sir Galahad,2,Coming Soon,Coming Soon,Zèle,Passif,Délivre une lourde attaque toutes les {0} attaques.,Déverrouiller au niveau 6.
+2,Sir Galahad,3,Coming Soon,Coming Soon,Armageddon,Passif,"Frappe son épée au sol, infligeant {0} dégâts à tous les ennemis à distance et les étourdit.",Déverrouiller au niveau 8.
+3,Shaman King,0,Coming Soon,Coming Soon,Meteor,Actif,"Shaman King vise le champ désigné avec un météore massif, infligeant {0} dégâts.",Déverrouillée.
+3,Shaman King,1,Coming Soon,Coming Soon,Concentration,Passif,Augmente considérablement la vitesse d'attaque de Chaman King de {0} et les dégâts infligés par {1} avec une augmentation de puissance magique.,Déverrouiller au niveau 3.
+3,Shaman King,2,Coming Soon,Coming Soon,Royaume gelés,Passif,"Gèle l’emplacement ciblé. Les ennemis qui passent sont endommagés par les pointes montantes, recevant {0} dégâts toutes les secondes.",Déverrouiller au niveau 6.
+3,Shaman King,3,Coming Soon,Coming Soon,Étincelle de foudre,Passif,"Faites exploser la zone avec des geysers de foudre qui électrocutent les ennemis à portée, infligeant {0} dégâts.",Déverrouiller au niveau 8.
+4,Lava Golem,0,Coming Soon,Coming Soon,Tremblement de terre,Actif,"Crée de nombreux rochers enflammés, de superbes ennemis terrestres et inflige {0} de dégâts.",Déverrouillée.
+4,Lava Golem,1,Coming Soon,Coming Soon,Armure de lave,Passif,Nie tous les dégâts reçus dans les {0} secondes.,Déverrouiller au niveau 3.
+4,Lava Golem,2,Coming Soon,Coming Soon,Coup de poing de lave,Passif,Accorde a Golem la possibilité de {0}% d’étourdir les ennemis avec une attaque normale.,Déverrouiller au niveau 6.
+4,Lava Golem,3,Coming Soon,Coming Soon,Revigoré,Passif,"Golem inspire tous les alliés avec sa passion brûlante, les rendant plus agiles. Les alliés gagnent {0} de vitesse.",Déverrouiller au niveau 8.
+5,Nature Queen,0,Coming Soon,Coming Soon,Réparer,Actif,Guérissez tous les alliés dans le rayon ciblé de {0} hp.,Déverrouillée.
+5,Nature Queen,1,Coming Soon,Coming Soon,Appel de la nature,Passif,Invoque le pouvoir de la Terre Mère pour améliorer l'attaque de la Reine Naturelle de {0} points.,Déverrouiller au niveau 3.
+5,Nature Queen,2,Coming Soon,Coming Soon,Saisir les racines,Passif,Invoque des lianes de forêt qui infligent des dégâts et des racines {0} ennemis sur une courte durée.,Déverrouiller au niveau 6.
+5,Nature Queen,3,Coming Soon,Coming Soon,Catastrophe,Passif,Élimine {0} des lances qui poursuivent après la retraite des ennemis.,Déverrouiller au niveau 8.
+6,Thor,0,Coming Soon,Coming Soon,Lightning Rod,Active,"Lightning strikes from the sky, stunning all enemies for {0}s.",Unlocked.
+6,Thor,1,Coming Soon,Coming Soon,Call of the king,Passive,Increases all allies' attack power by {0}% for {1}s.,Unlock at level 3.
+6,Thor,2,Coming Soon,Coming Soon,Shazam,Passive,"Electrifies his surrounding with lightning bolts, dealing {0} damage to nearby enemies.",Unlock at level 6.
+6,Thor,3,Coming Soon,Coming Soon,Sky Fall,Passive,"Electrocutes the nearest flying opponent, dealing {0} damage.",Unlock at level 8.
+7,Ninja Assassin,0,Coming Soon,Coming Soon,Omnislash,Active,"Blinks to the enemies location and assaults them, dealing {0} penetration damage.",Unlocked.
+7,Ninja Assassin,1,Coming Soon,Coming Soon,Escape,Passive,"When HP drops below {0}%, retreat while releasing small spikes on the ground that slows enemies down by {1}%.",Unlock at level 3.
+7,Ninja Assassin,2,Coming Soon,Coming Soon,Kusarigama Power ,Passive,Basic attack has {0}% chance to deal {1} AOE damage.,Unlock at level 6.
+7,Ninja Assassin,3,Coming Soon,Coming Soon,Houroku-Hiya ,Passive,"Set a timer bomb that sets off in {1}s. When explodes, deals {0} damage to hit enemies.",Unlock at level 8.
+8,Tristana,0,Coming Soon,Coming Soon,Boom burst,Active,"Fires a series of rockets to a designated area, dealing {0} damage to enemies in the location.",Unlocked.
+8,Tristana,1,Coming Soon,Coming Soon,Get away from me,Passive,"Blasts away all enemies on her way with a four-barrel pistol, deals damage and weakens their attack power by {0}% .",Unlock at level 3.
+8,Tristana,2,Coming Soon,Coming Soon,Seduce kiss,Passive,Charm the nearest opponent for {0}s.,Unlock at level 6.
+8,Tristana,3,Coming Soon,Coming Soon,Precision,Passive,Increases attack range by {0}%.,Unlock at level 8.
+9,Jungle Lord,0,Coming Soon,Coming Soon,Peashooter Army,Active,Summons {0} Peashooters to his aid on a designated area. Peashooters last {1}s.,Unlocked.
+9,Jungle Lord,1,Coming Soon,Coming Soon,Zombie Mushroom,Passive,"Tosses a toxic mushroom towards the enemies, confusing {0} opponents and making them go back to the starting point. The effect lasts for {1}s.",Unlock at level 3.
+9,Jungle Lord,2,Coming Soon,Coming Soon,Root,Passive,"Jungle Lord plants his roots down the ground to absorb nutritions, healing {0}% HP.",Unlock at level 6.
+9,Jungle Lord,3,Coming Soon,Coming Soon,Doppelganger,Passive,"Spawns a Jungle Lord's copy with {0}% of his stats, lasts for {1}s.",Unlock at level 8.
+10,Steel Dragon,0,Coming Soon,Coming Soon,Dragon Rage,Active,"Rains down energy spheres on a targeted area in {0}s, dealing a maximum of {1} damage.",Unlocked.
+10,Steel Dragon,1,Coming Soon,Coming Soon,Metal Wing,Passive,"Ferociously attacks enemies with razor sharp feathers firing from its wings, dealing {0} damage while decreasing {1}% of hit enemies' defense.",Unlock at level 3.
+10,Steel Dragon,2,Coming Soon,Coming Soon,Dragon Fang,Passive,"Crushes the enemies with its strong jaw, dealing {0} damage.",Unlock at level 6.
+10,Steel Dragon,3,Coming Soon,Coming Soon,Breath of Destruction,Passive,Fires an energy laser that deals {0} damage on a wide area.,Unlock at level 8.
+11,Phoenix,0,Coming Soon,Coming Soon,Blazing Road,Active,Incinerates the ground in a line. Enemies standing on the scorched ground take {0} damage.,Unlocked.
+11,Phoenix,1,Coming Soon,Coming Soon,Nova Crash,Passive,"Sets Phoenix himself ablaze and dives below, creating a huge explosion that deals {0} damage to enemies within.",Unlock at level 3.
+11,Phoenix,2,Coming Soon,Coming Soon,Purification,Passive,"Brainwashes an enemy and turns it into a fire pixie. The pixie then explodes, dealing {0} AoE damage to nearby enemies.",Unlock at level 6.
+11,Phoenix,3,Coming Soon,Coming Soon,Life aura,Passive,Continuously recovers nearby allies' HP for {0}s.,Unlock at level 8.

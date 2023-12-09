@@ -1,0 +1,4 @@
+skill_level,magic_armor_decrease,duration,cooldown_time,skill_range,description
+0,30,300,300,120,Tru magic armor cua enemies trong vung
+1,60,310,310,125,Tru magic armor cua enemies trong vung
+2,90,320,320,130,Tru magic armor cua enemies trong vung

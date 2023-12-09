@@ -1,0 +1,27 @@
+id,name,level,desctiption,special_ability
+0,Pirat,0,Normale feindliche Einheit mit geringem Lebens- und Angriffsschaden.,
+1,Barbosa,0,Normale feindliche Einheit mit Keule zur Verteidigung.,
+2,Lupin,0,Äußerst agile feindliche Einheit mit mäßiger Kraft. Sie können Nahkampfangriffen ausweichen.,# Schnell @# Kann Nahkampfangriffen ausweichen
+3,Loki,0,Etwas stärker als sein Bruder Lupin und kann auch Nahkampfangriffen ausweichen.,@# Hohe Waffenresistenz
+4,Kimora,0,"Eine feindliche Einheit, die furchterregende dunkle Magie besitzt. Hat die Fähigkeit, Feinde in der Nähe zu heilen.",# Langsam @# Heilt Feinde in der Nähe  @# Hohe Magieresistenz
+5,Ork Panzer,0,Riesiger Ork mit dicker Haut und hohem Lebenspool.,
+6,Ein-Auge,0,Fliegt über Truppen und Türme. Hat Immunität gegen alle Bodenangriffe und Attacken.,# Fliegende Einheit @# Nur Bogenschützen und magische Drachen können ihnen schaden
+7,Orkkönig,0,"König, der die Gebirgsländer beherrscht. Er befehligt lokale Monster mit dem Horn des Krieges.",# Extrem viel Leben @#Beschwört Wildschweine von überall auf der Karte her.
+8,Wildschwein,0,Der Diener des brüllenden Königs. Das Tier kann schnell von Ort zu Ort gelangen.,# Schnell @# Laicht in Gruppe
+9,Werwolf,0,Werwölfe sind hochintelligent. Sie schleichen sich leicht an Türmen vorbei und können nur von Fußtrupps und Nahkampfhelden gestoppt werden.,# Schnell @# Schleicht an Türmen vorbei
+10,Schnecke,0,Monströses schneckenartiges Wesen mit hoher Magieresistenz.," # Hohe Magieresistenz @# Transformiert sich in kräftige Schnecke, wenn die Schale bricht"
+11,Kräftige Schnecke,0,"Entwickelt sich aus der gemeinen Schnecke. Sie bewegen sich schneller, nachdem sie ihre schwere Schale zerkleinert haben, aber auf Kosten ihrer Verteidigung.",
+12,Mutationsschnecke,0,"Eine mutierte Schnecke, die die Gestalt eines Mannes annimmt. Schlägt extrem hart und ist auch sehr schwer zu töten.","# Hohe Attacke @# Hohe Verteidigung @# Transformiert sich in kräftige Mutationsschnecke, wenn der Regenschirm bricht"
+13,Kräftige Mutationsschnecke,0,"Entwickelt sich aus der mutierten Schnecke. Sie bewegen sich schneller, nachdem sie ihren Regenschirm weggeworfen haben, aber auf Kosten ihrer Verteidigung.",
+14,Stammeskrieger,0,Sehr anpassungsfähig und kann durch Speere einen weitreichenden Angriff durchführen.,# Greift aus der Ferne an.
+15,Betrunkener Ork,0,"Riesiges Orkmonster mit tödlicher Axt als Waffe. Er kann sich selbst heilen, indem er orkisch-exklusiven Wein konsumiert.",# Heilt sich selbst.
+16,Minenkönig,0,"König, der die Goldmine regiert. Sein ganzer Körper ist aus purem Gold.",# Extrem hohes Leben @# Beschwört Gitrogs von überall auf der Karte her.
+17,Gitrog,0,"Untergebener des goldenen Königs. Er kann explodieren, wenn er im Kampfeinsatz ist.",# Schnell @# Explodiert in der Nähe von Verbündeten @# Hohe Magieresistenz
+18,Hungry Hare,0,"Zauberhafte Hasen, hochgradig gefährlich und bösartig.",# Schnell @# Spawn in der Gruppe
+19,Malicious Hare,0,Ausgestattet mit Schild und Waffe stellen diese Hasen viel mehr Bedrohungen dar als ihre hungrigen Pendants.,# Hohe physische Verteidigung @# Mittlere Bewegung
+20,Walrus Tank,0,"Besitzt immense Vitalität und Ausdauer. Blocks Fernkampfangriff mit seinem großen Schild, wenn er sich bewegt.",# Sehr hohe Abwehr- und Magieresistenz @# Immunschaden bei Bewegung
+21,Ice Beast,0,"Ein großes Tier, geboren aus dem südlichen Ozean. Ihre Haut ist besonders dick, um die Kälte in ihrer Heimat zu überstehen.",# Langsam @# Sehr hohe Gesundheit @# Hohe physische Verteidigung
+22,Winged Bear,0,"Mutated Bear, der fliegen kann und seine Beute vom Himmel aus mit ausgerüsteten Bomben angreift.","# Fliegende Einheit, wirf Bomben von oben @# Sehr hohe physische Verteidigung"
+23,Witch,0,"Gerissene, schlaue Hexe.",# Mittlere Bewegung @# Sehr hohe Magieresistenz @# Sofortige Ermordung eines Feindes
+24,Catapult,0,"Katapult, das von Ice Beast benutzt wird, um Feinde aus der Ferne anzugreifen.",# Langsam @# Angriff und Einfrieren aus der Ferne
+25,Frost Queen,0,"Eine ehemalige Hexe, die von ihrem Partner verraten wurde. Voller Hass und Rachegelüste geriet sie in Vergessenheit und studierte dunkle Künste.",#Teleportiert über die Karte @# Verwandelt Feinde in ihre Verbündeten @# Beschwörung von Vasallen

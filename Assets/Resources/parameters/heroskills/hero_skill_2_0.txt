@@ -1,0 +1,4 @@
+skill_level,number_clone,parameter_scale,duration,cooldown_time,description,use_type
+0,1,25,20000,30000,Tha cho,TapNClickToUse
+1,1,30,20000,30000,Tha cho,TapNClickToUse
+2,1,35,20000,30000,Tha cho,TapNClickToUse

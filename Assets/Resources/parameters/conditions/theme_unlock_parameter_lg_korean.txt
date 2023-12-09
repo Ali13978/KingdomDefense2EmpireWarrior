@@ -1,0 +1,8 @@
+id,condition_type,is_enable_theme_1,condition_theme_1,description_theme1,is_enable_theme_2,condition_theme_2,description_theme2
+0,map_id_passed,1,m_5,패스지도 6!,1,m_11,패스지도 12!
+1,star_require,1,s_15,15 별을 소유했습니다!,1,s_33,33 별을 소유했습니다!
+2,hero_amount_require,0,ha_2,소유 한 영웅 2 명!,1,ha_3,소유 한 영웅 3 명!
+3,hero_level_require_slot0,1,2_5,경 갈라 하드 6 레벨 필요!,0,4_5,Require Golem level 6!
+4,hero_level_require_slot1,1,1_5,아시 레벨 6이 필요합니다!,0,5_5,Require Queen level 6!
+5,hero_level_require_slot1,0,0_0,,0,0_0,empty
+6,hero_pet_slot_0,0,p_0,,0,p_1,Owned Ashi's Pet!

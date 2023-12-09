@@ -1,0 +1,4 @@
+skill_level,physics_damage,skill_range,duration,cooldown_time,description,use_type
+0,40,80,4000,60000,Gay dia chan damg aoe va stun.,TapNClickToUse
+1,50,80,6000,60000,Gay dia chan damg aoe va stun.,TapNClickToUse
+2,80,80,8000,60000,Gay dia chan damg aoe va stun.,TapNClickToUse

@@ -1,0 +1,43 @@
+level,id,text_tip_content
+0,0,TIPS: Xây và nâng cấp trụ để bảo vệ vương quốc
+0,1,TIPS: Hero là người bạn đồng hành của bạn
+0,2,TIPS: Cố gắng tiêu diệt toàn bộ kẻ thù
+1,0,TIPS: Lính trụ Infantry  sẽ giữ chân kẻ thù lâu hơn
+1,1,TIPS: God Stone có khả năng gây sát thương lên nhiều kẻ thù
+1,2,TIPS: Sử dụng Sao để nâng cấp trụ trong UPGRADE
+2,0,TIPS: Sử dụng Infantry chặn quái và God Stone tấn công chúng
+2,1,TIPS: Magic Dragon không bị ảnh hưởng bởi giáp vật lý
+2,2,TIPS: Hero sẽ nhận được EXP khi tham gia chiến đấu
+3,0,TIPS: Sử dụng Magic Dragon và Archer để tấn công QUÁI BAY
+3,1,TIPS: Nâng cấp trụ Infantry để giữ chân quái lâu hơn
+3,2,TIPS: Mỗi trận đánh được mang tối đa 3 Hero
+4,0,TIPS: Nhớ ghé Hero Camp để mua và nâng cấp Hero
+4,1,TIPS: Sử dụng Magic Dragon và Archer để tấn công QUÁI BAY
+4,2,TIPS: Archer sẽ rất hữu ích nếu kẻ thù di chuyển nhanh
+5,0,TIPS: Powerup item Freeze sẽ đóng băng toàn bộ kẻ thù
+5,1,TIPS: Gọi quái sớm sẽ nhận được VÀNG và hồi máu đồng minh
+5,2,TIPS: Skill của Archer level 4 làm chậm kẻ thù
+6,0,TIPS: Magic Dragon không bị ảnh hưởng bởi giáp vật lý
+6,1,TIPS: Thử sử dụng skill ultimate 1 của trụ Magic Dragon
+6,2,TIPS: Nhớ dùng Infantry tụ quái và God Stone tấn công chúng
+7,0,TIPS: Mỗi trận đánh được mang tối đa 3 Hero
+7,1,TIPS: Nhớ ghé Hero Camp để mua và nâng cấp Hero
+7,2,TIPS: Lựa chọn Hero phù hợp sẽ dễ chiến thắng hơn
+8,0,TIPS: Magic Dragon không bị ảnh hưởng bởi giáp vật lý
+8,1,TIPS: Thử sử dụng skill ultimate 1 của trụ Magic Dragon
+8,2,TIPS: Tham gia fanpage của game để cùng chia sẻ chiến thuật
+9,0,TIPS: Lính Infantry  có thể tấn công tầm xa sau nâng cấp
+9,1,TIPS: Nâng cấp Infantry  để chặn quái
+9,2,TIPS: Lựa chọn Hero phù hợp sẽ dễ chiến thắng hơn
+10,0,TIPS: Sử dụng Powerup item để chống lại kẻ thù
+10,1,TIPS: Mỗi trận đánh được mang tối đa 3 Hero
+10,2,TIPS: Nhớ ghé Hero Camp để mua và nâng cấp Hero
+11,0,"TIPS: Muốn diệt được kẻ thù, phải giữ chân được chúng"
+11,1,TIPS: Chơi lại 1 map bất kỳ đều có EXP cho Hero
+11,2,TIPS: Nhớ ghé Hero Camp để mua và nâng cấp Hero
+12,0,TIPS: Ultimate 2 của Canoneer có thể làm chậm và tấn công những đám quái đông.
+13,0,TIPS: Ultimate 2 của Canoneer có thể làm chậm và tấn công những đám quái đông.
+14,0,TIPS: Sử dụng kỹ năng xuyên giáp của bộ binh bằng Ultimate 2 để tiêu giệt quái có kháng phép và vật lý cao.
+15,0,TIPS: Sử dụng kỹ năng xuyên giáp của bộ binh bằng Ultimate 2 để tiêu giệt quái có kháng phép và vật lý cao.
+16,0,TIPS: Magic Dragon với đạn laze sẽ có lợi trên những đoạn đường thẳng.
+17,0,Cảnh báo: Có boss. Kết hợp tất cả các Ultimate 2 của các trụ để chặn đứng kẻ thù.

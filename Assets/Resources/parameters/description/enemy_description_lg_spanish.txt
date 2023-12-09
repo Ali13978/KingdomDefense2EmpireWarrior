@@ -1,0 +1,27 @@
+id,name,level,desctiption,special_ability
+0,Pirata,0,Unidad enemiga común con poca salud y daño de ataque.,
+1,Barbosa,0,Unidad enemiga común con una maza para defenderse.,
+2,Lupin,0,Unidad enemiga altamente ágil con poder moderado. Pueden esquivar los ataques cuerpo a cuerpo.,# Veloz @ # Puede esquivar ataques cuerpo a cuerpo
+3,Loki,0,Ligeramente más fuerte que su hermano Lupin y también puede esquivar ataques cuerpo a cuerpo.,@ # Alta resistencia a la armadura
+4,Kimora,0,Una unidad enemiga que posee temible magia oscura. Tiene la habilidad de curar enemigos cercanos.,# Lento @ # Curar a los enemigos cercanos @ # Alta resistencia a la magia
+5,Tanke Orco,0,Orco gigante con piel gruesa y piscina de alta salud.,
+6,One-Eye,0,Vuela sobre tropas y torres. Tiene inmunidad a todos los ataques y habilidades basados ​​en tierra.,# Unidad voladora @ # Solo Arquero y Dragon Magico pueden alcanzarlos.
+7,Rey Orco,0,Rey que gobierna las tierras de montaña. Él comanda a los monstruos locales con el cuerno de la guerra.,# Salud extremadamente alta @ # Invoca a jabalíes salvajes desde cualquier lugar del mapa.
+8,Jabalí salvage,0,Esbirro del Rey Roar. La bestia puede viajar de un lugar a otro rápidamente.,# Veloz @ # Spawn en grupo
+9,Hombre lobo,0,Los hombres lobo son muy inteligentes. Se escabullen fácilmente por las torres y solo pueden ser detenidos por las infanterías y los héroes cuerpo a cuerpo.,# Veloz @ # Sneak pasado torres
+10,Caracol,0,Monstruosa criatura similar a un caracol con alta resistencia mágica.,# Alta resistencia mágica @ # Se transforma en Caracol Fuerte cuando se rompe su caparazón
+11,Caracol Sangriento,0,"Evoluciona del Caracol común. Se mueven más rápido después de triturar su caparazón pesado, pero a expensas de su defensa.",
+12,Caracol mutado,0,Caracol mutado que toma la forma de un hombre. Golpea extremadamente duro y también es muy difícil de matar.,# Ataque alto @ # Defensa alta @ # Se transforma en Caracol Mutado Fuerte cuando se rompe el paraguas
+13,Caracol mutado fuerte,0,"Evoluciona de Caracol Mutado. Se mueven más rápido después de tirar el paraguas, pero a expensas de su defensa.",
+14,Guerrero Tribal,0,Muy adaptable y puede usar ataques a larga distancia lanzando lanzas.,# Ataque a distancia.
+15,Orco ebrio,0,Enorme monstruo orco con hacha mortal como arma. Él puede curarse a sí mismo consumiendo vino exclusivo de orc.,# Se cura a sí mismo.
+16,Rey minero,0,Rey que gobierna la mina de oro. Todo su cuerpo está hecho de oro puro.,# Salud extremadamente alta @ # Invoca a Gitrog desde cualquier lugar del mapa.
+17,Gitrog,0,Esbirro del Rey Dorado. Puede explotar cuando participa en el combate.,# Fast @ # Explota durante un encuentro cercano con aliados @ # Alta resistencia mágica
+18,Hungry Hare,0,"Liebres hechizadas, altamente peligrosas y viciosas.",# Rápido @# Engendrar en grupo
+19,Malicious Hare,0,"Equipadas con escudo y armas, estas liebres representan mayor amenaza que sus contrapartes hambrientas.",# Alta defensa física @# Movimiento medio
+20,Walrus Tank,0,Posee inmensa vitalidad y resistencia. Bloquea ataques a distancia al desplazarse con su gran escudo.,# Defensa muy alta y resistencia a la magia @# Inmune al daño cuando esté en movimiento
+21,Ice Beast,0,Gran bestia nacida del océano sur. Su piel es increiblemente gruesa para poder sobrevivir al frio de su tierra natal.,# Lento @# Salud muy alta @# Alta defensa física
+22,Winged Bear,0,Oso mutado que puede volar y ataca a su presa desde el cielo con bombas equipadas.,"# Unidad de vuelo,  tirar bombas desde arriba @# Muy alta defensa física"
+23,Witch,0,Bruja astuta e ingeniosa.,# Movimiento medio @# Muy alta resistencia a la magia @# Asesinar inmediatamente al enemigo
+24,Catapult,0,Catapulta utilizada por la Bestia de Hielo para atacar a los enemigos desde lejos.,# Lento @# Ataca y congela desde la distancia
+25,Frost Queen,0,"Una antigua bruja que fue traicionada por su pareja. Llena de odio y deseo de venganza, cayó en el olvido estudiando las artes oscuras.",# Teletransportación a través del mapa @# Convierte a sus enemigos en aliados @# Domina a sus esclavos

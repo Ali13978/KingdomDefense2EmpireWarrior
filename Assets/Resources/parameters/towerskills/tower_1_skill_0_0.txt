@@ -1,0 +1,4 @@
+skill_level,attack_range_far,description
+0,50,Kha nang tan cong tam xa
+1,70,Kha nang tan cong tam xa
+2,90,Kha nang tan cong tam xa

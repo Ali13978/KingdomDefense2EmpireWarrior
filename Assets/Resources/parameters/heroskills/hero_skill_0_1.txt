@@ -1,0 +1,4 @@
+skill_level,damage,duration,change_percent,aoe_range,description
+0,5,3000,10,35,Quay gay
+1,7,3000,10,35,Quay gay
+2,10,3000,10,35,Quay gay

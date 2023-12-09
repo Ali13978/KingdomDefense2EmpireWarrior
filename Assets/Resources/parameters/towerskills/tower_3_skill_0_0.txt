@@ -1,0 +1,4 @@
+skill_level,number_of_dragon,damage_per_dragon,description
+0,1,30,Tao ra 1 rong mini
+1,2,30,Tao ra 2 rong mini
+2,3,30,Tao ra 3 rong mini

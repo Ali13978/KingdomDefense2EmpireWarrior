@@ -1,0 +1,37 @@
+tut_id,tut_description
+choose_map_step_0,Fangen wir von hier an!
+start_game_step_0,Wähle deinen Helden
+start_game_step_1,Lass uns das Spiel beginnen!
+call_enemy_step_0,Tippe um den Kampf zu beginnen
+call_enemy_step_1,Bestätigen!
+build_tower_step_0,"Tippe, um den Turm zu bauen"
+build_first_tower_step_0,Turm um Gegner zu blocken
+build_first_tower_step_1,Bestätigen Sie Build!
+build_second_tower_step_0,Turm um Flächenschaden zu verursachen
+build_second_tower_step_1,Bestätigen Sie Build!
+build_third_tower_step_0,Bauen um Gold zu generieren
+build_third_tower_step_1,Bestätigen Sie Build!
+speed_button,Verwenden Sie@um zu beschleunigen!
+move_hero_step_0,"Tippe, um den Held zu wählen"
+move_hero_step_1,Tippe auf den Ort @ um dich zu bewegen
+hero_skill_step_0,Tippe um Fähigkeiten auszuwählen
+hero_skill_step_1,Tippe auf den Ort @ um Fähigkeiten abzuwerfen
+unlock_hero_step_0,Neuer Held freigeschaltet
+unlock_hero_step_1,Tippen um neuen Helden auszuwählen
+unlock_hero_step_2,Tippen um freizuschalten
+upgrade_hero_step_0,Wähle einen Helden zum Verbessern
+upgrade_hero_step_1,Verbessere dein Helden Level
+upgrade_tower_step_0,Lass uns deine Türme verbessern!
+upgrade_tower_step_1,Wähle eine Verbesserung
+upgrade_tower_step_2,Und verbessere sie!
+open_lucky_chest_step_1_first_chest,Tippe um die Truhe zu öffnen!
+open_lucky_chest_step_2_second_chest,Tippe um die Truhe zu öffnen!
+open_lucky_chest_step_3_third_chest,Tippe um die Truhe zu öffnen!
+open_lucky_chest_step_4_free_chest,"Dotknij, aby uzyskać 3 dodatkowe pole!"
+open_lucky_chest_step_5_auto_open,"Tippe, um die Truhen schnell zu öffnen!"
+open_lucky_chest_step_6_free_chest_again,"Dotknij, aby uzyskać 3 dodatkowe pole!"
+open_lucky_chest_step_7_auto_open_again,"Tippe, um die Truhen schnell zu öffnen!"
+open_lucky_chest_step_8_continue,Setze dein Abenteuer fort!
+use_hero_skill_point_step_0,Lasst uns die Fertigkeit eures Helden verbessern!
+use_hero_skill_point_step_1,"Tippen Sie, um Hero zu wählen"
+use_hero_skill_point_step_2,"Benutze Geschicklichkeitspunkte, um die Fertigkeitsstufe(n) zu verbessern!"

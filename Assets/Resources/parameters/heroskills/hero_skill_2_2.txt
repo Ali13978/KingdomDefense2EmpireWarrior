@@ -1,0 +1,4 @@
+skill_level,count_crit,description
+0,5,So luong don danh gay crit
+1,4,So luong don danh gay crit
+2,3,So luong don danh gay crit

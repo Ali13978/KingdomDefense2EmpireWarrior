@@ -1,0 +1,21 @@
+id,level,ultimate_id,skill_id,name,ultimate_name,ultimate_description
+0,3,0,0,Archer,Multi-Shot,"# Launches powerful arrows into the enemy's formation, dealing damage in a wide area."
+0,3,0,1,Archer,Freezing Arrow,# Has a chance to imbue the Arrows with Ice.
+0,4,1,0,Archer,Assassinate,# Has a {0}% chance to immediately kill the opponent.
+0,4,1,1,Archer,Critical Shot,# Hit enemies take {0}% increased damage from other source during the skill's activation.
+1,3,0,0,Infantry,Steel Bulwark,# Equips Infantries with throwing axe to take down enemies from afar.
+1,3,0,1,Infantry,Dexterity ,# Increases Infantry's physical defense.
+1,4,1,0,Infantry,Vigor,# Grants {0}% chance to counter enemies' attack with a penetrating strike.
+1,4,1,1,Infantry,Blade Storm,# Releases a consecutive attacks of {0} hits. Cooldown {1}s.
+2,3,0,0,Canonneer,Precision,# Throws a deadly boulder to enemy with the highest health and its surrounding.
+2,3,0,1,Canonneer,Hellfire Cannonball,# Throws lava-coated boulder that leaves behind a trail of fire.
+2,4,1,0,Canonneer,Heavy Boulder,# Each second has {0}% chance to stun {1} opponent for {2}s.
+2,4,1,1,Canonneer,ThunderBolt,# Hurls a lightning spear that deals {0} damage to {1} enemy(s) within attack range. Cooldown {2}s.
+3,3,0,0,Magic Dragon,Reinforcement,# Summon baby dragons to the battlefield under the tower's command.
+3,3,0,1,Magic Dragon,Dragon's Blessing,# The dragon blesses nearby allies with an aura that heals and increases their attack speed.
+3,4,1,0,Magic Dragon,Shove,# Shove {0} enemies back a short distance with an ancient force. Cooldown {1}s.
+3,4,1,1,Magic Dragon,Intimidate,# Reduce {0}% magic resistance of nearby enemies.
+4,3,0,0,Priest,Coming Soon,# Coming Soon
+4,3,0,1,Priest,Coming Soon,# Coming Soon
+4,4,1,0,Priest,none,# none
+4,4,1,1,Priest,none,# none

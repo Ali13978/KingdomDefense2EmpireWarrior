@@ -1,0 +1,8 @@
+id,condition_type,is_enable_theme_1,condition_theme_1,description_theme1,is_enable_theme_2,condition_theme_2,description_theme2
+0,map_id_passed,1,m_5,经过第6地图！,1,m_11,经过第12地图！
+1,star_require,1,s_15,获得15颗星星！,1,s_33,获得33颗星星！
+2,hero_amount_require,0,ha_2,获得2个英雄！,1,ha_3,获得3个英雄！
+3,hero_level_require_slot0,1,2_5,加拉哈德大师需要晋级第6级！,0,4_5,傀儡需要晋级第6级！
+4,hero_level_require_slot1,1,1_5,艾斯需要晋级第6级！,0,5_5,女皇需要晋级第6级！
+5,hero_level_require_slot1,0,0_0,空,0,0_0,空
+6,hero_pet_slot_0,0,p_0,英雄需要拥有0个宠物！,0,p_1,得到艾斯的宠物！

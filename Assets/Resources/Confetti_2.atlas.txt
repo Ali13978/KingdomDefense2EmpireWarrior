@@ -1,0 +1,90 @@
+
+Confetti_2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+k1
+  rotate: false
+  xy: 3, 181
+  size: 125, 88
+  orig: 125, 88
+  offset: 0, 0
+  index: -1
+k10
+  rotate: false
+  xy: 3, 272
+  size: 132, 91
+  orig: 132, 91
+  offset: 0, 0
+  index: -1
+k11
+  rotate: false
+  xy: 3, 366
+  size: 132, 110
+  orig: 132, 110
+  offset: 0, 0
+  index: -1
+k12
+  rotate: false
+  xy: 3, 112
+  size: 70, 66
+  orig: 70, 66
+  offset: 0, 0
+  index: -1
+k2
+  rotate: false
+  xy: 3, 3
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+k3
+  rotate: false
+  xy: 253, 402
+  size: 82, 74
+  orig: 82, 74
+  offset: 0, 0
+  index: -1
+k4
+  rotate: false
+  xy: 76, 118
+  size: 48, 60
+  orig: 48, 60
+  offset: 0, 0
+  index: -1
+k5
+  rotate: false
+  xy: 338, 429
+  size: 68, 47
+  orig: 68, 47
+  offset: 0, 0
+  index: -1
+k6
+  rotate: false
+  xy: 138, 369
+  size: 112, 107
+  orig: 112, 107
+  offset: 0, 0
+  index: -1
+k7
+  rotate: false
+  xy: 3, 60
+  size: 62, 49
+  orig: 62, 49
+  offset: 0, 0
+  index: -1
+k8
+  rotate: false
+  xy: 138, 300
+  size: 100, 66
+  orig: 100, 66
+  offset: 0, 0
+  index: -1
+k9
+  rotate: false
+  xy: 409, 435
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1

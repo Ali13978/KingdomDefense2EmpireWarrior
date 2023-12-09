@@ -1,0 +1,4 @@
+skill_level,heal_amount,skill_range,cooldown_time,description,use_type
+0,150,160,50000,Hoi mau tuc thi trong 1 range.,TapNClickToUse
+1,250,160,50000,Hoi mau tuc thi trong 1 range.,TapNClickToUse
+2,350,160,50000,Hoi mau tuc thi trong 1 range.,TapNClickToUse

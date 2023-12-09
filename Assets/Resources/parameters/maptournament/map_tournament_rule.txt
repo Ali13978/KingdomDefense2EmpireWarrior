@@ -1,0 +1,7 @@
+seasonID,mapID,hero_blessed_id,powerup_item_limit,tower_0_level,tower_1_level,tower_2_level,tower_3_level,tower_4_level,wave_loop_begin,wave_loop_end,health_increase_percentage_per_loop,damage_increase_percentage_per_loop
+ss0,0,3,5,3,3,3,3,2,10,12,100,100
+ss1,1,5,5,3,3,2,3,2,12,14,100,100
+ss2,2,0,5,4,4,4,4,2,11,14,100,100
+ss3,3,3,5,3,4,4,3,2,9,11,100,100
+ss4,4,5,5,3,3,2,3,2,11,13,100,100
+ss5,5,4,5,3,3,3,3,2,9,11,100,100

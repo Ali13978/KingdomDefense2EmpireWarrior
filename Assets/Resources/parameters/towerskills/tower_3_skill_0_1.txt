@@ -1,0 +1,4 @@
+skill_level,hp_generate,reload_decrease,skill_range,duration,description
+0,5,30,220,1000,Tang mau va toc do danh cho ally trong vung
+1,7,30,220,1000,Tang mau va toc do danh cho ally trong vung
+2,9,30,220,1000,Tang mau va toc do danh cho ally trong vung

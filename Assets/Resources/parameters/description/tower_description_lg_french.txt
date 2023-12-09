@@ -1,0 +1,26 @@
+id,level,name,type,short_description,description,unlock_description
+0,0,Archer,attaque physique,Attaquez les ennemis terrestres et aériens et infligez des dégâts physiques.,Attaquez les ennemis terrestres et aériens et infligez des dégâts physiques.,Niveau 1 Archer Débloqué!
+0,1,Archer,attaque physique,Les flèches en bronze aident à améliorer la portée d'attaque et à améliorer les dégâts.,Les flèches en bronze aident à améliorer la portée d'attaque et à améliorer les dégâts.,Niveau 2 Archer Débloqué!
+0,2,Archer,attaque physique,"Équipez Archer de flèches en acier, augmentant ainsi les dégâts.","Équipez Archer de flèches en acier, augmentant ainsi les dégâts.",Niveau 3 Archer Débloqué!
+0,3,Archer,attaque physique,"Améliorez les arcs, augmente la vitesse d'attaque.","Améliorez les arcs, augmente la vitesse d'attaque.",Niveau 4 Archer Débloqué! @Ultime Mise a niveau !
+0,4,Archer,attaque physique,Flèches d'argent infligeant d'énormes dégâts.,Flèches d'argent infligeant d'énormes dégâts.,Niveau 5 Archer Débloqué!
+1,0,Infanterie,attaque physique,Guerriers communs avec une armure lourde qui peut bloquer le chemin des ennemis.,Guerriers communs avec une armure lourde qui peut bloquer le chemin des ennemis.,Niveau 1 Infanterie Débloqué!
+1,1,Infanterie,attaque physique,Guerriers formés avec armure et arme en bronze.,Guerriers formés avec armure et arme en bronze.,Niveau 2 Infanterie Débloqué!
+1,2,Infanterie,attaque physique,Guerriers expérimentés avec une armure en acier et une arme.,Guerriers expérimentés avec une armure en acier et une arme.,Niveau 3 Infanterie Débloqué!
+1,3,Infanterie,attaque physique,Guerriers vétérans avec armure d'argent et arme.,Guerriers vétérans avec armure d'argent et arme.,Niveau 4 Infanterie Débloqué! @Ultime Mise a niveau !
+1,4,Infanterie,attaque physique,"Les guerriers peuvent maintenant se cacher pour tendre une embuscade aux ennemis, évitant ainsi les dégâts à distance.","Les guerriers peuvent maintenant se cacher pour tendre une embuscade aux ennemis, évitant ainsi les dégâts à distance.",Niveau 5 Infanterie Débloqué!
+2,0,Canonneer,attaque physique,Dégâts AoE de petite taille qui sont efficaces pour les ennemis terrestres.,Dégâts AoE de petite taille qui sont efficaces pour les ennemis terrestres.,Niveau 1 Canonneer Débloqué!
+2,1,Canonneer,attaque physique,Dégâts AoE moyens qui sont efficaces pour les ennemis terrestres.,Dégâts AoE moyens qui sont efficaces pour les ennemis terrestres.,Niveau 2 Canonneer Débloqué!
+2,2,Canonneer,attaque physique,Dégâts AoE élevés qui sont efficaces pour les ennemis terrestres.,Dégâts AoE élevés qui sont efficaces pour les ennemis terrestres.,Niveau 3 Canonneer Débloqué!
+2,3,Canonneer,attaque physique,"Lance des blocs de lave vers des ennemis terrestres, ce qui inflige des dégâts considérables.","Lance des blocs de lave vers des ennemis terrestres, ce qui inflige des dégâts considérables.",Niveau 4 Canonnier Débloqué! @Ultime Mise a niveau !
+2,4,Canonneer,attaque physique,"Crée un champ statique autour de la zone, ralentissant les ennemis.","Crée un champ statique autour de la zone, ralentissant les ennemis.",Niveau 5 Canonneer Débloqué!
+3,0,Dragon Magique,attaque magique,Inflige des dégâts pénétrants aux unités terrestres et volantes.,Inflige des dégâts pénétrants aux unités terrestres et volantes.,Niveau 1 Dragon Magique Débloqué!
+3,1,Dragon Magique,attaque magique,"Tire une sphère supplémentaire, infligeant des dégâts magiques moyens.","Tire une sphère supplémentaire, infligeant des dégâts magiques moyens.",Niveau 2 Dragon Magique Débloqué!
+3,2,Dragon Magique,attaque magique,Dragon entièrement développé avec des dégâts et une portée d'attaque plus élevés.,Dragon entièrement développé avec des dégâts et une portée d'attaque plus élevés.,Niveau 3 Dragon Magique Débloqué!
+3,3,Dragon Magique,attaque magique,Dragon de mille ans avec une force massive et des compétences spéciales.,Dragon de mille ans avec une force massive et des compétences spéciales.,Niveau 4 Dragon magique Débloqué! @Ultime Mise a niveau !
+3,4,Dragon Magique,attaque magique,"Tire un rayon laser en ligne droite, endommageant tous les ennemis qu'il touche.","Tire un rayon laser en ligne droite, endommageant tous les ennemis qu'il touche.",Niveau 5 Dragon Magique Débloqué!
+4,0,Prêtre,Générateur d’or,Génère 10 or en 10 secondes. ,Génère 10 or en 10 secondes. ,Niveau 1 Prêtre Débloqué!
+4,1,Prêtre,Générateur d’or,Génère 25 or en 10 secondes. ,Génère 25 or en 10 secondes.,Niveau 2 Prêtre Débloqué!
+4,2,Prêtre,Générateur d’or,Génère 35 or en 10 secondes.,Génère 35 or en 10 secondes.,Niveau 3 Prêtre Débloqué!
+4,3,Prêtre,Générateur d’or,Génère 45 or en 10 secondes.,Génère 45 or en 10 secondes. ,Niveau 4 Prêtre Débloqué! @Ultime Mise a niveau !
+4,4,Prêtre,Générateur d’or,Génère 45 or en 10 secondes.,Génère 45 or en 10 secondes.,Niveau 5 Prêtre Débloqué!

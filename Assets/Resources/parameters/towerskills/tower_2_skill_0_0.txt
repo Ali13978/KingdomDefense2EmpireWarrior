@@ -1,0 +1,4 @@
+skill_level,damage,skill_range,cooldown_time,description
+0,100,95,15000,Ban dan no vao muc tieu co nhieu mau nhat
+1,150,95,15000,Ban dan no vao muc tieu co nhieu mau nhat
+2,200,95,15000,Ban dan no vao muc tieu co nhieu mau nhat

@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "Cannon_4"
+  m_Controller: {fileID: 9100000, guid: 10b818647d5c40078908be5f2700461d, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 1be062f5345e462ea32d3ce6fd221802, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0ef0d13bacbf4e858846c6d451ce1b53, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1e84ae9c05d74fa699f307fa26257491, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4b571a4e5401446cbfedbdf0c6e245e9, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e93f580fcf644b36ac96eeb932a14e61, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 324805aa26c442a992f47bf75c9ffe34, type: 2}

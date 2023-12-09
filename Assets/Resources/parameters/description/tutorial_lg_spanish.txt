@@ -1,0 +1,37 @@
+tut_id,tut_description
+choose_map_step_0,¡Vamos a empezar desde aquí!
+start_game_step_0,Elige tu héroe
+start_game_step_1,¡Comencemos el juego!
+call_enemy_step_0,Toca para participar @ en la batalla
+call_enemy_step_1,Confirmar!
+build_tower_step_0,Toca para construir la torre
+build_first_tower_step_0,Construir para @ detener a los enemigos
+build_first_tower_step_1,Confirmar Build!
+build_second_tower_step_0,Construir para @ reparar el daño del área
+build_second_tower_step_1,Confirmar Build!
+build_third_tower_step_0,Construir para @ crear oro
+build_third_tower_step_1,Confirmar Build!
+speed_button,¡Usa para acelerar!
+move_hero_step_0,Toca para elegir Héroe
+move_hero_step_1,Toca la ubicación @ para moverte
+hero_skill_step_0,Toca para elegir habilidad
+hero_skill_step_1,Toca la ubicación para @ lanzar la habilidad
+unlock_hero_step_0,¡Nuevo héroe desbloqueado!
+unlock_hero_step_1,Toca para elegir @ un nuevo héroe
+unlock_hero_step_2,Toca para desbloquear
+upgrade_hero_step_0,Elige un héroe para mejorar
+upgrade_hero_step_1,Mejora el nivel del héroe!
+upgrade_tower_step_0,Mejoremos tus torres!
+upgrade_tower_step_1,Elige la habilidad que quieras
+upgrade_tower_step_2,Y mejóralo!
+open_lucky_chest_step_1_first_chest,Toca para abrir la caja!
+open_lucky_chest_step_2_second_chest,Toca para abrir la caja!
+open_lucky_chest_step_3_third_chest,Toca para abrir la caja!
+open_lucky_chest_step_4_free_chest,Toca para conseguir 3 caja más!
+open_lucky_chest_step_5_auto_open,Toca para abrir caja rápidamente!
+open_lucky_chest_step_6_free_chest_again,Toca para conseguir 3 caja más!
+open_lucky_chest_step_7_auto_open_again,Toca para abrir caja rápidamente!
+open_lucky_chest_step_8_continue,Continúa tu aventura!
+use_hero_skill_point_step_0,¡Mejoremos la habilidad de su héroe!
+use_hero_skill_point_step_1,Toque para seleccionar Héroe
+use_hero_skill_point_step_2,¡Use punto(s) de habilidad para mejorar el/los nivel(es) de habilidad!

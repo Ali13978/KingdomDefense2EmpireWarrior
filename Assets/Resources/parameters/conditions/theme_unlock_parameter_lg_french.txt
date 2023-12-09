@@ -1,0 +1,8 @@
+id,condition_type,is_enable_theme_1,condition_theme_1,description_theme1,is_enable_theme_2,condition_theme_2,description_theme2
+0,map_id_passed,1,m_5,Carte passée 6!,1,m_11,Carte passée 12!
+1,star_require,1,s_15,Possédé 15 étoiles!,1,s_33,Possédé 33 étoiles!
+2,hero_amount_require,0,ha_2,Possédé 2 Héros!,1,ha_3,Possédé 3 Héros!
+3,hero_level_require_slot0,1,2_5,Exiger Sir Galahad niveau 6!,0,4_5,Require Golem level 6!
+4,hero_level_require_slot1,1,1_5,Exiger Ashi niveau 6!,0,5_5,Require Queen level 6!
+5,hero_level_require_slot1,0,0_0,empty,0,0_0,empty
+6,hero_pet_slot_0,0,p_0,Require Hero ID 0 own pet!,0,p_1,Owned Ashi's Pet!

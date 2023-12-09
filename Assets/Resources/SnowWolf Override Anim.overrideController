@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "SnowWolf Override Anim"
+  m_Controller: {fileID: 9100000, guid: ba307b6fa88b48f6b802d51d71dc1187, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: fd9d4f2e3dba411cbced5a4a762b2f92, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 492ea1c6e143469da5041306c0cbcc32, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5f50535160324eb9843d3d722619f29e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7157029f902a407b931259ea082da5ca, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3a40622082cd4f4ca7c29ede68af4ca5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f8783a7db1ee4a57884e2e1bf4c81138, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 66cc1b4f43e5404081b8a5e08318e2bd, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f00dab18c5854fe5aa71e717a7a1bc12, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 2ce45132819f4d00bc272817c3da6485, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 096722c84fef45489ccd1ac8a61334ff, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a3b81a5e96b040958fb19c96a5824c38, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 096722c84fef45489ccd1ac8a61334ff, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e0680506dace40de86ebfb072f96f320, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 096722c84fef45489ccd1ac8a61334ff, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3e5cce89cbde45bd9e972a0ebbae4052, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 096722c84fef45489ccd1ac8a61334ff, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 898cf6d597474b28b95fdbe7af09d02f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 096722c84fef45489ccd1ac8a61334ff, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c4b922a24b53464b8d4a3b6796411006, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 096722c84fef45489ccd1ac8a61334ff, type: 2}

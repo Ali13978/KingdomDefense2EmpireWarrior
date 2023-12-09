@@ -1,0 +1,4 @@
+skill_level,number_of_projectile,physics_damage,magic_damage,skill_range,cooldown_time,description,use_type
+0,3,30,0,100,65000,Bắn loạt đạn Bazooka vào vị trí gây damage AOE,TapNClickToUse
+1,4,30,0,100,65000,Bắn loạt đạn Bazooka vào vị trí gây damage AOE,TapNClickToUse
+2,5,35,0,100,65000,Bắn loạt đạn Bazooka vào vị trí gây damage AOE,TapNClickToUse

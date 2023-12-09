@@ -1,0 +1,14 @@
+tip_id,tip_name,tip_description
+0,Uzbrojeni Wrogowie,Uzbrojeni wrogowie odnoszą mniejsze obrażenia od łuczników i z wieżyczek miotaczy kul.
+1,Magiczny Opór,Wieże smoków są nieskuteczne w starciu z wrogami o wysokiej odporności na magię.
+2,UFO?,Tylko Łucznicy i Smocze Wieże mogą dosięgnąć latających wrogów.
+3,Twój Rozkaz!,"Rycerze są bardziej przydatni, jeśli znajdują się w odpowiednim miejscu i czasie!"
+4,Im Więcej Tym Lepiej,"Im więcej jest oddziałów, tym szybciej możemy pokonać wrogów."
+5,Bądź Ostrożny#,"Kiedy twoje życie (serce) osiąga 0, następuje koniec gry!"
+6,Droga do Bogactwa,"Wrogowie upuszczają złoto, gdy są pokonani."
+7,Prezentacja Nowej Wieży,"Wypróbuj wszystkie rodzaje wież, aby uderzyć w słabe punkty wrogów."
+8,Prezentacja Nowej Wieży,"Wypróbuj wszystkie rodzaje wież, aby uderzyć w słabe punkty wrogów."
+9,Nowa Wieża(e) Odblokowana,"Łucznik, Miotacz Kul i Wieża Magicznego Smoka @ mogą być teraz ulepszone do poziomu 2!"
+10,Nowa Wieża(e) Odblokowana,Łucznik i Wieża Miotacza Kul @ mogą być teraz ulepszone do poziomu 3!
+11,Nowa Wieża(e) Odblokowana,Piechota @ może być teraz ulepszona do poziomu 3!
+12,Nowa Wieża(e) Odblokowana,Magiczny Smok @ może być teraz ulepszony do poziomu 3!

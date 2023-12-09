@@ -1,0 +1,4 @@
+skill_level,physics_damage,magic_damage,time_step,skill_range,cooldown_time,description
+0,30,0,3000,95,42000,Sun Strike vao muc tieu co nhieu mau nhat
+1,50,0,3000,95,42000,Sun Strike vao muc tieu co nhieu mau nhat
+2,80,0,3000,95,42000,Sun Strike vao muc tieu co nhieu mau nhat

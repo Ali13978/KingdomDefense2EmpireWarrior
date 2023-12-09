@@ -1,0 +1,38 @@
+tut_id,tut_description
+choose_map_step_0,Let's start from here!
+start_game_step_0,Choose your hero
+start_game_step_1,Let's begin the game!
+call_enemy_step_0,Tap to engage in battle
+call_enemy_step_1,Tap again to confirm!
+build_tower_step_0,Tap to build tower
+build_first_tower_step_0,Infantry can block enemies' path
+build_first_tower_step_1,Tap again to confirm!
+build_second_tower_step_0,Canonneer deals AoE damage
+build_second_tower_step_1,Tap again to confirm!
+build_third_tower_step_0,Priest helps generate gold
+build_third_tower_step_1,Tap again to confirm!
+speed_button,Enable to Speed Up
+move_hero_step_0,Tap to choose Hero
+move_hero_step_1,Tap on the location @ to move
+hero_skill_step_0,Tap to choose skill
+hero_skill_step_1,Tap on the location @ to cast skill
+unlock_hero_step_0,New hero unlocked!
+unlock_hero_step_1,Tap to choose new hero
+unlock_hero_step_2,Tap to unlock
+upgrade_hero_step_0,Choose a hero to upgrade
+upgrade_hero_step_1,Upgrade hero's level!
+upgrade_tower_step_0,Let's enhance your towers!
+upgrade_tower_step_1,Choose the ability you want
+upgrade_tower_step_2,And upgrade it!
+open_lucky_chest_step_1_first_chest,Touch to open the chest!
+open_lucky_chest_step_2_second_chest,Touch to open the chest!
+open_lucky_chest_step_3_third_chest,Touch to open the chest!
+open_lucky_chest_step_4_free_chest,Touch to get 3 more chests!
+open_lucky_chest_step_5_auto_open,Touch to open chests quickly!
+open_lucky_chest_step_6_free_chest_again,Touch to get 3 more chests!
+open_lucky_chest_step_7_auto_open_again,Touch to open chests quickly!
+open_lucky_chest_step_8_continue,Continue your adventure!
+use_hero_skill_point_step_0,Let's upgrade your hero's skill!
+use_hero_skill_point_step_1,Tap to choose Hero
+use_hero_skill_point_step_2,Use skill point(s) to upgrade skill level(s)!
+tournament_step_0,Join Tournament Mode

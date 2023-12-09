@@ -1,0 +1,4 @@
+skill_level,arrow_number,skill_range,damage_physics,duration,delay_time,cooldown_time,description
+0,3,70,10,1000,200,55000,Ban mot so luong mui ten AOE damg khi quai den diem dich!
+1,4,70,15,1000,200,55000,Ban mot so luong mui ten AOE damg khi quai den diem dich!
+2,5,70,20,1000,200,55000,Ban mot so luong mui ten AOE damg khi quai den diem dich!

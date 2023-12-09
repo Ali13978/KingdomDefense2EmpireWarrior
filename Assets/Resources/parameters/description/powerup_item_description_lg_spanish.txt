@@ -1,0 +1,10 @@
+item_id,item_name,item_description
+0,Gema gélida,Congela a todos los enemigos en el mapa entero
+1,Llamada al meteoro,Las rocas de meteoritos bañan la ubicación designada e infligen daño masivo a los enemigos.
+2,Guardia curativo,Suelta un barrio que cure las unidades amigas cercanas.
+3,Tesoro con oro,Suministro adicional de oro para el ejército.
+4,Speed Up,Increase all nearby tower's attack speed.
+5,Poison,Toss a gourd full of venom damages enemies.
+6,Reinforcement,Summon a guardian.
+7,Sky Reinforcement, Summon a powerful flying guardian.
+8,Storm,Summon a tornado that push all enemy on the way back to gate.

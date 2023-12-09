@@ -1,0 +1,4 @@
+skill_level,magic_damage,skill_range,stun_duration,cooldown_time,
+0,65,30,1500,30000,"breath of destruction: ban 1 tia sang xuong, deal dam len 1 area, gay stun len quai"
+1,70,30,2000,31000,
+2,95,30,2500,32000,

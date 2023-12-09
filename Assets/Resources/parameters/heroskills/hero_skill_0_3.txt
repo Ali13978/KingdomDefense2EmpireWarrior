@@ -1,0 +1,4 @@
+skill_level,skill_range,armor_per_unit,armor_max,description
+0,80,1,30,Tang armor theo so luong
+1,80,2,30,Tang armor theo so luong
+2,80,3,30,Tang armor theo so luong

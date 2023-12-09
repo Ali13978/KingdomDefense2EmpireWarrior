@@ -1,0 +1,191 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e0b868f0eb8093d2d2d51d13f44c756, type: 3}
+  m_Name: "DailyRewardConfig"
+  m_EditorClassIdentifier: 
+  SheetName: "Assets\x2fQuickSheet\x2fGameConfig\x2fDailyReward\x2fDailyRewardConfig.xlsx"
+  WorksheetName: "DailyRewardConfig"
+  dataArray:
+  - id: 0
+    rewardtype: 4
+    rewardid: 2
+    rewardquantity: 1
+    bonustype: 4
+    bonusid: 8
+    bonusquantity: 1
+  - id: 1
+    rewardtype: 4
+    rewardid: 3
+    rewardquantity: 1
+    bonustype: 4
+    bonusid: 5
+    bonusquantity: 1
+  - id: 2
+    rewardtype: 0
+    rewardid: -1
+    rewardquantity: 50
+    bonustype: 4
+    bonusid: 6
+    bonusquantity: 1
+  - id: 3
+    rewardtype: 4
+    rewardid: 0
+    rewardquantity: 1
+    bonustype: 4
+    bonusid: 4
+    bonusquantity: 1
+  - id: 4
+    rewardtype: 0
+    rewardid: -1
+    rewardquantity: 100
+    bonustype: 4
+    bonusid: 7
+    bonusquantity: 1
+  - id: 5
+    rewardtype: 4
+    rewardid: 6
+    rewardquantity: 2
+    bonustype: 0
+    bonusid: -1
+    bonusquantity: 50
+  - id: 6
+    rewardtype: 4
+    rewardid: 7
+    rewardquantity: 4
+    bonustype: 4
+    bonusid: 6
+    bonusquantity: 1
+  - id: 7
+    rewardtype: 0
+    rewardid: -1
+    rewardquantity: 150
+    bonustype: 4
+    bonusid: 8
+    bonusquantity: 1
+  - id: 8
+    rewardtype: 4
+    rewardid: 8
+    rewardquantity: 1
+    bonustype: 4
+    bonusid: 1
+    bonusquantity: 1
+  - id: 9
+    rewardtype: 4
+    rewardid: 2
+    rewardquantity: 2
+    bonustype: 4
+    bonusid: 5
+    bonusquantity: 1
+  - id: 10
+    rewardtype: 0
+    rewardid: -1
+    rewardquantity: 200
+    bonustype: 4
+    bonusid: 7
+    bonusquantity: 1
+  - id: 11
+    rewardtype: 4
+    rewardid: 1
+    rewardquantity: 2
+    bonustype: 4
+    bonusid: 8
+    bonusquantity: 1
+  - id: 12
+    rewardtype: 4
+    rewardid: 6
+    rewardquantity: 5
+    bonustype: 4
+    bonusid: 3
+    bonusquantity: 2
+  - id: 13
+    rewardtype: 4
+    rewardid: 7
+    rewardquantity: 10
+    bonustype: 4
+    bonusid: 6
+    bonusquantity: 3
+  - id: 0
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 0
+    bonustype: 0
+    bonusid: 0
+    bonusquantity: 0
+  - id: 0
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 0
+    bonustype: 0
+    bonusid: 0
+    bonusquantity: 0
+  - id: 0
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 0
+    bonustype: 0
+    bonusid: 0
+    bonusquantity: 0
+  - id: 0
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 0
+    bonustype: 0
+    bonusid: 0
+    bonusquantity: 0
+  - id: 0
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 0
+    bonustype: 0
+    bonusid: 0
+    bonusquantity: 0
+  - id: 0
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 0
+    bonustype: 0
+    bonusid: 0
+    bonusquantity: 0
+  - id: 0
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 0
+    bonustype: 0
+    bonusid: 0
+    bonusquantity: 0
+  - id: 0
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 0
+    bonustype: 0
+    bonusid: 0
+    bonusquantity: 0
+  - id: 0
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 0
+    bonustype: 0
+    bonusid: 0
+    bonusquantity: 0
+  - id: 0
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 0
+    bonustype: 0
+    bonusid: 0
+    bonusquantity: 0
+  - id: 0
+    rewardtype: 0
+    rewardid: 0
+    rewardquantity: 0
+    bonustype: 0
+    bonusid: 0
+    bonusquantity: 0

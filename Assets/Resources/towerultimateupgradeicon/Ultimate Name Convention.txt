@@ -1,0 +1,4 @@
+ultimate_{towerID}_{ultimate branch}_{ultimate index}
+
+ultimate_0_0_0:
+- ultimate cua tru ID 0, theo nhanh 4.1, ulti so 1

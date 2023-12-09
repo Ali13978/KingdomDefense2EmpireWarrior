@@ -1,0 +1,4 @@
+skill_level,chance_to_cast,skill_range,physics_damage,magic_damage,cooldown_time,description
+0,30,70,30,0,27000,Gay damage enemy trong 1 ban kinh.
+1,40,70,40,0,26000,Gay damage enemy trong 1 ban kinh.
+2,50,70,55,0,25000,Gay damage enemy trong 1 ban kinh.

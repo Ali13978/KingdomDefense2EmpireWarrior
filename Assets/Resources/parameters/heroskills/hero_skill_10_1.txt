@@ -1,0 +1,4 @@
+skill_level,skill_range,magic_damage,def_down_duration,def_down_percent,cooldown_time,
+0,70,80,2000,15,30000,"Metal wing: deal dam len 1 vung, va gay def down len quai"
+1,70,100,3000,20,30000,
+2,70,140,4000,35,32000,

@@ -1,0 +1,10 @@
+item_id,item_name,item_description
+0,Frost Gem,Freezes all enemies on the entire map.
+1,Meteor Call,"Meteor boulders shower down the designated location, dealing massive damage to enemies."
+2,Healing Ward,Drop a ward that heals nearby friendly units.
+3,Gold Treasure,Extra gold supply for the army.
+4,Speed Up,Increase all nearby tower's attack speed.
+5,Poison,Toss a gourd full of venom damages enemies.
+6,Reinforcement,Summon a guardian.
+7,Sky Reinforcement, Summon a powerful flying guardian.
+8,Storm,Summon a tornado that push all enemy on the way back to gate.

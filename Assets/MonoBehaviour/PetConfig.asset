@@ -1,0 +1,407 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 883429ef3d1c4e77d8da035c205a0c99, type: 3}
+  m_Name: "PetConfig"
+  m_EditorClassIdentifier: 
+  SheetName: "Assets\x2fQuickSheet\x2fGameConfig\x2fPetSystem\x2fPetConfig.xlsx"
+  WorksheetName: "PetConfig"
+  dataArray:
+  - id: 0
+    petname: "Uboz"
+    atk_cooldown: 2000
+    atk_physics_min: 8
+    atk_physics_max: 14
+    atk_magic_min: 0
+    atk_magic_max: 0
+    atk_range_min: 10
+    atk_range_avg: 65
+    atk_range_max: 65
+    can_attack_air: 0
+    respawn_time: 30000
+    health_regen: 20
+    health_regen_cooldown: 12500
+    health: 60
+    armor_physics: 8
+    armor_magic: 0
+    skillvalues: 14000000
+    speed: 70
+    desc: "PET0_DESC"
+    desc_values: 080000000E0000003C00000014000000
+    is_available: 1
+    price: 3000
+  - id: 1
+    petname: "Sparrow"
+    atk_cooldown: 4000
+    atk_physics_min: 0
+    atk_physics_max: 0
+    atk_magic_min: 0
+    atk_magic_max: 0
+    atk_range_min: 0
+    atk_range_avg: 100
+    atk_range_max: 100
+    can_attack_air: 1
+    respawn_time: 0
+    health_regen: 0
+    health_regen_cooldown: 0
+    health: 1
+    armor_physics: 0
+    armor_magic: 0
+    skillvalues: 90010000983A0000
+    speed: 65
+    desc: "PET1_DESC"
+    desc_values: 00000000
+    is_available: 1
+    price: 2000
+  - id: 2
+    petname: "Leo"
+    atk_cooldown: 4000
+    atk_physics_min: 0
+    atk_physics_max: 0
+    atk_magic_min: 0
+    atk_magic_max: 0
+    atk_range_min: 10
+    atk_range_avg: 65
+    atk_range_max: 65
+    can_attack_air: 0
+    respawn_time: 0
+    health_regen: 0
+    health_regen_cooldown: 0
+    health: 1
+    armor_physics: 0
+    armor_magic: 0
+    skillvalues: 0300000064000000A00F0000
+    speed: 60
+    desc: "PET2_DESC"
+    desc_values: 0300000064000000A00F0000
+    is_available: 1
+    price: 2000
+  - id: 3
+    petname: "Nightwing"
+    atk_cooldown: 3000
+    atk_physics_min: 0
+    atk_physics_max: 0
+    atk_magic_min: 0
+    atk_magic_max: 0
+    atk_range_min: 55
+    atk_range_avg: 65
+    atk_range_max: 65
+    can_attack_air: 1
+    respawn_time: 0
+    health_regen: 0
+    health_regen_cooldown: 0
+    health: 1
+    armor_physics: 0
+    armor_magic: 0
+    skillvalues: 0E000000160000001E0000000F000000B80B0000BE000000
+    speed: 70
+    desc: "PET3_DESC"
+    desc_values: 0E000000160000001E0000000F000000B80B0000BE000000
+    is_available: 1
+    price: 4000
+  - id: 4
+    petname: "Crasher"
+    atk_cooldown: 3000
+    atk_physics_min: 25
+    atk_physics_max: 33
+    atk_magic_min: 0
+    atk_magic_max: 0
+    atk_range_min: 20
+    atk_range_avg: 65
+    atk_range_max: 190
+    can_attack_air: 1
+    respawn_time: 30000
+    health_regen: 20
+    health_regen_cooldown: 10000
+    health: 150
+    armor_physics: 30
+    armor_magic: 0
+    skillvalues: 14000000
+    speed: 40
+    desc: "PET4_DESC"
+    desc_values: 19000000210000009600000014000000
+    is_available: 1
+    price: 4000
+  - id: 5
+    petname: "Bamse"
+    atk_cooldown: 1700
+    atk_physics_min: 15
+    atk_physics_max: 20
+    atk_magic_min: 0
+    atk_magic_max: 0
+    atk_range_min: 15
+    atk_range_avg: 65
+    atk_range_max: 65
+    can_attack_air: 0
+    respawn_time: 30000
+    health_regen: 20
+    health_regen_cooldown: 10000
+    health: 95
+    armor_physics: 10
+    armor_magic: 0
+    skillvalues: 28000000A00F00006400000014000000
+    speed: 70
+    desc: "PET5_DESC"
+    desc_values: 0F000000140000005F00000028000000A00F00006400000014000000
+    is_available: 1
+    price: 4000
+  - id: 6
+    petname: "SnowWolf"
+    atk_cooldown: 4000
+    atk_physics_min: 0
+    atk_physics_max: 0
+    atk_magic_min: 0
+    atk_magic_max: 0
+    atk_range_min: 10
+    atk_range_avg: 65
+    atk_range_max: 65
+    can_attack_air: 0
+    respawn_time: 0
+    health_regen: 0
+    health_regen_cooldown: 0
+    health: 1
+    armor_physics: 0
+    armor_magic: 0
+    skillvalues: 46000000030000001400000007000000
+    speed: 60
+    desc: "PET6_DESC"
+    desc_values: 46000000030000001400000007000000
+    is_available: 1
+    price: 4000
+  - id: 7
+    petname: "Raccoon"
+    atk_cooldown: 2500
+    atk_physics_min: 10
+    atk_physics_max: 18
+    atk_magic_min: 0
+    atk_magic_max: 0
+    atk_range_min: 10
+    atk_range_avg: 65
+    atk_range_max: 65
+    can_attack_air: 0
+    respawn_time: 30000
+    health_regen: 20
+    health_regen_cooldown: 12500
+    health: 400
+    armor_physics: 8
+    armor_magic: 0
+    skillvalues: 
+    speed: 70
+    desc: "PET7_DESC"
+    desc_values: 0A000000120000009001000005000000
+    is_available: 1
+    price: 3000
+  - id: 8
+    petname: "Munmun"
+    atk_cooldown: 1800
+    atk_physics_min: 8
+    atk_physics_max: 14
+    atk_magic_min: 0
+    atk_magic_max: 0
+    atk_range_min: 10
+    atk_range_avg: 65
+    atk_range_max: 65
+    can_attack_air: 0
+    respawn_time: 30000
+    health_regen: 20
+    health_regen_cooldown: 12500
+    health: 90
+    armor_physics: 8
+    armor_magic: 0
+    skillvalues: 030000000A00000014000000
+    speed: 70
+    desc: "PET8_DESC"
+    desc_values: 080000000E0000005A000000030000000A00000014000000
+    is_available: 1
+    price: 4000
+  - id: 9
+    petname: "Rocket Raccoon"
+    atk_cooldown: 2200
+    atk_physics_min: 22
+    atk_physics_max: 30
+    atk_magic_min: 0
+    atk_magic_max: 0
+    atk_range_min: 20
+    atk_range_avg: 65
+    atk_range_max: 190
+    can_attack_air: 1
+    respawn_time: 30000
+    health_regen: 20
+    health_regen_cooldown: 10000
+    health: 100
+    armor_physics: 15
+    armor_magic: 0
+    skillvalues: 140000001E0000003C0000000A000000
+    speed: 40
+    desc: "PET9_DESC"
+    desc_values: 160000001E00000064000000140000001E0000003C0000000A000000
+    is_available: 1
+    price: 4000
+  - id: 10
+    petname: "Baby Dragon"
+    atk_cooldown: 2000
+    atk_physics_min: 0
+    atk_physics_max: 0
+    atk_magic_min: 25
+    atk_magic_max: 33
+    atk_range_min: 10
+    atk_range_avg: 65
+    atk_range_max: 190
+    can_attack_air: 1
+    respawn_time: 30000
+    health_regen: 20
+    health_regen_cooldown: 12500
+    health: 300
+    armor_physics: 8
+    armor_magic: 0
+    skillvalues: 1E00000014000000210000000900000041000000204E0000
+    speed: 70
+    desc: "PET10_DESC"
+    desc_values: 370000001E00000014000000210000000900000041000000204E0000
+    is_available: 1
+    price: 5000
+  - id: 11
+    petname: "Baby Phoenix"
+    atk_cooldown: 4000
+    atk_physics_min: 0
+    atk_physics_max: 0
+    atk_magic_min: 0
+    atk_magic_max: 0
+    atk_range_min: 0
+    atk_range_avg: 100
+    atk_range_max: 100
+    can_attack_air: 1
+    respawn_time: 0
+    health_regen: 0
+    health_regen_cooldown: 0
+    health: 1
+    armor_physics: 0
+    armor_magic: 0
+    skillvalues: 64000000409C0000FA000000140000001900000028000000C8AF0000
+    speed: 65
+    desc: "PET11_DESC"
+    desc_values: 64000000409C0000FA000000140000001900000028000000C8AF0000
+    is_available: 1
+    price: 5000
+  - id: 0
+    petname: 
+    atk_cooldown: 0
+    atk_physics_min: 0
+    atk_physics_max: 0
+    atk_magic_min: 0
+    atk_magic_max: 0
+    atk_range_min: 0
+    atk_range_avg: 0
+    atk_range_max: 0
+    can_attack_air: 0
+    respawn_time: 0
+    health_regen: 0
+    health_regen_cooldown: 0
+    health: 0
+    armor_physics: 0
+    armor_magic: 0
+    skillvalues: 
+    speed: 0
+    desc: 
+    desc_values: 
+    is_available: 0
+    price: 0
+  - id: 0
+    petname: 
+    atk_cooldown: 0
+    atk_physics_min: 0
+    atk_physics_max: 0
+    atk_magic_min: 0
+    atk_magic_max: 0
+    atk_range_min: 0
+    atk_range_avg: 0
+    atk_range_max: 0
+    can_attack_air: 0
+    respawn_time: 0
+    health_regen: 0
+    health_regen_cooldown: 0
+    health: 0
+    armor_physics: 0
+    armor_magic: 0
+    skillvalues: 
+    speed: 0
+    desc: 
+    desc_values: 
+    is_available: 0
+    price: 0
+  - id: 0
+    petname: 
+    atk_cooldown: 0
+    atk_physics_min: 0
+    atk_physics_max: 0
+    atk_magic_min: 0
+    atk_magic_max: 0
+    atk_range_min: 0
+    atk_range_avg: 0
+    atk_range_max: 0
+    can_attack_air: 0
+    respawn_time: 0
+    health_regen: 0
+    health_regen_cooldown: 0
+    health: 0
+    armor_physics: 0
+    armor_magic: 0
+    skillvalues: 
+    speed: 0
+    desc: 
+    desc_values: 
+    is_available: 0
+    price: 0
+  - id: 0
+    petname: 
+    atk_cooldown: 0
+    atk_physics_min: 0
+    atk_physics_max: 0
+    atk_magic_min: 0
+    atk_magic_max: 0
+    atk_range_min: 0
+    atk_range_avg: 0
+    atk_range_max: 0
+    can_attack_air: 0
+    respawn_time: 0
+    health_regen: 0
+    health_regen_cooldown: 0
+    health: 0
+    armor_physics: 0
+    armor_magic: 0
+    skillvalues: 
+    speed: 0
+    desc: 
+    desc_values: 
+    is_available: 0
+    price: 0
+  - id: 0
+    petname: 
+    atk_cooldown: 0
+    atk_physics_min: 0
+    atk_physics_max: 0
+    atk_magic_min: 0
+    atk_magic_max: 0
+    atk_range_min: 0
+    atk_range_avg: 0
+    atk_range_max: 0
+    can_attack_air: 0
+    respawn_time: 0
+    health_regen: 0
+    health_regen_cooldown: 0
+    health: 0
+    armor_physics: 0
+    armor_magic: 0
+    skillvalues: 
+    speed: 0
+    desc: 
+    desc_values: 
+    is_available: 0
+    price: 0

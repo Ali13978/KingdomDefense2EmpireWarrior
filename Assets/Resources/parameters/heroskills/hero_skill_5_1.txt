@@ -1,0 +1,4 @@
+skill_level,bonus_damage,duration,description
+0,10,9999999,Cong them damg moi phat ban
+1,15,9999999,Cong them damg moi phat ban
+2,20,9999999,Cong them damg moi phat ban

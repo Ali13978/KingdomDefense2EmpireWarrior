@@ -1,0 +1,26 @@
+id,level,name,type,short_description,description,unlock_description
+0,0,Łucznik,atak fizyczny,"Atakuj zarówno wrogów naziemnych, jak i powietrznych, zadając obrażenia fizyczne.","Atakuj zarówno wrogów naziemnych, jak i powietrznych, zadając obrażenia fizyczne.",Poziom 1 Łucznika Odblokowany!
+0,1,Łucznik,atak fizyczny,Brązowe strzały pomagają zwiększyć zasięg ataku i zwiększyć obrażenia.,Brązowe strzały pomagają zwiększyć zasięg ataku i zwiększyć obrażenia.,Poziom 2 Łucznika Odblokowany!
+0,2,Łucznik,atak fizyczny,"Wyposaż Łucznika w stalowe strzały, dodatkowo zwiększając obrażenia.","Wyposaż Łucznika w stalowe strzały, dodatkowo zwiększając obrażenia.",Poziom 3  Łucznika Odblokowany!
+0,3,Łucznik,atak fizyczny,"Ulepszenie łuków, zwiększenie szybkości ataku.","Ulepszenie łuków, zwiększenie szybkości ataku.",Poziom 4 Łucznika Odblokowany! @Ostateczne Ulepszenie!
+0,4,Łucznik,atak fizyczny,Srebrne strzały zadające ogromne obrażenia.,Srebrne strzały zadające ogromne obrażenia.,Poziom 5 Łucznika Odblokowany!
+1,0,Piechota,atak fizyczny,"Zwykli wojownicy z ciężką zbroją, która może zablokować drogę wrogom.","Zwykli wojownicy z ciężką zbroją, która może zablokować drogę wrogom.",Poziom 1 Piechoty Odblokowany!
+1,1,Piechota,atak fizyczny,Wyszkoleni wojownicy z brązową zbroją i bronią.,Wyszkoleni wojownicy z brązową zbroją i bronią.,Poziom 2 Piechoty Odblokowany!
+1,2,Piechota,atak fizyczny,Doświadczeni wojownicy ze stalową zbroją i bronią.,Doświadczeni wojownicy ze stalową zbroją i bronią.,Poziom 3 Piechoty Odblokowany!
+1,3,Piechota,atak fizyczny,Starsi wojownicy ze srebrną zbroją i bronią.,Starsi wojownicy ze srebrną zbroją i bronią.,Poziom 4 Piechoty Odblokowany! @Ostateczne Ulepszenie!
+1,4,Piechota,atak fizyczny,"Wojownicy mogą się teraz schować, aby wciągnąć wrogów w zasadzkę, unikając dużych szkód.","Wojownicy mogą się teraz schować, aby wciągnąć wrogów w zasadzkę, unikając dużych szkód.",Poziom 5 Piechoty Odblokowany!
+2,0,Miotacz Kul,atak fizyczny,"Zadaje niewielkie obrażenia AoE, która jest skuteczna na wrogów naziemnych.","Zadaje niewielkie obrażenia AoE, która jest skuteczna na wrogów naziemnych.",Poziom 1 Miotacza Kul Odblokowany!
+2,1,Miotacz Kul,atak fizyczny,"Średnia niewielkie obrażenia AoE, która jest skuteczna na wrogów naziemnych.","Średnia niewielkie obrażenia AoE, która jest skuteczna na wrogów naziemnych.",Poziom 2 Miotacza Kul Odblokowany!
+2,2,Miotacz Kul,atak fizyczny,"Duża niewielkie obrażenia AoE, która jest skuteczna na wrogów naziemnych.","Duża niewielkie obrażenia AoE, która jest skuteczna na wrogów naziemnych.",Poziom 3 Miotacza Kul Odblokowany!
+2,3,Miotacz Kul,atak fizyczny,"Rzuca głazy z lawy na wrogów naziemnych, zadając ogromne obrażenia.","Rzuca głazy z lawy na wrogów naziemnych, zadając ogromne obrażenia.",Poziom 4 Miotacza Kul Odblokowany! @Ostateczne Ulepszenie!
+2,4,Miotacz Kul,atak fizyczny,"Tworzy pole statyczne na danym obszarze, spowalniając wrogów.","Tworzy pole statyczne na danym obszarze, spowalniając wrogów.",Poziom 5 Miotacza Kul Odblokowany!
+3,0,Magiczny Smok,magiczny atak,"Zadaje obrażenia zarówno jednostkom naziemnym, jak i latającym.","Zadaje obrażenia zarówno jednostkom naziemnym, jak i latającym.",Poziom 1 Magicznego Smoka Odblokowany!
+3,1,Magiczny Smok,magiczny atak,"Wystrzeliwuje dodatkową kulę, zadając średnie magiczne obrażenia.","Wystrzeliwuje dodatkową kulę, zadając średnie magiczne obrażenia.",Poziom 2 Magicznego Smoka Odblokowany!
+3,2,Magiczny Smok,magiczny atak,W pełni rozwinięty smok o większej zdolności zadawania obrażeń i zasięgu ataku.,W pełni rozwinięty smok o większej zdolności zadawania obrażeń i zasięgu ataku.,Poziom 3 Magicznego Smoka Odblokowany!
+3,3,Magiczny Smok,magiczny atak,Tysiącletni smok o ogromnej sile i specjalnych umiejętnościach.,Tysiącletni smok o ogromnej sile i specjalnych umiejętnościach.,Poziom 4 Magicznego Smoka Odblokowany! @Ostateczne Ulepszenie!
+3,4,Magiczny Smok,magiczny atak,"Wystrzeliwuje promień lasera w linii prostej, uszkadzając wszystkich wrogów, których dotyka.","Wystrzeliwuje promień lasera w linii prostej, uszkadzając wszystkich wrogów, których dotyka.",Poziom 5 Magicznego Smoka Odblokowany!
+4,0,Ksiądz,Generator Złota,Dostarcza 10 sztuk złota co 10 sekund.,Dostarcza 10 sztuk złota co 10 sekund.,Poziom 1 Księdza Odblokowany!
+4,1,Ksiądz,Generator Złota,Dostarcza 25 sztuk złota co 10 sekund.,Dostarcza 25 sztuk złota co 10 sekund.,Poziom 2 Księdza Odblokowany!
+4,2,Ksiądz,Generator Złota,Dostarcza 35 sztuk złota co 10 sekund.,Dostarcza 35 sztuk złota co 10 sekund.,Poziom 3 Księdza Odblokowany!
+4,3,Ksiądz,Generator Złota,Dostarcza 45 sztuk złota co 10 sekund.,Dostarcza 45 sztuk złota co 10 sekund.,Poziom 4 Księdza Odblokowany! @Ostateczne Ulepszenie!
+4,4,Ksiądz,Generator Złota,Dostarcza 45 sztuk złota co 10 sekund.,Dostarcza 45 sztuk złota co 10 sekund.,Poziom 5 Księdza Odblokowany!

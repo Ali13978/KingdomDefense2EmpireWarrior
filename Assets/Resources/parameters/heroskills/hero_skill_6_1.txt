@@ -1,0 +1,4 @@
+skill_level,percent_attack_damage_bonus,duration,cooldown_time,description
+0,10,2000,40000,Buff cho tat ca allies tren ban do.
+1,15,3000,40000,Buff cho tat ca allies tren ban do.
+2,30,4000,40000,Buff cho tat ca allies tren ban do.
